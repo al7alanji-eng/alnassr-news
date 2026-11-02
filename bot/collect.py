@@ -57,7 +57,7 @@ def run(dry_run: bool = False) -> int:
             print(f"  skip: {'duplicate' if draft.duplicate else 'not relevant'} — {draft.reason}")
             continue
 
-        state.remember(draft.headline)
+        state.remember(f"{draft.headline} — {draft.summary[:220]}")
         image_url = pick_image(item, art)
         tweet = compose(draft.tweet, item.source_name, link, cfg["hashtags"])
         meta = {
