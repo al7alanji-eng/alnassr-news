@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 *.tmp
 .pytest_cache/
+alnassr-news.zip
