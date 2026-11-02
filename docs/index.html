@@ -286,7 +286,7 @@ footer { color: var(--muted); font-size: 13px; text-align: center; padding-block
       ${img ? `<img src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
       <div class="card-body">
         <div class="meta">
-          ${i.tier === "official" ? `<span class="pill official">رسمي</span>` : `<span class="pill">إعلام</span>`}
+          ${i.tier === "official" ? `<span class="pill official">رسمي</span>` : i.tier === "x" ? `<span class="pill">حساب X</span>` : `<span class="pill">إعلام</span>`}
           ${i.kind ? `<span class="pill kind">${esc(i.kind)}</span>` : ""}
           <span>${esc(i.source || "")}</span><span aria-hidden="true">•</span>
           <time datetime="${esc(i.published_at)}" title="${esc(i.published_at)}">${esc(ago(i.published_at))}</time>

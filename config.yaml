@@ -54,12 +54,32 @@ search_queries:
     - "جواو فيليكس النصر"
     - "ساديو ماني النصر"
     - "كومان النصر"
+    # بحث مخصص داخل صحف بعينها
+    - "site:arriyadiyah.com النصر"
+    - "site:aawsat.com النصر"
+    - "site:aawsat.com رونالدو"
   en:
     - "Al Nassr"
     - "Cristiano Ronaldo Al Nassr"
     - "Joao Felix Al Nassr"
     - "Sadio Mane Al Nassr"
     - "Kingsley Coman Al Nassr"
+  es:
+    - "Al Nassr"
+    - "Cristiano Ronaldo Al Nassr"
+    - "João Félix Al Nassr"
+    - "site:marca.com Al Nassr"
+    - "site:marca.com Cristiano Ronaldo"
+
+# ── حسابات X ──────────────────────────────────────────────────
+# البوت يقرأ آخر تغريدات هذي الحسابات (تحتاج مفاتيح X، وX تحاسب على كل تغريدة يقرأها).
+#   quote: true            = ينشر الخبر كاقتباس لتغريدة صاحب الحساب (أوضح في نسب الخبر لصاحبه)
+#   require_keywords: false = لا يشترط ذكر النصر أو اللاعبين بالاسم، وClaude يقرر إذا الخبر يخصهم
+x_accounts:
+  - username: saadlegal2030
+    name: سعد السبيعي
+    quote: true
+    require_keywords: false
 
 # خلاصات RSS مباشرة (اختياري). أضف أي رابط RSS رسمي تعرفه هنا.
 extra_feeds: []
@@ -78,10 +98,10 @@ official_domains:
   - fsfoot.sn
 
 trusted_domains:
-  - arriyadiyah.com
+  - arriyadiyah.com   # صحيفة الرياضية
   - alriyadh.com
   - okaz.com.sa
-  - aawsat.com
+  - aawsat.com        # الشرق الأوسط
   - alarabiya.net
   - alekhbariya.net
   - sabq.org
@@ -101,6 +121,7 @@ trusted_domains:
   - abola.pt
   - ojogo.pt
   - lequipe.fr
+  - marca.com         # ماركا
   - arabnews.com
   - saudigazette.com.sa
   - thenationalnews.com

@@ -22,7 +22,9 @@ def _between(body: str, name: str) -> str | None:
 
 def build_body(*, tweet: str, image_url: str | None, source_name: str, source_url: str, tier: str,
                headline: str, summary: str, kind: str, meta: dict, reason: str = "", rewritten: bool = True) -> str:
-    tier_label = "جهة رسمية" if tier == "official" else "وسيلة إعلام موثوقة"
+    tier_label = {"official": "جهة رسمية", "x": "حساب على X"}.get(tier, "وسيلة إعلام موثوقة")
+    quote_note = "\n> 🔁 ستُنشر كاقتباس لتغريدة المصدر الأصلية، فتظهر صورتها تلقائيًا ولا تُرفع صورة منفصلة.\n" \
+        if meta.get("quote_tweet_id") else ""
     image_block = f"<!-- image:start -->{image_url}<!-- image:end -->\n\n![صورة الخبر]({image_url})" if image_url \
         else "<!-- image:start --><!-- image:end -->\n\nلم أجد صورة مناسبة. تقدر تضيف رابط صورة بين العلامتين فوق."
     note = "" if rewritten else "\n> ⚠️ هذا النص هو العنوان الأصلي بدون إعادة صياغة لأن مفتاح Claude غير مضاف.\n"
@@ -35,7 +37,7 @@ def build_body(*, tweet: str, image_url: str | None, source_name: str, source_ur
 <!-- tweet:end -->
 
 ### 🖼️ الصورة
-{image_block}
+{quote_note}{image_block}
 
 ### 📰 المصدر
 - **الجهة:** {source_name} ({tier_label})
@@ -68,7 +70,7 @@ def parse_body(body: str) -> dict:
 
 
 def issue_title(headline: str, tier: str) -> str:
-    prefix = "🟡 رسمي" if tier == "official" else "📰"
+    prefix = {"official": "🟡 رسمي", "x": "𝕏"}.get(tier, "📰")
     return f"{prefix} | {headline}"[:200]
 
 

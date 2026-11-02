@@ -43,11 +43,13 @@ def upload_image(data: bytes, mime: str = "image/jpeg") -> str:
     raise XError(f"فشل رفع الصورة: {r.status_code} {r.text[:200]} | {r2.status_code} {r2.text[:200]}")
 
 
-def create_post(text: str, media_id: str | None = None) -> str:
-    """Create the post and return its URL."""
+def create_post(text: str, media_id: str | None = None, quote_tweet_id: str | None = None) -> str:
+    """Create the post (optionally quoting another post) and return its URL."""
     s = _session()
     payload: dict = {"text": text}
-    if media_id:
+    if quote_tweet_id:
+        payload["quote_tweet_id"] = str(quote_tweet_id)
+    elif media_id:
         payload["media"] = {"media_ids": [media_id]}
     r = s.post(f"{API}/2/tweets", json=payload, timeout=30)
     if r.status_code not in (200, 201):

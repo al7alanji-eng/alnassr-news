@@ -38,6 +38,8 @@ class State:
         self.titles: dict[str, float] = data.get("titles", {})
         self.recent: list[dict] = data.get("recent", [])
         self.last_run: float = data.get("last_run", 0)
+        self.x_user_ids: dict[str, str] = data.get("x_user_ids", {})
+        self.x_since_ids: dict[str, str] = data.get("x_since_ids", {})
 
     def is_seen(self, item_id: str, title_key: str) -> bool:
         return item_id in self.seen or title_key in self.titles
@@ -60,7 +62,8 @@ class State:
         self.seen = {k: v for k, v in self.seen.items() if v > cutoff}
         self.titles = {k: v for k, v in self.titles.items() if v > cutoff}
         self.last_run = time.time()
-        _write(self.path, {"last_run": self.last_run, "seen": self.seen, "titles": self.titles, "recent": self.recent})
+        _write(self.path, {"last_run": self.last_run, "seen": self.seen, "titles": self.titles, "recent": self.recent,
+                           "x_user_ids": self.x_user_ids, "x_since_ids": self.x_since_ids})
 
 
 def load_feed(path: Path = FEED_FILE) -> dict:

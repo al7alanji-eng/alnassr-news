@@ -18,16 +18,17 @@ from .store import add_to_feed
 from .tweet import MAX_WEIGHT, weighted_length
 
 
-def post_to_x(tweet: str, image_url: str | None) -> str:
-    """Upload the image (if any) and create the post. Returns the post URL."""
+def post_to_x(tweet: str, image_url: str | None, quote_tweet_id: str | None = None) -> str:
+    """Upload the image (if any) and create the post. Returns the post URL.
+    A quote post shows the original post's media, so no image is uploaded then."""
     media_id = None
-    if image_url:
+    if image_url and not quote_tweet_id:
         img = download_image(image_url)
         if img:
             media_id = x_client.upload_image(*img)
         else:
             print(f"  ! image could not be downloaded, posting without it: {image_url}")
-    return x_client.create_post(tweet, media_id)
+    return x_client.create_post(tweet, media_id, quote_tweet_id)
 
 
 def publish_issue(gh: GitHub, number: int) -> bool:
@@ -45,7 +46,7 @@ def publish_issue(gh: GitHub, number: int) -> bool:
         length = weighted_length(draft["tweet"])
         if length > MAX_WEIGHT:
             raise ValueError(f"التغريدة طويلة ({length} من {MAX_WEIGHT}). اختصرها وأعد الموافقة.")
-        post_url = post_to_x(draft["tweet"], draft["image_url"])
+        post_url = post_to_x(draft["tweet"], draft["image_url"], draft["meta"].get("quote_tweet_id"))
     except (ValueError, x_client.XError) as exc:
         gh.comment(number, f"❌ ما قدرت أنشر.\n\n**السبب:** {exc}\n\nبعد ما تصلح المشكلة، شيل وسم `approved` وأضفه مرة ثانية، أو اكتب `/publish`.")
         gh.remove_label(number, "approved")

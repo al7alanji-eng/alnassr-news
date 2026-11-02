@@ -25,7 +25,8 @@ class Item:
     description: str = ""
     image_hint: str | None = None  # thumbnail supplied by the feed
     feed: str = ""
-    tier: str = ""  # "official" | "trusted"
+    tier: str = ""  # "official" | "trusted" | "x"
+    quote_tweet_id: str | None = None  # set for items that come from an X account
     subjects: list[str] = field(default_factory=list)
 
     @property
@@ -110,15 +111,17 @@ def _entry_ts(entry) -> float:
 
 # ── feed URLs ────────────────────────────────────────────────────────────
 
+MARKETS = {"ar": ("ar-SA", "ar", "SA"), "en": ("en-US", "en-US", "US"), "es": ("es-ES", "es", "ES")}
+
+
 def bing_url(query: str, lang: str) -> str:
-    market = "ar-SA" if lang == "ar" else "en-US"
+    market = MARKETS.get(lang, MARKETS["en"])[0]
     return f"https://www.bing.com/news/search?q={quote_plus(query)}&format=rss&mkt={market}&qft=sortbydate%3d%221%22"
 
 
 def google_url(query: str, lang: str) -> str:
-    if lang == "ar":
-        return f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&hl=ar&gl=SA&ceid=SA:ar"
-    return f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&hl=en-US&gl=US&ceid=US:en"
+    _, hl, gl = MARKETS.get(lang, MARKETS["en"])
+    return f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&hl={hl}&gl={gl}&ceid={gl}:{hl.split('-')[0]}"
 
 
 def feed_urls(cfg: dict) -> list[tuple[str, str]]:

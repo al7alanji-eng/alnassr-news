@@ -98,3 +98,42 @@ def test_compose_and_draft_roundtrip():
     edited = body.replace("https://img.example/a.jpg<!-- image:end -->", "<!-- image:end -->").replace("يفوز", "يكسب")
     parsed = parse_body(edited)
     assert parsed["image_url"] is None and "يكسب" in parsed["tweet"]
+
+
+def test_new_sources_in_config():
+    cfg = load_config()
+    from bot.sources import feed_urls
+    urls = [u for _, u in feed_urls(cfg)]
+    assert any("site%3Amarca.com" in u and "mkt=es-ES" in u for u in urls)
+    assert any("site%3Amarca.com" in u and "hl=es&gl=ES&ceid=ES:es" in u for u in urls)
+    assert any("site%3Aarriyadiyah.com" in u for u in urls)
+    assert any("site%3Aaawsat.com" in u for u in urls)
+    assert classify_source("marca.com", cfg) == "trusted"
+    assert any(a["username"] == "saadlegal2030" for a in cfg["x_accounts"])
+
+
+def test_x_timeline_parsing():
+    from datetime import datetime, timezone
+    from bot.x_source import parse_timeline
+    cfg = load_config()
+    now_iso = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    body = {
+        "data": [
+            {"id": "111", "text": "خاص: إدارة الفريق تقترب من حسم صفقة جديدة", "created_at": now_iso,
+             "attachments": {"media_keys": ["m1"]}},
+            {"id": "112", "text": "قصير", "note_tweet": {"text": "نص طويل كامل عن رونالدو"}, "created_at": now_iso},
+            {"id": "100", "text": "قديم", "created_at": "2020-01-01T00:00:00Z"},
+        ],
+        "includes": {"media": [{"media_key": "m1", "type": "photo", "url": "https://pbs.twimg.com/media/a.jpg"}]},
+        "meta": {"newest_id": "112"},
+    }
+    account = {"username": "saadlegal2030", "name": "سعد السبيعي", "quote": True, "require_keywords": False}
+    items = parse_timeline(body, account, cfg)
+    assert [i.quote_tweet_id for i in items] == ["111", "112"]
+    assert items[0].tier == "x" and items[0].source_name == "سعد السبيعي"
+    assert items[0].url == "https://x.com/saadlegal2030/status/111"
+    assert items[0].image_hint == "https://pbs.twimg.com/media/a.jpg?name=large"
+    assert items[1].description == "نص طويل كامل عن رونالدو" and "ronaldo" in items[1].subjects
+    # with keywords required, the post that names no subject is dropped
+    strict = parse_timeline(body, {**account, "require_keywords": True}, cfg)
+    assert [i.quote_tweet_id for i in strict] == ["112"]
