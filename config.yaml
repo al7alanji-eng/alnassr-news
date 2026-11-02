@@ -1,0 +1,106 @@
+# إعدادات بوت أخبار النصر
+# عدّل هذا الملف لتغيير المصادر أو اللاعبين أو أسلوب النشر.
+
+# ── طريقة النشر ──────────────────────────────────────────────
+# false = البوت يجهز مسودة (GitHub Issue) وأنت توافق عليها قبل النشر
+# true  = ينشر على X مباشرة بدون مراجعة
+auto_publish: false
+
+# إضافة رابط الخبر داخل التغريدة.
+# تنبيه: X تحاسب على التغريدة اللي فيها رابط أغلى بكثير (تقريبًا 0.20$ مقابل 0.015$).
+include_link: false
+
+# الوسوم اللي تنضاف لكل تغريدة (اتركها فاضية [] إذا ما تبي)
+hashtags: ["#النصر"]
+
+# ── الذكاء الاصطناعي (إعادة الصياغة) ─────────────────────────
+claude_model: claude-opus-5-5
+# low = أرخص وأسرع، medium = أدق
+claude_effort: low
+
+# ── الجمع ────────────────────────────────────────────────────
+# أقدم خبر يقبله البوت (بالساعات)
+max_age_hours: 12
+# أقصى عدد أخبار جديدة يعالجها في كل دورة
+max_items_per_run: 6
+
+# official_only        = الجهات الرسمية فقط (النادي، الرابطة، الاتحادات، وكالة الأنباء)
+# official_and_trusted = الرسمية + وسائل إعلام موثوقة
+source_mode: official_and_trusted
+
+# ── من نتابع ──────────────────────────────────────────────────
+subjects:
+  alnassr:
+    name: النصر
+    keywords: ["النصر", "Al Nassr", "Al-Nassr", "AlNassr", "Nassr"]
+  ronaldo:
+    name: كريستيانو رونالدو
+    keywords: ["رونالدو", "Ronaldo", "CR7"]
+  felix:
+    name: جواو فيليكس
+    keywords: ["فيليكس", "فليكس", "Félix", "Felix"]
+  mane:
+    name: ساديو ماني
+    keywords: ["ساديو", "ماني", "Mané", "Mane"]
+  coman:
+    name: كينغسلي كومان
+    keywords: ["كومان", "Coman"]
+
+# عبارات البحث في محركات الأخبار
+search_queries:
+  ar:
+    - "نادي النصر"
+    - "النصر رونالدو"
+    - "جواو فيليكس النصر"
+    - "ساديو ماني النصر"
+    - "كومان النصر"
+  en:
+    - "Al Nassr"
+    - "Cristiano Ronaldo Al Nassr"
+    - "Joao Felix Al Nassr"
+    - "Sadio Mane Al Nassr"
+    - "Kingsley Coman Al Nassr"
+
+# خلاصات RSS مباشرة (اختياري). أضف أي رابط RSS رسمي تعرفه هنا.
+extra_feeds: []
+
+# ── المصادر المسموحة ──────────────────────────────────────────
+# أي خبر من موقع غير موجود هنا يتجاهله البوت.
+official_domains:
+  - alnassr.sa
+  - spl.com.sa
+  - saff.com.sa
+  - the-afc.com
+  - spa.gov.sa
+  - fifa.com
+  - fpf.pt
+  - fff.fr
+  - fsfoot.sn
+
+trusted_domains:
+  - arriyadiyah.com
+  - alriyadh.com
+  - okaz.com.sa
+  - aawsat.com
+  - alarabiya.net
+  - alekhbariya.net
+  - sabq.org
+  - kooora.com
+  - btolat.com
+  - yallakora.com
+  - espn.com
+  - goal.com
+  - reuters.com
+  - apnews.com
+  - bbc.com
+  - bbc.co.uk
+  - skysports.com
+  - theathletic.com
+  - nytimes.com
+  - record.pt
+  - abola.pt
+  - ojogo.pt
+  - lequipe.fr
+  - arabnews.com
+  - saudigazette.com.sa
+  - thenationalnews.com

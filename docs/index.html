@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>نبض النصر</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="أخبار نادي النصر ورونالدو وجواو فيليكس وساديو ماني وكومان من المصادر الرسمية، تتحدث تلقائيًا.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap">
+<style>
+/* Layout: a stadium-tunnel masthead in club navy, a sticky player rail, then a single reading column of dispatches. */
+:root {
+  --navy: #0c2550;
+  --navy-ink: #e9eefb;
+  --gold: #f4c20d;
+  --gold-ink: #1d1600;
+  --bg: #f5f6fa;
+  --surface: #ffffff;
+  --fg: #141a2b;
+  --muted: #5b6478;
+  --line: #dde1ec;
+  --official: #0b57d0;
+  --official-bg: #e5edfc;
+  --report-bg: #eef0f4;
+  --live: #1e9e57;
+  --font-display: "Reem Kufi", "Noto Kufi Arabic", "Segoe UI", Tahoma, sans-serif;
+  --font-body: "IBM Plex Sans Arabic", "Noto Sans Arabic", "Segoe UI", Tahoma, sans-serif;
+  --radius: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --navy: #091a3a; --navy-ink: #dfe6f8; --gold: #f6cb2f; --gold-ink: #1d1600;
+    --bg: #0b1120; --surface: #121a2e; --fg: #e8ecf6; --muted: #9aa4bd; --line: #24304b;
+    --official: #8ab4ff; --official-bg: #172a4f; --report-bg: #1b2338; --live: #4cd18a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --navy: #091a3a; --navy-ink: #dfe6f8; --gold: #f6cb2f; --gold-ink: #1d1600;
+  --bg: #0b1120; --surface: #121a2e; --fg: #e8ecf6; --muted: #9aa4bd; --line: #24304b;
+  --official: #8ab4ff; --official-bg: #172a4f; --report-bg: #1b2338; --live: #4cd18a;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 16px; line-height: 1.75;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 10; background: var(--navy);
+}
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; border-radius: 6px; }
+
+.wrap {
+  max-width: 760px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* Masthead */
+.mast { background: var(--navy); color: var(--navy-ink); position: relative; overflow: hidden; }
+.mast::after { /* gold sash, like the kit's chest band */
+  content: ""; position: absolute; inset: auto -10% 0 -10%; height: 7px; background: var(--gold);
+}
+.mast .wrap { padding-block: 28px 30px; display: grid; gap: 10px; }
+.mast-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.crest {
+  width: 46px; height: 46px; border-radius: 50%; background: var(--gold); color: var(--gold-ink);
+  display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 22px;
+  flex: none;
+}
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(30px, 7vw, 42px); line-height: 1.1; margin: 0; }
+.tagline { margin: 0; color: color-mix(in srgb, var(--navy-ink) 78%, transparent); font-size: 15px; text-wrap: balance; }
+.live {
+  display: inline-flex; align-items: center; gap: 8px; font-size: 13px; padding: 4px 12px;
+  border-radius: 999px; background: color-mix(in srgb, var(--navy-ink) 10%, transparent);
+}
+.live i { width: 8px; height: 8px; border-radius: 50%; background: var(--live); box-shadow: 0 0 0 0 var(--live); animation: pulse 2s infinite; }
+.live.stale i { background: #c9a227; animation: none; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--live) 60%, transparent); } 70% { box-shadow: 0 0 0 8px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+
+/* Player rail */
+.rail {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.rail .wrap { padding-block: 12px; display: grid; gap: 10px; }
+.chips { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; display: inline-flex; align-items: center; gap: 8px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--fg);
+  font: 500 14px/1 var(--font-body); padding: 9px 14px; border-radius: 999px;
+}
+.chip b { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--muted); font-size: 12px; }
+.chip[aria-pressed="true"] { background: var(--navy); color: var(--navy-ink); border-color: var(--navy); }
+.chip[aria-pressed="true"] b { color: var(--gold); }
+.search {
+  width: 100%; border: 1px solid var(--line); background: var(--surface); color: var(--fg);
+  border-radius: 10px; padding: 10px 14px; font: 15px var(--font-body);
+}
+
+/* Feed */
+main .wrap { padding-block: 22px 60px; display: grid; gap: 18px; }
+.notice {
+  border: 1px dashed var(--line); border-radius: var(--radius); padding: 12px 16px;
+  color: var(--muted); font-size: 14px; background: var(--surface);
+}
+.day { font-family: var(--font-display); font-size: 15px; color: var(--muted); margin: 10px 0 -6px; letter-spacing: .02em; }
+.card {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  overflow: hidden; display: grid;
+}
+.card.fresh { animation: arrive .6s ease-out; }
+@keyframes arrive { from { transform: translateY(-6px); background: color-mix(in srgb, var(--gold) 18%, var(--surface)); } }
+.card img { width: 100%; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: var(--report-bg); }
+.card-body { padding: 16px 18px 18px; display: grid; gap: 10px; min-width: 0; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.pill { font-size: 12px; font-weight: 600; padding: 2px 10px; border-radius: 999px; background: var(--report-bg); color: var(--muted); }
+.pill.official { background: var(--official-bg); color: var(--official); }
+.pill.kind { background: color-mix(in srgb, var(--gold) 26%, var(--surface)); color: var(--fg); }
+.card h2 { font-family: var(--font-display); font-weight: 700; font-size: 21px; line-height: 1.45; margin: 0; text-wrap: balance; }
+.card p { margin: 0; max-width: 65ch; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-size: 12px; padding: 2px 9px; border-radius: 6px; border: 1px solid var(--line); color: var(--muted); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; padding-top: 4px; }
+.btn {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none; font-size: 14px; font-weight: 600;
+  padding: 8px 14px; border-radius: 9px; border: 1px solid var(--line); background: transparent; color: var(--fg); cursor: pointer;
+}
+.btn.primary { background: var(--navy); color: var(--navy-ink); border-color: var(--navy); }
+.empty { text-align: center; padding: 40px 16px; color: var(--muted); }
+.toast {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  background: var(--gold); color: var(--gold-ink); font-weight: 600; border: 0; border-radius: 999px;
+  padding: 10px 18px; font: 600 14px var(--font-body); cursor: pointer; box-shadow: 0 6px 24px rgba(0,0,0,.18); z-index: 20;
+}
+footer { color: var(--muted); font-size: 13px; text-align: center; padding-block: 0 40px; }
+@media (prefers-reduced-motion: reduce) { .live i, .card.fresh { animation: none; } }
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="wrap">
+    <div class="mast-top">
+      <div class="brand">
+        <div class="crest" aria-hidden="true">ن</div>
+        <h1>نبض النصر</h1>
+      </div>
+      <span class="live" id="live"><i></i><span id="live-text">جارٍ التحميل…</span></span>
+    </div>
+    <p class="tagline">أخبار العالمي ورونالدو وفيليكس وماني وكومان، من المصادر الرسمية أولًا بأول.</p>
+  </div>
+</header>
+
+<nav class="rail" aria-label="تصفية الأخبار">
+  <div class="wrap">
+    <div class="chips" id="chips" role="group"></div>
+    <input class="search" id="search" type="search" placeholder="ابحث في الأخبار…" aria-label="ابحث في الأخبار">
+  </div>
+</nav>
+
+<main>
+  <div class="wrap" id="feed" aria-live="polite"></div>
+</main>
+<footer class="wrap">تتحدث الصفحة تلقائيًا كل دقيقة. كل خبر منسوب لمصدره.</footer>
+<button class="toast" id="toast" hidden></button>
+
+<script>
+(function () {
+  const SUBJECTS = [
+    { key: "all", name: "الكل" },
+    { key: "alnassr", name: "النصر" },
+    { key: "ronaldo", name: "رونالدو" },
+    { key: "felix", name: "فيليكس" },
+    { key: "mane", name: "ماني" },
+    { key: "coman", name: "كومان" },
+    { key: "official", name: "رسمي فقط" },
+  ];
+  const NAMES = Object.fromEntries(SUBJECTS.map(s => [s.key, s.name]));
+  const REFRESH_MS = 60000;
+
+  let items = [];
+  let isSample = false;
+  let checkedAt = null;
+  let filter = (location.hash || "#all").slice(1);
+  if (!NAMES[filter]) filter = "all";
+  let query = "";
+  let knownIds = new Set();
+  let pending = null;
+
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
+
+  const rtf = new Intl.RelativeTimeFormat("ar", { numeric: "auto" });
+  function ago(iso) {
+    const t = Date.parse(iso); if (!t) return "";
+    const s = Math.round((t - Date.now()) / 1000);
+    const abs = Math.abs(s);
+    if (abs < 60) return "الآن";
+    if (abs < 3600) return rtf.format(Math.round(s / 60), "minute");
+    if (abs < 86400) return rtf.format(Math.round(s / 3600), "hour");
+    return rtf.format(Math.round(s / 86400), "day");
+  }
+  const dayFmt = new Intl.DateTimeFormat("ar-SA-u-ca-gregory-nu-arab", { weekday: "long", day: "numeric", month: "long", timeZone: "Asia/Riyadh" });
+
+  async function load(json) {
+    const r = await fetch(json + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }
+
+  async function refresh(initial) {
+    let data;
+    try {
+      data = await load("feed.json");
+      isSample = false;
+      if (!data.items || !data.items.length) { data = await load("sample-feed.json"); isSample = true; }
+    } catch (e) {
+      try { data = await load("sample-feed.json"); isSample = true; } catch (e2) { data = { items: [] }; }
+    }
+    checkedAt = data.checked_at || data.updated_at || null;
+    const next = (data.items || []).slice().sort((a, b) => (b.published_at || "").localeCompare(a.published_at || ""));
+    const newOnes = next.filter(i => !knownIds.has(i.id));
+    if (initial || isSample) {
+      items = next; knownIds = new Set(next.map(i => i.id)); render();
+    } else if (newOnes.length) {
+      pending = next;
+      const t = $("toast");
+      t.textContent = newOnes.length === 1 ? "خبر جديد • اضغط للعرض" : `${newOnes.length} أخبار جديدة • اضغط للعرض`;
+      t.hidden = false;
+    }
+    renderLive();
+  }
+
+  function applyPending() {
+    if (!pending) return;
+    const fresh = new Set(pending.filter(i => !knownIds.has(i.id)).map(i => i.id));
+    items = pending; pending = null; knownIds = new Set(items.map(i => i.id));
+    $("toast").hidden = true;
+    render(fresh);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function renderLive() {
+    const el = $("live"), txt = $("live-text");
+    if (isSample) { el.classList.add("stale"); txt.textContent = "بانتظار أول منشور"; return; }
+    const stale = !checkedAt || Date.now() - Date.parse(checkedAt) > 2 * 3600 * 1000;
+    el.classList.toggle("stale", stale);
+    txt.textContent = checkedAt ? `آخر فحص ${ago(checkedAt)}` : "مباشر";
+  }
+
+  function matches(i) {
+    if (filter === "official" && i.tier !== "official") return false;
+    if (filter !== "all" && filter !== "official" && !(i.subjects || []).includes(filter)) return false;
+    if (query) {
+      const hay = `${i.headline} ${i.summary} ${i.text} ${i.source}`.toLowerCase();
+      if (!hay.includes(query)) return false;
+    }
+    return true;
+  }
+
+  function renderChips() {
+    $("chips").innerHTML = SUBJECTS.map(s => {
+      const n = s.key === "all" ? items.length
+        : s.key === "official" ? items.filter(i => i.tier === "official").length
+        : items.filter(i => (i.subjects || []).includes(s.key)).length;
+      return `<button class="chip" type="button" data-key="${s.key}" aria-pressed="${s.key === filter}">${esc(s.name)} <b>${n.toLocaleString("ar-SA")}</b></button>`;
+    }).join("");
+  }
+
+  function card(i, fresh) {
+    const img = safeUrl(i.image);
+    const post = safeUrl(i.post_url), src = safeUrl(i.source_url);
+    const tags = (i.subjects || []).filter(k => NAMES[k]).map(k => `<span class="tag">${esc(NAMES[k])}</span>`).join("");
+    return `<article class="card${fresh ? " fresh" : ""}">
+      ${img ? `<img src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+      <div class="card-body">
+        <div class="meta">
+          ${i.tier === "official" ? `<span class="pill official">رسمي</span>` : `<span class="pill">إعلام</span>`}
+          ${i.kind ? `<span class="pill kind">${esc(i.kind)}</span>` : ""}
+          <span>${esc(i.source || "")}</span><span aria-hidden="true">•</span>
+          <time datetime="${esc(i.published_at)}" title="${esc(i.published_at)}">${esc(ago(i.published_at))}</time>
+        </div>
+        <h2>${esc(i.headline)}</h2>
+        <p>${esc(i.summary)}</p>
+        ${tags ? `<div class="tags">${tags}</div>` : ""}
+        <div class="actions">
+          ${post ? `<a class="btn primary" href="${esc(post)}" target="_blank" rel="noopener">شاهد على X</a>` : ""}
+          ${src ? `<a class="btn" href="${esc(src)}" target="_blank" rel="noopener">المصدر</a>` : ""}
+          <button class="btn" type="button" data-copy="${esc(i.id)}">انسخ النص</button>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function render(freshIds) {
+    renderChips();
+    const list = items.filter(matches);
+    let html = isSample ? `<div class="notice">هذه أمثلة من أخبار الأيام الأخيرة لتوضيح شكل الصفحة. أول ما ينشر البوت خبرًا تظهر منشوراته هنا بدلها.</div>` : "";
+    if (!list.length) {
+      html += `<div class="empty">ما فيه أخبار ${filter === "all" ? "" : "عن " + esc(NAMES[filter]) + " "}${query ? "تطابق بحثك " : ""}حاليًا.</div>`;
+    }
+    let lastDay = "";
+    for (const i of list) {
+      const d = i.published_at ? dayFmt.format(new Date(i.published_at)) : "";
+      if (d && d !== lastDay) { html += `<h3 class="day">${esc(d)}</h3>`; lastDay = d; }
+      html += card(i, freshIds && freshIds.has(i.id));
+    }
+    $("feed").innerHTML = html;
+  }
+
+  $("chips").addEventListener("click", e => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    filter = b.dataset.key;
+    history.replaceState(null, "", filter === "all" ? location.pathname : "#" + filter);
+    render();
+  });
+  window.addEventListener("hashchange", () => {
+    const k = location.hash.slice(1) || "all";
+    if (NAMES[k] && k !== filter) { filter = k; render(); }
+  });
+  $("search").addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); render(); });
+  $("toast").addEventListener("click", applyPending);
+  $("feed").addEventListener("click", async e => {
+    const b = e.target.closest("[data-copy]"); if (!b) return;
+    const it = items.find(i => i.id === b.dataset.copy); if (!it) return;
+    try { await navigator.clipboard.writeText(it.text || it.summary || ""); b.textContent = "تم النسخ"; }
+    catch (err) { b.textContent = "ما قدرت أنسخ"; }
+    setTimeout(() => { b.textContent = "انسخ النص"; }, 1800);
+  });
+
+  refresh(true);
+  setInterval(() => refresh(false), REFRESH_MS);
+  setInterval(renderLive, 30000);
+})();
+</script>
+</body>
+</html>
