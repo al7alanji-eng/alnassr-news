@@ -44,6 +44,9 @@ def run(dry_run: bool = False) -> int:
     if not dry_run:
         found += collect_x_accounts(cfg, state)
     candidates = [c for c in found if not state.is_seen(c.id, title_key(c.title))]
+    # Priority: official bodies, then the X accounts you follow, then media; newest first within each.
+    rank = {"official": 0, "x": 1}
+    candidates.sort(key=lambda c: (rank.get(c.tier, 2), -c.published_ts))
     print(f"  {len(candidates)} new")
 
     created = 0
