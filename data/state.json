@@ -1,5 +1,5 @@
 {
- "last_run": 1794239697.4076147,
+ "last_run": 1794243568.0197983,
  "seen": {
   "ac1b3eb7b8e38f7f": 1793661141.1076403,
   "1a69ea6e8aef7c0d": 1793661152.3507578,
@@ -495,7 +495,10 @@
   "d57775a09e91e7ca": 1794224272.0368094,
   "72f74516428505d9": 1794228148.3523815,
   "f72549b533abfb78": 1794228149.2624514,
-  "e0e594d5b92a4ca0": 1794236085.4288847
+  "e0e594d5b92a4ca0": 1794236085.4288847,
+  "c63e2b0b5f97bf3d": 1794243564.1178005,
+  "a7f8605f5dfdc2b1": 1794243565.7487185,
+  "8bbcfd05444e2b59": 1794243566.897539
  },
  "titles": {
   "9e4279d5b77b77d4": 1793661141.1076403,
@@ -992,21 +995,12 @@
   "b9752fac30319c59": 1794224272.0368094,
   "5ae0ff76c4c38654": 1794228148.3523815,
   "72e74b85ce1e9d69": 1794228149.2624514,
-  "07fd45ca8f3662aa": 1794236085.4288847
+  "07fd45ca8f3662aa": 1794236085.4288847,
+  "cf37d847514c0fba": 1794243564.1178005,
+  "7ed22a02c421fd02": 1794243565.7487185,
+  "475e4dc125e76eb2": 1794243566.897539
  },
  "recent": [
-  {
-   "h": "Al-Nassr sur le point de prolonger son étoile pour quatre saisons — La direction d'Al-Nassr est tout proche de prolonger le contrat de Nawaf Boushal pour les quatre prochaines saisons, après plusieurs séries de négociations.",
-   "t": 1794144901.5431912
-  },
-  {
-   "h": "رونالدو يقود النصر ضد السد — رونالدو يقود النصر ضد السد عكاظ",
-   "t": 1794147904.1854854
-  },
-  {
-   "h": "Al-Nassr on the verge of tying down its star for four seasons — Al-Nassr on the verge of tying down its star for four seasons Goal.com",
-   "t": 1794147905.7696717
-  },
   {
    "h": "مصادر آسيوية لـ«الشرق الأوسط»: 28 ديسمبر موعداً مقترحاً لمباراة النصر والوصل — كشفت مصادر آسيوية لـ«الشرق الأوسط» أن إدارة المسابقات في الاتحاد الآسيوي لكرة القدم حددت الـ28 من ديسمبر المقبل موعداً مقترحاً لإعادة مباراة النصر والوصل.",
    "t": 1794147907.02041
@@ -1234,6 +1228,18 @@
   {
    "h": "الهلال يتفوق والنصر يلاحق الأرقام القياسية — الهلال يتفوق والنصر يلاحق الأرقام القياسية عكاظ",
    "t": 1794236086.4755292
+  },
+  {
+   "h": "الرابطة تصادق على انفراد «الشرق الأوسط»: الأهلي والنصر 20 نوفمبر — الرابطة تصادق على انفراد «الشرق الأوسط»: الأهلي والنصر 20 نوفمبر الشرق الأوسط",
+   "t": 1794243564.9478757
+  },
+  {
+   "h": "Cristiano Ronaldo retires from Portugal, Lionel Messi becomes first back-to-back MLS golden boot winner — Cristiano Ronaldo retires from Portugal, Lionel Messi becomes first back-to-back MLS golden boot winner ESPN",
+   "t": 1794243566.3539782
+  },
+  {
+   "h": "Al Nassr 'puxa dos galões' para manter João Félix: os milhões em cima da mesa — Clube saudita quer premiar o bom momento do internacional luso com um novo contrato e um aumento salarial de 2,5 milhões de euros por ano ...",
+   "t": 1794243567.3017938
   }
  ],
  "x_user_ids": {
