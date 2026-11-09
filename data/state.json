@@ -1,5 +1,5 @@
 {
- "last_run": 1794246999.7943616,
+ "last_run": 1794250291.0636876,
  "seen": {
   "ac1b3eb7b8e38f7f": 1793661141.1076403,
   "1a69ea6e8aef7c0d": 1793661152.3507578,
@@ -501,7 +501,11 @@
   "8bbcfd05444e2b59": 1794243566.897539,
   "73842247cad9cdca": 1794246994.4752061,
   "5bbff31722607f4f": 1794246996.8390176,
-  "dcac216aadd84ed9": 1794246998.1161997
+  "dcac216aadd84ed9": 1794246998.1161997,
+  "2f5dfbd5da061f35": 1794250285.3802392,
+  "d6fdc9f75dc10e45": 1794250287.491751,
+  "e3c2f7de6b82670c": 1794250288.793659,
+  "d24cf759f6feab02": 1794250290.0272424
  },
  "titles": {
   "9e4279d5b77b77d4": 1793661141.1076403,
@@ -1004,25 +1008,13 @@
   "475e4dc125e76eb2": 1794243566.897539,
   "9b9472360baf0edf": 1794246994.4752061,
   "a4f0ba1d5a95f6b4": 1794246996.8390176,
-  "09f0508496a9b4f4": 1794246998.1161997
+  "09f0508496a9b4f4": 1794246998.1161997,
+  "95f1c1ca3c829ac8": 1794250285.3802392,
+  "c37ef62c7362e22e": 1794250287.491751,
+  "27f78ea73961abe2": 1794250288.793659,
+  "379d5345f0e45547": 1794250290.0272424
  },
  "recent": [
-  {
-   "h": "New kick-off time ignites the rivalry: an eagerly awaited date for the Al-Ahly and Al-Nassr clásico — New kick-off time ignites the rivalry: an eagerly awaited date for the Al-Ahly and Al-Nassr clásico Goal.com",
-   "t": 1794155614.4944603
-  },
-  {
-   "h": "رونالدو سرق فيجو.. وانتهى خلف كاميرا صغيرة — رونالدو سرق فيجو.. وانتهى خلف كاميرا صغيرة صحيفة الرياضية",
-   "t": 1794155615.9680386
-  },
-  {
-   "h": "Nouvelle avancée qui ravive la rivalité : un rendez-vous très attendu pour le clasico entre Al-Ahli et Al-Nassr — Des rapports révèlent la date du match entre Al-Ahli et Al-Nassr dans le cadre de la 9e journée du championnat de la Saudi Pro League ...",
-   "t": 1794155618.243331
-  },
-  {
-   "h": "Nova transmissão acende a rivalidade: data aguardada para o clássico entre Al-Ahly e Al-Nassr — A Liga Saudita Profissional caminha para antecipar a data do confronto adiado entre Al-Ahli e Al-Nassr, válido pela nona rodada do Campeonato Roshn, que passaria a ser disputado durante o mês de ...",
-   "t": 1794155619.672994
-  },
   {
    "h": "Nueva presentación que enciende la rivalidad: cita esperada para el clásico entre Al Ahly y Al Nassr — La Liga Profesional Saudí se encamina a adelantar la fecha del enfrentamiento aplazado entre el Al Ahli y el Al Nassr, correspondiente a la novena jornada de la Roshn Saudi League, para que se dispute ...",
    "t": 1794155622.0396924
@@ -1246,6 +1238,22 @@
   {
    "h": "مواعيد نارية في كأس الملك.. الهلال والأهلي والنصر أمام اختبارات صعبة — مواعيد نارية في كأس الملك.. الهلال والأهلي والنصر أمام اختبارات صعبة Kooora",
    "t": 1794246998.9568734
+  },
+  {
+   "h": "Between Al-Hilal, Al-Nassr, Al-Ahli and Al-Ittihad: who has the toughest schedule? — Between Al-Hilal, Al-Nassr, Al-Ahli and Al-Ittihad: who has the toughest schedule? Goal.com",
+   "t": 1794250286.5331225
+  },
+  {
+   "h": "بين الهلال والنصر والأهلي والاتحاد.. من يمتلك الجدول الأصعب؟ — بين الهلال والنصر والأهلي والاتحاد.. من يمتلك الجدول الأصعب؟ Kooora",
+   "t": 1794250288.061063
+  },
+  {
+   "h": "Entre Al-Hilal, Al-Nassr, Al-Ahli y Al-Ittihad: ¿quién tiene el calendario más difícil? — Entre Al-Hilal, Al-Nassr, Al-Ahli y Al-Ittihad: ¿quién tiene el calendario más difícil? Goal.com",
+   "t": 1794250289.3359814
+  },
+  {
+   "h": "Entre Al-Hilal, Al-Nassr, Al-Ahli et Al-Ittihad : qui a le calendrier le plus difficile ? — Rivalités féroces et bouillonnantes en Saudi Pro League et en Coupe du Serviteur des Deux Saintes Mosquées après l'annonce des matchs tant attendus, de la 13e à la 21e journée ...",
+   "t": 1794250290.4412756
   }
  ],
  "x_user_ids": {
