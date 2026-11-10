@@ -1,11 +1,6 @@
 {
- "last_run": 1794351491.1432166,
+ "last_run": 1794353747.794737,
  "seen": {
-  "72a9a131aff742a1": 1793747695.6442685,
-  "1c5f07890e15caff": 1793747702.731467,
-  "d6f5888e4fbbf5c4": 1793747708.720401,
-  "d122e488259b912c": 1793747712.9258502,
-  "5b24a55e09ad0c8a": 1793747723.6316252,
   "23469fec4e26bd5f": 1793750137.1552298,
   "b25a81f0cdc81f40": 1793750139.8849757,
   "5ab5e4165b51ab51": 1793753517.1748352,
@@ -476,14 +471,13 @@
   "1e15f386a50eba40": 1794345366.6101775,
   "2a1c989eb01c5130": 1794345367.8528032,
   "618ddb003cc8e47e": 1794348799.3644617,
-  "68650747c35e0af7": 1794348804.0930643
+  "68650747c35e0af7": 1794348804.0930643,
+  "65ffe4f8703717c2": 1794353738.1518881,
+  "3d6888c7ec92a912": 1794353740.367743,
+  "0fbc6e0b923fa30a": 1794353743.867175,
+  "6171037a1bdfdcf5": 1794353745.7228105
  },
  "titles": {
-  "20c46b0ffe6a9524": 1793747695.6442685,
-  "39a4ee576eb5934d": 1793747702.731467,
-  "a938c71c338de18b": 1793747708.720401,
-  "a39a30639633580a": 1793747712.9258502,
-  "456dc67f91cd6f77": 1793747723.6316252,
   "40adf28b9a658534": 1793750137.1552298,
   "4fb3254954db595a": 1793750139.8849757,
   "26556cbf041cdfe8": 1793753517.1748352,
@@ -954,25 +948,13 @@
   "613e430b385d9f0e": 1794345366.6101775,
   "69b6edca4e9cc13f": 1794345367.8528032,
   "f715e9e5ee0d5427": 1794348799.3644617,
-  "3375b8cd62c3c79f": 1794348804.0930643
+  "3375b8cd62c3c79f": 1794348804.0930643,
+  "91ffa4de067dd1a0": 1794353738.1518881,
+  "487983b326a93fa4": 1794353740.367743,
+  "8097385bb81e9220": 1794353743.867175,
+  "0be1a2873ce6509c": 1794353745.7228105
  },
  "recent": [
-  {
-   "h": "A private jet rescues Felix from the predicament of the Al-Nassr and Al-Ahli Clasico — A private jet rescues Felix from the predicament of the Al-Nassr and Al-Ahli Clasico Goal.com",
-   "t": 1794263443.5560236
-  },
-  {
-   "h": "كييفو: التقلبات من طبيعة كرة القدم! — قال الروماني كريستيان كييفو، المدير الفني لفريق إنتر ميلان، إن فريقه دائما ما سيمر بتقلبات خلال سير الموسم، مشددا على ضرورة إظهار الفريق لرد فعل بعد خسارته في ديربي ميلانو أمام غريمه التقليدي ميلان.",
-   "t": 1794263444.686094
-  },
-  {
-   "h": "طائرة خاصة تنقذ فيليكس من ورطة كلاسيكو النصر والأهلي — النصر السعودي سيحل أزمة البرتغالي جواو فيليكس خلال الأيام القادمة من أجل حضور كلاسيكو الأهلي في دوري روشن للمحترفين ...",
-   "t": 1794263446.4040415
-  },
-  {
-   "h": "« Qui les a menés à cette situation ? » : un avertissement juridique qui terrifie Al-Nassr au sujet du contrat de Felix — L'avenir de João Félix demeure entouré de grands points d'interrogation, dans un contexte de versions contradictoires concernant la position d'Al-Nassr sur l'activation de la clause de prolongation da ...",
-   "t": 1794263449.4631104
-  },
   {
    "h": "« Qui les a mis dans cette situation ? » : un avertissement juridique qui inquiète Al-Nassr au sujet du contrat de Felix — L'avenir de João Félix reste entouré de grandes interrogations, dans un contexte de versions contradictoires concernant la position d'Al-Nassr sur l'activation de la clause de prolongation dans le con ...",
    "t": 1794263450.3733337
@@ -1196,6 +1178,22 @@
   {
    "h": "بعد غياب 908 أيام.. «الهاتريك» يقتحم سجلّات رونالدو — استعاد النجم البرتغالي كريستيانو رونالدو، مهاجم فريق النصر الأول لكرة القدم، ذاكرة الثلاثيات «الهاتريك»، مساء الخميس في الرياض، بعد انقطاعٍ لنحو عامين ونصف العام. وأحرز رونالدو ثلاثة أهداف خلال الشوط ...",
    "t": 1794348804.699577
+  },
+  {
+   "h": "هل يتحول المستحيل إلى حقيقة: ميول العائلة ليست العامل الوحيد.. \"مغريات عديدة\" قد تقود سالم الدوسري إلى النصر — هل يتحول المستحيل إلى حقيقة: ميول العائلة ليست العامل الوحيد.. \"مغريات عديدة\" قد تقود سالم الدوسري إلى النصر Goal.com",
+   "t": 1794353739.3892217
+  },
+  {
+   "h": "سيدات النصر يستعدن لمشوارهن الآسيوي — سيدات النصر يستعدن لمشوارهن الآسيوي الشرق الأوسط",
+   "t": 1794353742.9125614
+  },
+  {
+   "h": "Cristiano Ronaldo’s iconic SIUUU celebration takes over the WNBA — Cristiano Ronaldo's famous celebration has found its way into the WNBA after a video circulated on November 10, 2026, showing Golden State Valkyries players enthusiastically shouting the Portuguese ...",
+   "t": 1794353744.299316
+  },
+  {
+   "h": "¡El festejo de Cristiano Ronaldo llega a la WNBA! Las jugadoras de Golden State Valkyries hacen el famoso “Siuuu” — El famoso festejo de Cristiano Ronaldo llegó a la WNBA después de que circulara un video, el 10 de noviembre de 2026, en el que varias jugadoras de Golden State Valkyries gritan al unísono el caracter ...",
+   "t": 1794353746.4934268
   }
  ],
  "x_user_ids": {
