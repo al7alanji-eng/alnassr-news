@@ -1,8 +1,6 @@
 {
- "last_run": 1794331920.5041347,
+ "last_run": 1794335157.419615,
  "seen": {
-  "aef68e5a4cd2dc70": 1793727322.1608098,
-  "406e40c6e9aa4dea": 1793727328.0743325,
   "69c2d674ec7aa148": 1793730523.3534324,
   "fd246a33f927bcd7": 1793730536.4363604,
   "8f60fa74079fa442": 1793730540.5249977,
@@ -485,11 +483,12 @@
   "b3d1a70342b4a298": 1794325358.9479508,
   "dabcbc6585441f59": 1794328367.652517,
   "d4249c6a1ed9c65a": 1794331916.7916548,
-  "052023f6ee8fa414": 1794331918.6814666
+  "052023f6ee8fa414": 1794331918.6814666,
+  "2de3f79ee204c2a8": 1794335153.0294387,
+  "7f00728d5a8ea4ee": 1794335154.2854402,
+  "e9808fecb8ad8766": 1794335156.1576033
  },
  "titles": {
-  "2a06ed8ebcf6b5cd": 1793727322.1608098,
-  "e80ad8332f7b659e": 1793727328.0743325,
   "f87a84f921171f8f": 1793730523.3534324,
   "9a4f7a6796375814": 1793730536.4363604,
   "87a3080217908a23": 1793730540.5249977,
@@ -972,21 +971,12 @@
   "32691bbe0707b590": 1794325358.9479508,
   "eeb0748f6bffa2c9": 1794328367.652517,
   "e8354eb4e2302252": 1794331916.7916548,
-  "097c243226c41e22": 1794331918.6814666
+  "097c243226c41e22": 1794331918.6814666,
+  "1f8ba2ef717db6a0": 1794335153.0294387,
+  "3ffc3bc72feadeca": 1794335154.2854402,
+  "8d53a3095777e81c": 1794335156.1576033
  },
  "recent": [
-  {
-   "h": "Citas de fuego en la Copa del Rey: Al-Hilal, Al-Ahli y Al-Nassr ante difíciles exámenes — Citas de fuego en la Copa del Rey: Al-Hilal, Al-Ahli y Al-Nassr ante difíciles exámenes Goal.com",
-   "t": 1794246997.4099
-  },
-  {
-   "h": "مواعيد نارية في كأس الملك.. الهلال والأهلي والنصر أمام اختبارات صعبة — مواعيد نارية في كأس الملك.. الهلال والأهلي والنصر أمام اختبارات صعبة Kooora",
-   "t": 1794246998.9568734
-  },
-  {
-   "h": "Between Al-Hilal, Al-Nassr, Al-Ahli and Al-Ittihad: who has the toughest schedule? — Between Al-Hilal, Al-Nassr, Al-Ahli and Al-Ittihad: who has the toughest schedule? Goal.com",
-   "t": 1794250286.5331225
-  },
   {
    "h": "بين الهلال والنصر والأهلي والاتحاد.. من يمتلك الجدول الأصعب؟ — بين الهلال والنصر والأهلي والاتحاد.. من يمتلك الجدول الأصعب؟ Kooora",
    "t": 1794250288.061063
@@ -1214,6 +1204,18 @@
   {
    "h": "رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي — رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي يلاكورة",
    "t": 1794331919.651256
+  },
+  {
+   "h": "من مالديني إلى رونالدو... أبناء النجوم يواصلون كتابة التاريخ — من مالديني إلى رونالدو... أبناء النجوم يواصلون كتابة التاريخ الشرق الأوسط",
+   "t": 1794335153.7650008
+  },
+  {
+   "h": "Apakah Keajaiban Bisa Terjadi? Mantan Pejabat Al Nassr Buka Pintu untuk Merekrut Salem Al-Dawsari — Seorang mantan pejabat klub Al Nassr Arab Saudi melontarkan kejutan yang menggemparkan, setelah mengungkapkan kemungkinan merekrut Salem Al Dawsari, kapten Al Hilal, pada bursa transfer musim panas me ...",
+   "t": 1794335155.0881858
+  },
+  {
+   "h": "Will a miracle happen? Former Al-Nassr official opens the door to signing Salem Al-Dawsari — A former official at Saudi club Al-Nassr dropped a bombshell after revealing the possibility of signing Salem Al-Dawsari, the Al-Hilal captain, during the upcoming summer transfer window.",
+   "t": 1794335156.6776996
   }
  ],
  "x_user_ids": {
