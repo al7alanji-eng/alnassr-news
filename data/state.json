@@ -1,9 +1,6 @@
 {
- "last_run": 1794300102.3579214,
+ "last_run": 1794303503.2363403,
  "seen": {
-  "2071e91ee1c5ee74": 1793695371.9588227,
-  "1006c1908ee66531": 1793698688.8938751,
-  "00dc1682387705d9": 1793698693.0973363,
   "ba1ac3fd29c91b1f": 1793702362.7660553,
   "83db6c0b11ed9543": 1793702372.548598,
   "fce800e67e6a6a0f": 1793702377.3569283,
@@ -483,12 +480,15 @@
   "3c953f7206389d85": 1794280654.4361246,
   "afbeab291a4671e1": 1794280656.8982801,
   "2c23325f096bd3bf": 1794284674.7720525,
-  "cd9f9fc7b6d4bb69": 1794291899.684591
+  "cd9f9fc7b6d4bb69": 1794291899.684591,
+  "1eea643fe5978096": 1794303485.950177,
+  "b0c058d007661342": 1794303492.3599782,
+  "3354cda9e57476f5": 1794303497.2856724,
+  "d75cf0d034e6860c": 1794303498.9541829,
+  "7b87c6270b11c987": 1794303501.012168,
+  "0a44ae14ef069aca": 1794303502.424826
  },
  "titles": {
-  "e1375539d257c20b": 1793695371.9588227,
-  "2e4d77359ba0a563": 1793698688.8938751,
-  "20df7d379b3a0674": 1793698693.0973363,
   "ef486548e326268c": 1793702362.7660553,
   "3cf7710892b0d216": 1793702372.548598,
   "36ad32a2d7383f4b": 1793702377.3569283,
@@ -968,33 +968,15 @@
   "d908c93d390a2dff": 1794280654.4361246,
   "07c86329353283ff": 1794280656.8982801,
   "700bc8135616dddc": 1794284674.7720525,
-  "a628b588451382d7": 1794291899.684591
+  "a628b588451382d7": 1794291899.684591,
+  "2500eb55fd2c10b0": 1794303485.950177,
+  "f5ca989dcc3de4c3": 1794303492.3599782,
+  "3347ff3c0c489bd2": 1794303497.2856724,
+  "f33bdc4562273411": 1794303498.9541829,
+  "d350e010bbfad04c": 1794303501.012168,
+  "cf43534622b6210f": 1794303502.424826
  },
  "recent": [
-  {
-   "h": "وليد الفراج يعلنها: غياب محتمل يصدم الأهلي والنصر قبل الكلاسيكو — وليد الفراج يعلنها: غياب محتمل يصدم الأهلي والنصر قبل الكلاسيكو Kooora",
-   "t": 1794179842.1969903
-  },
-  {
-   "h": "Walid Al-Faraj announces it: a possible absence that shocks Al-Ahli and Al-Nassr before the clasico — Walid Al-Faraj announces it: a possible absence that shocks Al-Ahli and Al-Nassr before the clasico Goal.com",
-   "t": 1794179843.2746513
-  },
-  {
-   "h": "بعد أنباء الهلال وبرشلونة: تفاصيل بند تجديد جواو فيليكس مع النصر .. \"ليس تلقائيًا و3 شروط لتفعيله\" — بعد أنباء الهلال وبرشلونة: تفاصيل بند تجديد جواو فيليكس مع النصر .. \"ليس تلقائيًا و3 شروط لتفعيله\" Goal.com",
-   "t": 1794179844.2551048
-  },
-  {
-   "h": "Hormiga González marca su primer gol en la Super Liga de Grecia y festeja al estilo de CR7: Resumen Olympiacos vs Paok — Hormiga González marca su primer gol en la Super Liga de Grecia y festeja al estilo de CR7: Resumen Olympiacos vs Paok MARCA",
-   "t": 1794179845.6628413
-  },
-  {
-   "h": "Penampilan baru memanaskan persaingan: jadwal dinanti untuk el clasico Al Ahli dan Al Nassr — Liga Sepak Bola Profesional Saudi berencana memajukan jadwal laga tunda antara Al Ahli dan Al Nassr, dalam pekan kesembilan Liga Roshn, agar dapat digelar pada bulan November ini, menggantikan jadwal ...",
-   "t": 1794179846.7503693
-  },
-  {
-   "h": "Al-Nassr threatens to lose Al-Aqidi: Al-Ahli awaits the golden opportunity — Al-Nassr threatens to lose Al-Aqidi: Al-Ahli awaits the golden opportunity Goal.com",
-   "t": 1794191328.6029985
-  },
   {
    "h": "كيفية الحصول على تذاكر مباراة النصر والسد: أسعار التذاكر في دوري أبطال آسيا للنخبة، ومعلومات المباراة، وبيع التذاكر في اللحظات الأخيرة والمزيد — كيفية الحصول على تذاكر مباراة النصر والسد: أسعار التذاكر في دوري أبطال آسيا للنخبة، ومعلومات المباراة، وبيع التذاكر في اللحظات الأخيرة والمزيد Goal.com",
    "t": 1794212611.3869407
@@ -1210,6 +1192,30 @@
   {
    "h": "Fiery fixtures in the King's Cup: Al-Hilal, Al-Ahli and Al-Nassr face tough tests — Fiery fixtures in the King's Cup: Al-Hilal, Al-Ahli and Al-Nassr face tough tests Goal.com",
    "t": 1794291901.1657507
+  },
+  {
+   "h": "Al Taawoun - Al Nassr — Al Taawoun - Al Nassr spl.com.sa",
+   "t": 1794303491.6239574
+  },
+  {
+   "h": "Al Fayha - Al Nassr — Al Fayha - Al Nassr spl.com.sa",
+   "t": 1794303496.8343394
+  },
+  {
+   "h": "La incertidumbre inquieta al Al-Ahli antes del choque ante el Al-Nassr: ¿se marchará Posecki? — La incertidumbre inquieta al Al-Ahli antes del choque ante el Al-Nassr: ¿se marchará Posecki? Goal.com",
+   "t": 1794303498.12849
+  },
+  {
+   "h": "Uncertainty unsettles Al-Ahly before the clash with Al-Nassr: will Posecnik leave? — Uncertainty unsettles Al-Ahly before the clash with Al-Nassr: will Posecnik leave? Goal.com",
+   "t": 1794303500.443503
+  },
+  {
+   "h": "Uncertainty rattles Al-Ahly before the Al-Nassr clash: will Posecic leave? — Uncertainty rattles Al-Ahly before the Al-Nassr clash: will Posecic leave? Goal.com",
+   "t": 1794303501.8790529
+  },
+  {
+   "h": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa — El futuro de Joao Félix podría seguir ligado al fútbol saudí durante más tiempo del previsto. El Al Nassr está muy satisfecho con el rendimiento del atacante portugués y ya ha comenzado a trabajar en ...",
+   "t": 1794303502.6312685
   }
  ],
  "x_user_ids": {
