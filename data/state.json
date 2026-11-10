@@ -1,8 +1,6 @@
 {
- "last_run": 1794325360.8729475,
+ "last_run": 1794328369.2576053,
  "seen": {
-  "29a7e3c25b9580af": 1793720687.2003274,
-  "bae8d862f007a3fc": 1793720696.256661,
   "3fdc32381e8c5dd0": 1793723820.158702,
   "ac2be9ede331b1b0": 1793723824.651749,
   "c8b1e653a25fdf72": 1793723835.1341498,
@@ -487,11 +485,10 @@
   "d74eb35eaa8bfcac": 1794322246.3344526,
   "7e4c748ef17a48e4": 1794322248.2605088,
   "75eb97a0df5bf5ed": 1794325357.0194826,
-  "b3d1a70342b4a298": 1794325358.9479508
+  "b3d1a70342b4a298": 1794325358.9479508,
+  "dabcbc6585441f59": 1794328367.652517
  },
  "titles": {
-  "21c70aa79060d5a4": 1793720687.2003274,
-  "f12ebba5027d72be": 1793720696.256661,
   "2943ccfcef0551a9": 1793723820.158702,
   "9b7ecac6a0bf73aa": 1793723824.651749,
   "975cea9438b95611": 1793723835.1341498,
@@ -976,13 +973,10 @@
   "5efeae4fbdaf45cd": 1794322246.3344526,
   "66909339f9c0e9c8": 1794322248.2605088,
   "9d5a5e562afa25c2": 1794325357.0194826,
-  "32691bbe0707b590": 1794325358.9479508
+  "32691bbe0707b590": 1794325358.9479508,
+  "eeb0748f6bffa2c9": 1794328367.652517
  },
  "recent": [
-  {
-   "h": "Cristiano Ronaldo retires from Portugal, Lionel Messi becomes first back-to-back MLS golden boot winner — Cristiano Ronaldo retires from Portugal, Lionel Messi becomes first back-to-back MLS golden boot winner ESPN",
-   "t": 1794243566.3539782
-  },
   {
    "h": "Al Nassr 'puxa dos galões' para manter João Félix: os milhões em cima da mesa — Clube saudita quer premiar o bom momento do internacional luso com um novo contrato e um aumento salarial de 2,5 milhões de euros por ano ...",
    "t": 1794243567.3017938
@@ -1218,6 +1212,10 @@
   {
    "h": "Uncertainty unsettles Al-Ahly before the Al-Nassr clash: will Posecnik leave? — Uncertainty unsettles Al-Ahly before the Al-Nassr clash: will Posecnik leave? Goal.com",
    "t": 1794325360.026343
+  },
+  {
+   "h": "Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils — Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils marca usa",
+   "t": 1794328368.5887215
   }
  ],
  "x_user_ids": {
