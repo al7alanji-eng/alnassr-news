@@ -1,9 +1,6 @@
 {
- "last_run": 1794342123.533021,
+ "last_run": 1794345370.009447,
  "seen": {
-  "4b74a52bf4ad5c68": 1793737499.5116436,
-  "401ffec2779fd362": 1793737506.9468215,
-  "618ddb003cc8e47e": 1793737515.6459303,
   "dba0a33c9bbc3cbe": 1793740625.551966,
   "047ff0182d017f41": 1793740629.4611502,
   "1e386e652b252780": 1793740631.908035,
@@ -484,12 +481,14 @@
   "c09dae15fc1a96e9": 1794338945.3379278,
   "97b32546481e67b6": 1794342115.6434686,
   "a774d6146b9f0943": 1794342117.4038396,
-  "cc8f0063d853791e": 1794342118.9739602
+  "cc8f0063d853791e": 1794342118.9739602,
+  "041f63ba72fe5e85": 1794345360.9937475,
+  "34ffe40d4956af32": 1794345363.142661,
+  "6f9e1f0c24781975": 1794345364.9394155,
+  "1e15f386a50eba40": 1794345366.6101775,
+  "2a1c989eb01c5130": 1794345367.8528032
  },
  "titles": {
-  "406b64419f4cf11e": 1793737499.5116436,
-  "e57beeac06e1de21": 1793737506.9468215,
-  "f715e9e5ee0d5427": 1793737515.6459303,
   "dad1ef98b8fa3565": 1793740625.551966,
   "249b7b79c9480a49": 1793740629.4611502,
   "8ec37af93868e40e": 1793740631.908035,
@@ -970,29 +969,14 @@
   "58765a5f003688ab": 1794338945.3379278,
   "5bac22b7ba1d7635": 1794342115.6434686,
   "54627e846365d440": 1794342117.4038396,
-  "75508c1bfa810db9": 1794342118.9739602
+  "75508c1bfa810db9": 1794342118.9739602,
+  "600d25d90992997e": 1794345360.9937475,
+  "de25c039a344c3ec": 1794345363.142661,
+  "9a5cd51e7bf73c25": 1794345364.9394155,
+  "613e430b385d9f0e": 1794345366.6101775,
+  "69b6edca4e9cc13f": 1794345367.8528032
  },
  "recent": [
-  {
-   "h": "A private jet rescues Felix from the predicament of the Al-Nassr v Al-Ahli clasico — A private jet rescues Felix from the predicament of the Al-Nassr v Al-Ahli clasico Goal.com",
-   "t": 1794260673.9199388
-  },
-  {
-   "h": "\"من أوصلهم إلى هذا الحال؟\".. تحذير قانوني يرعب النصر بشأن عقد فيليكس — \"من أوصلهم إلى هذا الحال؟\".. تحذير قانوني يرعب النصر بشأن عقد فيليكس Kooora",
-   "t": 1794260676.318899
-  },
-  {
-   "h": "\"Who brought them to this state?\": a legal warning that terrifies Al-Nassr over Felix's contract — \"Who brought them to this state?\": a legal warning that terrifies Al-Nassr over Felix's contract Goal.com",
-   "t": 1794260678.2278883
-  },
-  {
-   "h": "بعد أزمة كلاسيكو الأهلي .. النصر يتحرك لتأمين مشاركة جواو فيليكس — بعد أزمة كلاسيكو الأهلي .. النصر يتحرك لتأمين مشاركة جواو فيليكس Goal.com",
-   "t": 1794260680.1929543
-  },
-  {
-   "h": "«¿Quién los llevó a esta situación?»: una advertencia legal que aterroriza al Al-Nassr por el contrato de Félix — «¿Quién los llevó a esta situación?»: una advertencia legal que aterroriza al Al-Nassr por el contrato de Félix Goal.com",
-   "t": 1794260682.3480484
-  },
   {
    "h": "Chicharito Hernández se rinde a Cristiano Ronaldo por su retiro con Portugal: “Me quedo con la fortuna de haber aprendido de ti” — Chicharito Hernández se rinde a Cristiano Ronaldo por su retiro con Portugal: “Me quedo con la fortuna de haber aprendido de ti” MARCA",
    "t": 1794260684.1094098
@@ -1212,6 +1196,26 @@
   {
    "h": "هل تحدث المعجزة؟.. مسؤول سابق بالنصر يفتح الباب أمام ضم سالم الدوسري — هل تحدث المعجزة؟.. مسؤول سابق بالنصر يفتح الباب أمام ضم سالم الدوسري Kooora",
    "t": 1794342122.5599554
+  },
+  {
+   "h": "Tras las objeciones: la Liga Roshn revela el secreto del horario del clásico entre Al-Ahli y Al-Nassr — Tras las objeciones: la Liga Roshn revela el secreto del horario del clásico entre Al-Ahli y Al-Nassr Goal.com",
+   "t": 1794345362.1633785
+  },
+  {
+   "h": "الرابطة تحسم الجدل.. حقيقة اعتراض النصر على موعد الكلاسيكو الجديد واشتراط موافقة مدرب الأهلي! — الرابطة تحسم الجدل.. حقيقة اعتراض النصر على موعد الكلاسيكو الجديد واشتراط موافقة مدرب الأهلي! Goal.com",
+   "t": 1794345364.279009
+  },
+  {
+   "h": "مصدر رسمي في الرابطة: الأهلي والنصر متفقان — مصدر رسمي في الرابطة: الأهلي والنصر متفقان صحيفة الرياضية",
+   "t": 1794345365.9332852
+  },
+  {
+   "h": "هل يقبل النصر بموعد جديد مع الوصل؟ — بخصوص تأجيل مباراة النصر والوصل الإماراتي في دوري أبطال آسيا للنخبة يتفق الجميع أن قرار التأجيل غريب، ولا أحد يعرف لماذا اتخذ الاتحاد الآسيوي هذا القرار؟ وما هي الأسباب الجوهرية التي قدمها نادي الوصل ...",
+   "t": 1794345367.1791258
+  },
+  {
+   "h": "Setelah Protes, Liga Roshn Ungkap Rahasia Jadwal Klasiko Al-Ahli dan Al-Nassr — Liga Roshn Saudi mengungkap alasan pemilihan jadwal kontroversial untuk menggelar laga El Clasico yang ditunda antara Al Ahli dan Al Nassr.",
+   "t": 1794345368.9789906
   }
  ],
  "x_user_ids": {
