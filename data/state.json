@@ -1,9 +1,6 @@
 {
- "last_run": 1794328369.2576053,
+ "last_run": 1794331920.5041347,
  "seen": {
-  "3fdc32381e8c5dd0": 1793723820.158702,
-  "ac2be9ede331b1b0": 1793723824.651749,
-  "c8b1e653a25fdf72": 1793723835.1341498,
   "aef68e5a4cd2dc70": 1793727322.1608098,
   "406e40c6e9aa4dea": 1793727328.0743325,
   "69c2d674ec7aa148": 1793730523.3534324,
@@ -486,12 +483,11 @@
   "7e4c748ef17a48e4": 1794322248.2605088,
   "75eb97a0df5bf5ed": 1794325357.0194826,
   "b3d1a70342b4a298": 1794325358.9479508,
-  "dabcbc6585441f59": 1794328367.652517
+  "dabcbc6585441f59": 1794328367.652517,
+  "d4249c6a1ed9c65a": 1794331916.7916548,
+  "052023f6ee8fa414": 1794331918.6814666
  },
  "titles": {
-  "2943ccfcef0551a9": 1793723820.158702,
-  "9b7ecac6a0bf73aa": 1793723824.651749,
-  "975cea9438b95611": 1793723835.1341498,
   "2a06ed8ebcf6b5cd": 1793727322.1608098,
   "e80ad8332f7b659e": 1793727328.0743325,
   "f87a84f921171f8f": 1793730523.3534324,
@@ -974,17 +970,11 @@
   "66909339f9c0e9c8": 1794322248.2605088,
   "9d5a5e562afa25c2": 1794325357.0194826,
   "32691bbe0707b590": 1794325358.9479508,
-  "eeb0748f6bffa2c9": 1794328367.652517
+  "eeb0748f6bffa2c9": 1794328367.652517,
+  "e8354eb4e2302252": 1794331916.7916548,
+  "097c243226c41e22": 1794331918.6814666
  },
  "recent": [
-  {
-   "h": "Al Nassr 'puxa dos galões' para manter João Félix: os milhões em cima da mesa — Clube saudita quer premiar o bom momento do internacional luso com um novo contrato e um aumento salarial de 2,5 milhões de euros por ano ...",
-   "t": 1794243567.3017938
-  },
-  {
-   "h": "اكتمال قوام منتخب ألمانيا استعداداً لمباراتي دوري الأمم — اكتمال قوام منتخب ألمانيا استعداداً لمباراتي دوري الأمم الشرق الأوسط",
-   "t": 1794246996.2639859
-  },
   {
    "h": "Citas de fuego en la Copa del Rey: Al-Hilal, Al-Ahli y Al-Nassr ante difíciles exámenes — Citas de fuego en la Copa del Rey: Al-Hilal, Al-Ahli y Al-Nassr ante difíciles exámenes Goal.com",
    "t": 1794246997.4099
@@ -1216,6 +1206,14 @@
   {
    "h": "Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils — Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils marca usa",
    "t": 1794328368.5887215
+  },
+  {
+   "h": "رونالدو... نهاية مريرة لنجم أسطوري غيَّر وجه البرتغال — رونالدو... نهاية مريرة لنجم أسطوري غيَّر وجه البرتغال الشرق الأوسط",
+   "t": 1794331917.7143533
+  },
+  {
+   "h": "رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي — رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي يلاكورة",
+   "t": 1794331919.651256
   }
  ],
  "x_user_ids": {
