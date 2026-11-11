@@ -1,11 +1,6 @@
 {
- "last_run": 1794401835.0808134,
+ "last_run": 1794406486.576739,
  "seen": {
-  "0c0565b91889dccd": 1793800370.1290417,
-  "8ad9a2236580db31": 1793800376.7580962,
-  "70f6398765261030": 1793800386.8482623,
-  "a409512fd099ee2f": 1793800395.8691611,
-  "bd3b4f92da4fbcca": 1793800402.526124,
   "fa30cbd2a7de89da": 1793803999.1108162,
   "d398b8a37a1de6ab": 1793804005.856954,
   "360611e669a530be": 1793804012.4283664,
@@ -461,14 +456,15 @@
   "637f21851e828baf": 1794401827.485148,
   "d9afbe205a719c76": 1794401828.9070644,
   "152510a3782de3f9": 1794401830.856484,
-  "87d15704afbb7a7f": 1794401833.1063583
+  "87d15704afbb7a7f": 1794401833.1063583,
+  "1c1fcf00c550a070": 1794406477.2184613,
+  "48191439cf799a2b": 1794406478.6368256,
+  "dc251207611adfc0": 1794406480.5178397,
+  "15cf484130745903": 1794406482.020266,
+  "aa5a76d9010f9bfb": 1794406483.7263818,
+  "afe6321d40096d9d": 1794406485.0639267
  },
  "titles": {
-  "2534a1803664d701": 1793800370.1290417,
-  "f06d5c1582ea2b12": 1793800376.7580962,
-  "cc03580059b17656": 1793800386.8482623,
-  "e4f590b559141323": 1793800395.8691611,
-  "e301af093e98c79f": 1793800402.526124,
   "b1214fdc064451c5": 1793803999.1108162,
   "fa560b81187af615": 1793804005.856954,
   "4e652a0c8b8ca1a1": 1793804012.4283664,
@@ -924,33 +920,15 @@
   "485fde8008c0ba6a": 1794401827.485148,
   "c6cb0abff779a2d0": 1794401828.9070644,
   "9eba0b1772f685e4": 1794401830.856484,
-  "b00e8fe1c5cf554a": 1794401833.1063583
+  "b00e8fe1c5cf554a": 1794401833.1063583,
+  "53810c341d8a45b3": 1794406477.2184613,
+  "868b490dd33a51ce": 1794406478.6368256,
+  "4c132dd82ba4cf62": 1794406480.5178397,
+  "4a06cba761f71f51": 1794406482.020266,
+  "d71b233ad5b0d98f": 1794406483.7263818,
+  "b91412d68de3baa7": 1794406485.0639267
  },
  "recent": [
-  {
-   "h": "بانكس يختار تمثيل ألمانيا في المستقبل — بانكس يختار تمثيل ألمانيا في المستقبل الشرق الأوسط",
-   "t": 1794280659.2905521
-  },
-  {
-   "h": "فان دايك يسعى لإفساد بداية كلوب مع ألمانيا — فان دايك يسعى لإفساد بداية كلوب مع ألمانيا الشرق الأوسط",
-   "t": 1794284677.1329362
-  },
-  {
-   "h": "Fiery fixtures in the King's Cup: Al-Hilal, Al-Ahli and Al-Nassr face tough tests — Fiery fixtures in the King's Cup: Al-Hilal, Al-Ahli and Al-Nassr face tough tests Goal.com",
-   "t": 1794291901.1657507
-  },
-  {
-   "h": "Al Taawoun - Al Nassr — Al Taawoun - Al Nassr spl.com.sa",
-   "t": 1794303491.6239574
-  },
-  {
-   "h": "Al Fayha - Al Nassr — Al Fayha - Al Nassr spl.com.sa",
-   "t": 1794303496.8343394
-  },
-  {
-   "h": "La incertidumbre inquieta al Al-Ahli antes del choque ante el Al-Nassr: ¿se marchará Posecki? — La incertidumbre inquieta al Al-Ahli antes del choque ante el Al-Nassr: ¿se marchará Posecki? Goal.com",
-   "t": 1794303498.12849
-  },
   {
    "h": "Uncertainty unsettles Al-Ahly before the clash with Al-Nassr: will Posecnik leave? — Uncertainty unsettles Al-Ahly before the clash with Al-Nassr: will Posecnik leave? Goal.com",
    "t": 1794303500.443503
@@ -1166,6 +1144,30 @@
   {
    "h": "بوسيتش في ورطة.. الإصابات تحاصر الأهلي قبل كلاسيكو النصر — بوسيتش في ورطة.. الإصابات تحاصر الأهلي قبل كلاسيكو النصر Kooora",
    "t": 1794401834.1413357
+  },
+  {
+   "h": "الاتحاد الآسيوي يحدد 27 ديسمبر موعداً لمباراة النصر والوصل في الرياض — الاتحاد الآسيوي يحدد 27 ديسمبر موعداً لمباراة النصر والوصل في الرياض صحيفة سبق الإلكترونية",
+   "t": 1794406477.9313347
+  },
+  {
+   "h": "Will Al-Alami back down from its stance? Officially: the AFC sets a date for the postponed Al-Nassr v Al-Wasl match — Will Al-Alami back down from its stance? Officially: the AFC sets a date for the postponed Al-Nassr v Al-Wasl match Goal.com",
+   "t": 1794406479.63738
+  },
+  {
+   "h": "¿Cederá en su postura el Al-Alami? Oficial: la AFC fija la fecha del partido aplazado entre Al-Nassr y Al-Wasl — ¿Cederá en su postura el Al-Alami? Oficial: la AFC fija la fecha del partido aplazado entre Al-Nassr y Al-Wasl Goal.com",
+   "t": 1794406481.3995473
+  },
+  {
+   "h": "هل يتنازل العالمي عن موقفه؟.. رسميا: الآسيوي يحدد موعد مؤجلة النصر والوصل — هل يتنازل العالمي عن موقفه؟.. رسميا: الآسيوي يحدد موعد مؤجلة النصر والوصل Kooora",
+   "t": 1794406482.8148086
+  },
+  {
+   "h": "«الآسيوي» يحدد موعد مواجهة النصر والوصل — «الآسيوي» يحدد موعد مواجهة النصر والوصل صحيفة الرياضية",
+   "t": 1794406484.3855083
+  },
+  {
+   "h": "Posecki in trouble: injuries besiege Al-Ahli before the clash with Al-Nassr — Posecki in trouble: injuries besiege Al-Ahli before the clash with Al-Nassr Goal.com",
+   "t": 1794406485.9220762
   }
  ],
  "x_user_ids": {
