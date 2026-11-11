@@ -1,9 +1,6 @@
 {
- "last_run": 1794424452.2195382,
+ "last_run": 1794428085.6463501,
  "seen": {
-  "c9f9e3d9e7bdf98d": 1793821943.6803188,
-  "63b725660de08bfd": 1793821953.9636352,
-  "d41bcc6e75bc0fa3": 1793821966.0541081,
   "180e006175ab9769": 1793825263.6965785,
   "588d0971a4c922dc": 1793825271.006075,
   "d7d696ad04fbc957": 1793828661.6509125,
@@ -467,12 +464,15 @@
   "d91ca3e0c23275d8": 1794420288.7348773,
   "e1a0b270a322260e": 1794424445.0617127,
   "846492eb264dca86": 1794424447.5725372,
-  "730068506bf449b0": 1794424450.712942
+  "730068506bf449b0": 1794424450.712942,
+  "e22ff6bc74848420": 1794428075.6856568,
+  "54f58f621d74040a": 1794428077.1760187,
+  "8e9d9976f36e9b94": 1794428078.96238,
+  "2bc00ff1add32153": 1794428080.6507792,
+  "b5d97016d23842bc": 1794428082.6657538,
+  "c4874c179791e214": 1794428084.3083372
  },
  "titles": {
-  "c445c7dbba9e5524": 1793821943.6803188,
-  "b6e167f3de81f243": 1793821953.9636352,
-  "2da7bdcbf8dcce52": 1793821966.0541081,
   "c2dbf6bbdd1db798": 1793825263.6965785,
   "87fdeff7a19da3af": 1793825271.006075,
   "3834b76243dddfe8": 1793828661.6509125,
@@ -936,33 +936,15 @@
   "d757839186c29332": 1794420288.7348773,
   "e332a1b182509e97": 1794424445.0617127,
   "26a9fc33824e5369": 1794424447.5725372,
-  "f6afa04ef8e11010": 1794424450.712942
+  "f6afa04ef8e11010": 1794424450.712942,
+  "4cad6d413ba8596c": 1794428075.6856568,
+  "3714ed101c556225": 1794428077.1760187,
+  "b24609f8bee460e7": 1794428078.96238,
+  "88de4ee9461da5fa": 1794428080.6507792,
+  "534915423248cb76": 1794428082.6657538,
+  "73c79a8136e69dcd": 1794428084.3083372
  },
  "recent": [
-  {
-   "h": "Will a miracle happen? Former Al-Nassr official opens the door to signing Salem Al-Dawsari — A former official at Saudi club Al-Nassr dropped a bombshell after revealing the possibility of signing Salem Al-Dawsari, the Al-Hilal captain, during the upcoming summer transfer window.",
-   "t": 1794335156.6776996
-  },
-  {
-   "h": "العمر كله يابوفيصل ❤️ https://t.co/7OVlBYMHjQ — العمر كله يابوفيصل ❤️ https://t.co/7OVlBYMHjQ",
-   "t": 1794338936.8856866
-  },
-  {
-   "h": "بين مبررات مارينو بوسيتش ومحاولة تحويله إلى \"شماعة\".. أزمة كلاسيكو النصر تكشف خللًا خطيرًا في الأهلي! — بين مبررات مارينو بوسيتش ومحاولة تحويله إلى \"شماعة\".. أزمة كلاسيكو النصر تكشف خللًا خطيرًا في الأهلي! Goal.com",
-   "t": 1794338938.656512
-  },
-  {
-   "h": "ليلة عصيبة لرونالدو تنتهي باستبداله بين الشوطين — ليلة عصيبة لرونالدو تنتهي باستبداله بين الشوطين الشرق الأوسط",
-   "t": 1794338941.9300017
-  },
-  {
-   "h": "Despite calls for his departure: Posecki draws up Al-Ahly's plan before the Clasico — Ahli, has continued mapping out the preparation plan for the eagerly awaited Clasico clash against traditional rivals Al-Nassr in the Roshn League, despite calls for his departure.",
-   "t": 1794338944.632356
-  },
-  {
-   "h": "بين مبررات مارينو بوسيتش ومحاولة تحويله إلى \"شماعة\".. أزمة كلاسيكو النصر تكشف خللًا خطيرًا في ... — لا يمر يوم الآن؛ إلا وتندلع أزمة جديدة في الشارع الرياضي السعودي، بطلها عملاق جدة النادي الأهلي. الأهلي يعيش أزمة فنية وإدارية كبيرة، خلال الموسم الرياضي الحالي 2026-2027؛ وسط تراجع في الأداء والنتائج ...",
-   "t": 1794338946.0328646
-  },
   {
    "h": "من رونالدو الأب إلى جونيور.. حكاية تتكرر في كرة القدم — من رونالدو الأب إلى جونيور.. حكاية تتكرر في كرة القدم صحيفة الرياضية",
    "t": 1794342116.6595116
@@ -1178,6 +1160,30 @@
   {
    "h": "Une déclaration polémique : le frère de João Félix lui demande de quitter Al-Nassr — Hugo, le frère de João Félix, la star d'Al-Nassr, a suscité une vive controverse ces dernières heures, après lui avoir demandé de quitter le club saoudien lors du prochain mercato estival.",
    "t": 1794424451.432524
+  },
+  {
+   "h": "النصر أكثر أندية العالم إنفاقاً على رواتب اللاعبين — النصر أكثر أندية العالم إنفاقاً على رواتب اللاعبين جريدة الرياض",
+   "t": 1794428076.7727385
+  },
+  {
+   "h": "A surprise move: Cristiano Ronaldo breaks into the world of drama with a new series — A surprise move: Cristiano Ronaldo breaks into the world of drama with a new series Goal.com",
+   "t": 1794428078.1695993
+  },
+  {
+   "h": "Movimiento sorpresa: Cristiano Ronaldo irrumpe en el mundo de la ficción con una nueva serie — Movimiento sorpresa: Cristiano Ronaldo irrumpe en el mundo de la ficción con una nueva serie Goal.com",
+   "t": 1794428079.8778222
+  },
+  {
+   "h": "خطوة مفاجئة.. كريستيانو رونالدو يقتحم عالم الدراما بمسلسل جديد — خطوة مفاجئة.. كريستيانو رونالدو يقتحم عالم الدراما بمسلسل جديد Kooora",
+   "t": 1794428081.7326577
+  },
+  {
+   "h": "بعد اعتزاله دوليا.. مفاجأة جديدة من رونالدو لجماهيره: المزيد قادم — بعد اعتزاله دوليا.. مفاجأة جديدة من رونالدو لجماهيره: المزيد قادم يلاكورة",
+   "t": 1794428083.5633044
+  },
+  {
+   "h": "النصر السعودي يتصدر العالم في رواتب اللاعبين متجاوزاً ريال مدريد وبايرن ميونخ — النصر يتصدر الأندية الأعلى إنفاقًا على الرواتب بـ5.62 مليون إسترليني أسبوعيًا، متقدمًا على ريال مدريد وبايرن ميونخ بحسب Salary Sport.",
+   "t": 1794428084.9177077
   }
  ],
  "x_user_ids": {
