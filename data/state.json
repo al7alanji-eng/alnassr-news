@@ -1,7 +1,6 @@
 {
- "last_run": 1794397886.9020567,
+ "last_run": 1794401835.0808134,
  "seen": {
-  "dea8fc0d9f2c67bc": 1793795491.5803883,
   "0c0565b91889dccd": 1793800370.1290417,
   "8ad9a2236580db31": 1793800376.7580962,
   "70f6398765261030": 1793800386.8482623,
@@ -458,10 +457,13 @@
   "0e47060594511699": 1794394467.4883137,
   "f4768ab126ac8a3f": 1794397882.0098693,
   "c2651bd63e867135": 1794397883.6016617,
-  "b4617735170b24fc": 1794397885.8635206
+  "b4617735170b24fc": 1794397885.8635206,
+  "637f21851e828baf": 1794401827.485148,
+  "d9afbe205a719c76": 1794401828.9070644,
+  "152510a3782de3f9": 1794401830.856484,
+  "87d15704afbb7a7f": 1794401833.1063583
  },
  "titles": {
-  "915c284b7d4dac0b": 1793795491.5803883,
   "2534a1803664d701": 1793800370.1290417,
   "f06d5c1582ea2b12": 1793800376.7580962,
   "cc03580059b17656": 1793800386.8482623,
@@ -918,25 +920,13 @@
   "17daa024f2eb2c8a": 1794394467.4883137,
   "d53953c613dd2839": 1794397882.0098693,
   "96de5dfd4cd2354d": 1794397883.6016617,
-  "922641b06305154f": 1794397885.8635206
+  "922641b06305154f": 1794397885.8635206,
+  "485fde8008c0ba6a": 1794401827.485148,
+  "c6cb0abff779a2d0": 1794401828.9070644,
+  "9eba0b1772f685e4": 1794401830.856484,
+  "b00e8fe1c5cf554a": 1794401833.1063583
  },
  "recent": [
-  {
-   "h": "La Hormiga González celebra como CR7 y después protagoniza emotivo inolvidable con una fan del Olympiacos — La Hormiga González celebra como CR7 y después protagoniza emotivo inolvidable con una fan del Olympiacos MARCA",
-   "t": 1794277534.395104
-  },
-  {
-   "h": "ألمانيا تتجه لانتخاب أول رئيسة لها — ألمانيا تتجه لانتخاب أول رئيسة لها الشرق الأوسط",
-   "t": 1794277535.7741446
-  },
-  {
-   "h": "Cristiano Ronaldo reaches 985 career goals with hat trick for Al Nassr — Cristiano Ronaldo reaches 985 career goals with hat trick for Al Nassr ESPN",
-   "t": 1794280653.8360977
-  },
-  {
-   "h": "«¿Quién los llevó a esta situación?»: una advertencia legal que aterroriza al Al Nassr por el contrato de Félix — «¿Quién los llevó a esta situación?»: una advertencia legal que aterroriza al Al Nassr por el contrato de Félix Goal.com",
-   "t": 1794280655.9643152
-  },
   {
    "h": "بانكس يختار تمثيل ألمانيا في المستقبل — بانكس يختار تمثيل ألمانيا في المستقبل الشرق الأوسط",
    "t": 1794280659.2905521
@@ -1160,6 +1150,22 @@
   {
    "h": "ضربات متتالية تربك حسابات الأهلي قبل كلاسيكو النصر — ضربات متتالية تربك حسابات الأهلي قبل كلاسيكو النصر الشرق الأوسط",
    "t": 1794397886.3761184
+  },
+  {
+   "h": "قبل مواجهة الأهلي .. النصر يستعيد سيماكان وكومان — قبل مواجهة الأهلي .. النصر يستعيد سيماكان وكومان عكاظ",
+   "t": 1794401828.3206906
+  },
+  {
+   "h": "Posecki, en apuros: las lesiones acorralan al Ahly antes del clásico ante el Nassr — Posecki, en apuros: las lesiones acorralan al Ahly antes del clásico ante el Nassr Goal.com",
+   "t": 1794401829.94668
+  },
+  {
+   "h": "Posecki in trouble: injuries close in on Al-Ahli before the clash with Al-Nassr — Posecki in trouble: injuries close in on Al-Ahli before the clash with Al-Nassr Goal.com",
+   "t": 1794401832.3430939
+  },
+  {
+   "h": "بوسيتش في ورطة.. الإصابات تحاصر الأهلي قبل كلاسيكو النصر — بوسيتش في ورطة.. الإصابات تحاصر الأهلي قبل كلاسيكو النصر Kooora",
+   "t": 1794401834.1413357
   }
  ],
  "x_user_ids": {
