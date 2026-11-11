@@ -1,8 +1,6 @@
 {
- "last_run": 1794417031.8330622,
+ "last_run": 1794420289.975341,
  "seen": {
-  "fc7250921c25f4cc": 1793814473.552972,
-  "b3dc7120c5cd10dc": 1793814481.5809615,
   "6e5b5dc0260c0d8f": 1793818237.8171327,
   "e2df1cce69041ad1": 1793818245.9568923,
   "b3ae9655dda14682": 1793818250.9552312,
@@ -467,11 +465,14 @@
   "b2fa3b88a1b16a36": 1794417022.5353723,
   "238cffb8427de353": 1794417023.712842,
   "524bede9d06a2383": 1794417027.1933982,
-  "f08028af6c077ff4": 1794417029.2304935
+  "f08028af6c077ff4": 1794417029.2304935,
+  "076ed4f64e097368": 1794420282.7294292,
+  "9114de8675ae1ad1": 1794420284.3961535,
+  "ce35538ed2b9da9f": 1794420285.9308984,
+  "73cd093bac84b6ac": 1794420287.4301841,
+  "d91ca3e0c23275d8": 1794420288.7348773
  },
  "titles": {
-  "846d5fecc41139b4": 1793814473.552972,
-  "0a1255aa870c80f2": 1793814481.5809615,
   "5934807fb62c20a8": 1793818237.8171327,
   "b8ffab0934759120": 1793818245.9568923,
   "541478b3e75b12d6": 1793818250.9552312,
@@ -936,29 +937,14 @@
   "a79a62b05f0e5879": 1794417022.5353723,
   "d6fc9d8977ab868c": 1794417023.712842,
   "0697665d55e9e864": 1794417027.1933982,
-  "22134ac630f8f913": 1794417029.2304935
+  "22134ac630f8f913": 1794417029.2304935,
+  "8628bea17387ec91": 1794420282.7294292,
+  "25f186129f33609f": 1794420284.3961535,
+  "aaebedd87856596e": 1794420285.9308984,
+  "3d62a6b9395a9360": 1794420287.4301841,
+  "d757839186c29332": 1794420288.7348773
  },
  "recent": [
-  {
-   "h": "فان دايك وبروبي يغيبان عن هولندا أمام اليونان وألمانيا — فان دايك وبروبي يغيبان عن هولندا أمام اليونان وألمانيا الشرق الأوسط",
-   "t": 1794322249.4031713
-  },
-  {
-   "h": "شتاء يناير ساخن.. رونالدو وسالم وفيليش وبيرجوين يقتربون من «الحرة» — شتاء يناير ساخن.. رونالدو وسالم وفيليش وبيرجوين يقتربون من «الحرة» صحيفة الرياضية",
-   "t": 1794325358.0968363
-  },
-  {
-   "h": "Uncertainty unsettles Al-Ahly before the Al-Nassr clash: will Posecnik leave? — Uncertainty unsettles Al-Ahly before the Al-Nassr clash: will Posecnik leave? Goal.com",
-   "t": 1794325360.026343
-  },
-  {
-   "h": "Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils — Exentrenador del Manchester United ve a Cristiano Ronaldo dirigiendo a los Red Devils marca usa",
-   "t": 1794328368.5887215
-  },
-  {
-   "h": "رونالدو... نهاية مريرة لنجم أسطوري غيَّر وجه البرتغال — رونالدو... نهاية مريرة لنجم أسطوري غيَّر وجه البرتغال الشرق الأوسط",
-   "t": 1794331917.7143533
-  },
   {
    "h": "رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي — رونالدو وسالم الدوسري بينهم.. 27 لاعبًا يدخلون الفترة الحرة في يناير بالدوري السعودي يلاكورة",
    "t": 1794331919.651256
@@ -1178,6 +1164,26 @@
   {
    "h": "Plus qu'une simple crise : le match face à Al Wasl place Al Nassr dans l'étau d'Al Ahli et d'Al Hilal — La Confédération asiatique de football a placé le club saoudien d'Al-Nassr dans l'embarras, en raison de la crise liée au match face à Al-Wasl des Émirats arabes unis en Ligue des champions d'Asie ...",
    "t": 1794417030.9947488
+  },
+  {
+   "h": "بين أزمة الوصل وديربي الهلال: \"الآسيوي\" في موقف قوي الآن.. فالعبها بذكاء يا النصر ولا تنجر وراء غضبك! — حلقة جديدة من أزمة الجدولة.. والنصر \"بطل الرواية\" هذه المرة \"الجدولة\".. قضية أصبحت الأكثر إثارة للجدل في الشارع الرياضي السعودي، خلال الموسم الرياضي الحالي 2026-2027. نعم؛ الكثير من الأندية السعودية ا ...",
+   "t": 1794420283.6701837
+  },
+  {
+   "h": "A controversial statement: João Félix's brother urges him to leave Al-Nassr — Hugo, the brother of Al-Nassr star Joao Felix, has stirred up controversy in recent hours after calling on him to leave the Saudi club during the upcoming summer transfer window.",
+   "t": 1794420285.0462685
+  },
+  {
+   "h": "Una declaración polémica: el hermano de Joao Félix le pide que abandone el Al-Nassr — Hugo, hermano de Joao Félix, estrella del Al Nassr, desató una ola de polémica en las últimas horas, después de pedirle que abandone el club saudí durante el próximo mercado de fichajes de verano.",
+   "t": 1794420286.4739363
+  },
+  {
+   "h": "Declaração polêmica: irmão de João Félix pede que ele deixe o Al-Nassr — Hugo, irmão de João Félix, astro do Al-Nassr, provocou uma onda de polêmica nas últimas horas, após pedir que ele deixe o clube saudita durante a próxima janela de transferências de verão.",
+   "t": 1794420287.8806648
+  },
+  {
+   "h": "تصريح مثير للجدل.. شقيق جواو فيليكس يطالبه بالرحيل عن النصر — أثار هوجو، شقيق جواو فيليكس نجم النصر، حالة من الجدل في الساعات الأخيرة، بعدما طالبه بالرحيل عن النادي السعودي خلال فترة الانتقالات الصيفية المقبلة.",
+   "t": 1794420289.2294717
   }
  ],
  "x_user_ids": {
