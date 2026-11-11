@@ -1,8 +1,6 @@
 {
- "last_run": 1794437158.3049393,
+ "last_run": 1794440667.1304145,
  "seen": {
-  "1b8efb13bac9ba84": 1793834789.1396265,
-  "8fd22c783545141c": 1793834795.4102612,
   "0a602461963ffc31": 1793841959.3107207,
   "fb900a528508c084": 1793845762.0522397,
   "177b7ba489aee146": 1793845765.5803044,
@@ -464,11 +462,13 @@
   "80b7c2ec8d29a160": 1794437150.4166098,
   "406e40c6e9aa4dea": 1794437152.0974205,
   "4e4aa58ace2e2ea6": 1794437155.1119232,
-  "b01b43bf5cb45cd8": 1794437157.3955746
+  "b01b43bf5cb45cd8": 1794437157.3955746,
+  "a79ced0c1fe292f2": 1794440657.378657,
+  "f02e17f515d14836": 1794440661.433538,
+  "5737d6271b037559": 1794440662.5160573,
+  "13091f3cf71ed0b3": 1794440664.6962862
  },
  "titles": {
-  "2348511da1823f42": 1793834789.1396265,
-  "3fe9768152477a93": 1793834795.4102612,
   "0f2a6ada2149f7be": 1793841959.3107207,
   "375c9aa15698d749": 1793845762.0522397,
   "d41c1fa0f81d5e93": 1793845765.5803044,
@@ -930,25 +930,13 @@
   "f72fb18b33a1e969": 1794437150.4166098,
   "e80ad8332f7b659e": 1794437152.0974205,
   "28954e7308d3f961": 1794437155.1119232,
-  "c445c7dbba9e5524": 1794437157.3955746
+  "c445c7dbba9e5524": 1794437157.3955746,
+  "a20b2e04e65e1ee3": 1794440657.378657,
+  "931fc064b951c058": 1794440661.433538,
+  "598a039a8c593aaa": 1794440662.5160573,
+  "52ec6a2886b23f03": 1794440664.6962862
  },
  "recent": [
-  {
-   "h": "مصدر رسمي في الرابطة: الأهلي والنصر متفقان — مصدر رسمي في الرابطة: الأهلي والنصر متفقان صحيفة الرياضية",
-   "t": 1794345365.9332852
-  },
-  {
-   "h": "هل يقبل النصر بموعد جديد مع الوصل؟ — بخصوص تأجيل مباراة النصر والوصل الإماراتي في دوري أبطال آسيا للنخبة يتفق الجميع أن قرار التأجيل غريب، ولا أحد يعرف لماذا اتخذ الاتحاد الآسيوي هذا القرار؟ وما هي الأسباب الجوهرية التي قدمها نادي الوصل ...",
-   "t": 1794345367.1791258
-  },
-  {
-   "h": "Setelah Protes, Liga Roshn Ungkap Rahasia Jadwal Klasiko Al-Ahli dan Al-Nassr — Liga Roshn Saudi mengungkap alasan pemilihan jadwal kontroversial untuk menggelar laga El Clasico yang ditunda antara Al Ahli dan Al Nassr.",
-   "t": 1794345368.9789906
-  },
-  {
-   "h": "الدوري السعودي يعود على وقع «الهيمنة الخليجية»... ورونالدو تحت الأنظار — الدوري السعودي يعود على وقع «الهيمنة الخليجية»... ورونالدو تحت الأنظار الشرق الأوسط",
-   "t": 1794348802.518608
-  },
   {
    "h": "بعد غياب 908 أيام.. «الهاتريك» يقتحم سجلّات رونالدو — استعاد النجم البرتغالي كريستيانو رونالدو، مهاجم فريق النصر الأول لكرة القدم، ذاكرة الثلاثيات «الهاتريك»، مساء الخميس في الرياض، بعد انقطاعٍ لنحو عامين ونصف العام. وأحرز رونالدو ثلاثة أهداف خلال الشوط ...",
    "t": 1794348804.699577
@@ -1172,6 +1160,22 @@
   {
    "h": "رونالدو يملك القرار... البرتغال تفتح الباب أمام عودة «قائدها التاريخي» — رونالدو يملك القرار... البرتغال تفتح الباب أمام عودة «قائدها التاريخي» الشرق الأوسط",
    "t": 1794437157.9276726
+  },
+  {
+   "h": "كريستيانو رونالدو: هذا الموسم قد يكون «الأخير» — كريستيانو رونالدو: هذا الموسم قد يكون «الأخير» الشرق الأوسط",
+   "t": 1794440660.170444
+  },
+  {
+   "h": "Cristiano Ronaldo anuncia su primera serie de TV — Cristiano Ronaldo ya prepara su vida más allá de los terrenos de juego. El delantero portugués, que acaba de anunciar su adiós definitivo a la selección, desveló a través de sus redes sociales que el ...",
+   "t": 1794440661.9484458
+  },
+  {
+   "h": "Video resurfaces showing prime Cristiano Ronaldo jumping higher than NBA players — A resurfaced video shared by Polymarket Sports on X has renewed attention on Cristiano Ronaldo's extraordinary jumping ability during the peak of his soccer career. The Portuguese superstar became ...",
+   "t": 1794440662.9497986
+  },
+  {
+   "h": "¡Cristiano Ronaldo desafía la gravedad! Reaparece un video de sus increíbles saltos comparados con los de la NBA — Un video compartido nuevamente por Polymarket Sports en X volvió a poner en primer plano la extraordinaria capacidad de salto de Cristiano Ronaldo durante sus mejores años como futbolista. El astro po ...",
+   "t": 1794440665.241447
   }
  ],
  "x_user_ids": {
