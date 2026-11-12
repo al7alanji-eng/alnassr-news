@@ -1,5 +1,5 @@
 {
- "last_run": 1794475818.6161041,
+ "last_run": 1794479670.8592541,
  "seen": {
   "a3f92afc5a8f345a": 1793877954.7356303,
   "3242099b9b10b108": 1793877966.7027874,
@@ -466,7 +466,10 @@
   "8142473e154946a7": 1794455328.944725,
   "4e43ec9373013010": 1794459221.4754891,
   "5cb14ee29cfd7cf5": 1794462957.8147037,
-  "b2a431b992c87992": 1794471995.518059
+  "b2a431b992c87992": 1794471995.518059,
+  "b6109878e02c890d": 1794479664.9997182,
+  "6a45deb942779b91": 1794479667.3425481,
+  "073c763ad6f89071": 1794479669.4796288
  },
  "titles": {
   "1c8688f54d8bcbed": 1793877954.7356303,
@@ -934,21 +937,12 @@
   "a757a3660a7caa78": 1794455328.944725,
   "9342b258b2f17f56": 1794459221.4754891,
   "dcb0906af81f04b2": 1794462957.8147037,
-  "44d9afa85ce78ec7": 1794471995.518059
+  "44d9afa85ce78ec7": 1794471995.518059,
+  "75a225b5c069b913": 1794479664.9997182,
+  "53abfe8cedd5d8b6": 1794479667.3425481,
+  "29289b95bb9d43a6": 1794479669.4796288
  },
  "recent": [
-  {
-   "h": "«سيدات النصر» يودّع «الآسيوية» بفوز كاسح على دوشنبه — «سيدات النصر» يودّع «الآسيوية» بفوز كاسح على دوشنبه الشرق الأوسط",
-   "t": 1794364160.9343479
-  },
-  {
-   "h": "باباس: أتحمل مسؤولية الهزيمة أمام النصر — باباس: أتحمل مسؤولية الهزيمة أمام النصر الشرق الأوسط",
-   "t": 1794364163.6317868
-  },
-  {
-   "h": "Gerrard: \"Lamine Yamal está más avanzado que Cristiano Ronaldo y Messi a la misma edad\" — Gerrard: \"Lamine Yamal está más avanzado que Cristiano Ronaldo y Messi a la misma edad\" MARCA",
-   "t": 1794387301.2784398
-  },
   {
    "h": "تير شتيغن: مكاني في التشكيلة الأساسية لألمانيا بـ«يورو 2028» ليس مضموناً — تير شتيغن: مكاني في التشكيلة الأساسية لألمانيا بـ«يورو 2028» ليس مضموناً الشرق الأوسط",
    "t": 1794394466.9800622
@@ -1176,6 +1170,18 @@
   {
    "h": "\"هذا ما يميز ألفية رونالدو عن بيليه\" .. نجم النصر السابق يرفض تجديد عقد كريستيانو وينتقد ثنائي الفريق! — \"هذا ما يميز ألفية رونالدو عن بيليه\" .. نجم النصر السابق يرفض تجديد عقد كريستيانو وينتقد ثنائي الفريق! Goal.com",
    "t": 1794471996.8968673
+  },
+  {
+   "h": "\"ناتشو في المقدمة\".. الأنباء السعيدة تتوالى على القادسية قبل موقعة النصر — \"ناتشو في المقدمة\".. الأنباء السعيدة تتوالى على القادسية قبل موقعة النصر Kooora",
+   "t": 1794479666.342819
+  },
+  {
+   "h": "« Nacho en première ligne » : les bonnes nouvelles s'enchaînent pour Al-Qadsiah avant le choc contre Al-Nassr — Al-Qadsiah a reçu de bonnes nouvelles avant de disputer des matches importants à l'issue de la trêve internationale en cours, notamment face à Al-Nassr en Saudi Pro League.",
+   "t": 1794479668.569358
+  },
+  {
+   "h": "\"Nacho al frente\": las buenas noticias se suceden para el Al-Qadisiyah antes del duelo ante el Al-Nassr — El Al-Qadsiah recibió buenas noticias antes de disputar partidos importantes tras el final del actual parón internacional, el más destacado ante el Al-Nassr en la Roshn Saudi League.",
+   "t": 1794479670.1075597
   }
  ],
  "x_user_ids": {
