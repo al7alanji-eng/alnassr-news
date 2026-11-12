@@ -1,5 +1,5 @@
 {
- "last_run": 1794498908.3105412,
+ "last_run": 1794502584.5716462,
  "seen": {
   "97b7ece664ac291a": 1793898175.9298363,
   "4b85190b4d6bac86": 1793898185.8531227,
@@ -452,7 +452,13 @@
   "8dfab148d9030764": 1794495229.449653,
   "3fc093229223cb68": 1794495230.9414616,
   "169564bbca9c4d62": 1794495233.8851905,
-  "d398b8a37a1de6ab": 1794498904.9080477
+  "d398b8a37a1de6ab": 1794498904.9080477,
+  "5171b8bbd42204e2": 1794502570.773298,
+  "250c0a4ce9cc8598": 1794502573.7636316,
+  "1e79604fb316fe15": 1794502574.3316143,
+  "198bb2773a37c517": 1794502576.2788057,
+  "5771421c27322428": 1794502579.9634573,
+  "7bd1933813635159": 1794502582.6920602
  },
  "titles": {
   "03433d7afd6a0067": 1793898175.9298363,
@@ -906,33 +912,15 @@
   "0d9be14297f12b6d": 1794495229.449653,
   "c2c559b46bbe9752": 1794495230.9414616,
   "13ac7987b8cd19f9": 1794495233.8851905,
-  "fa560b81187af615": 1794498904.9080477
+  "fa560b81187af615": 1794498904.9080477,
+  "c3f5f6caf394bd71": 1794502570.773298,
+  "d06479ca54c6d3de": 1794502573.7636316,
+  "480adcc504ac79e1": 1794502574.3316143,
+  "cd41f657e0ad31e0": 1794502576.2788057,
+  "02fcea4615c3e40e": 1794502579.9634573,
+  "bfb91daf46bbaa37": 1794502582.6920602
  },
  "recent": [
-  {
-   "h": "«الآسيوي» يحدد موعد مواجهة النصر والوصل — «الآسيوي» يحدد موعد مواجهة النصر والوصل صحيفة الرياضية",
-   "t": 1794406484.3855083
-  },
-  {
-   "h": "Posecki in trouble: injuries besiege Al-Ahli before the clash with Al-Nassr — Posecki in trouble: injuries besiege Al-Ahli before the clash with Al-Nassr Goal.com",
-   "t": 1794406485.9220762
-  },
-  {
-   "h": "\"Lamine Yamal está más avanzado que Cristiano Ronaldo y Messi a la misma edad\" — \"Lamine Yamal está más avanzado que Cristiano Ronaldo y Messi a la misma edad\" marca usa",
-   "t": 1794409893.3160825
-  },
-  {
-   "h": "Postponement of the Asian Cup saved him: date set for Nawaf Al-Aqidi's return to Al-Nassr — Postponement of the Asian Cup saved him: date set for Nawaf Al-Aqidi's return to Al-Nassr Goal.com",
-   "t": 1794413096.4521518
-  },
-  {
-   "h": "El aplazamiento de la Copa Asiática lo salvó: fijada la fecha del regreso de Nawaf Al-Aqidi al Al-Nassr — El aplazamiento de la Copa Asiática lo salvó: fijada la fecha del regreso de Nawaf Al-Aqidi al Al-Nassr Goal.com",
-   "t": 1794413098.6198096
-  },
-  {
-   "h": "Más que una simple crisis: el partido ante Al Wasl coloca al Al Nassr entre las fauces del Al Ahli y el Al Hilal — Más que una simple crisis: el partido ante Al Wasl coloca al Al Nassr entre las fauces del Al Ahli y el Al Hilal Goal.com",
-   "t": 1794413100.5100176
-  },
   {
    "h": "More than just a crisis: the Al-Wasl match puts Al-Nassr between the jaws of Al-Ahli and Al-Hilal — More than just a crisis: the Al-Wasl match puts Al-Nassr between the jaws of Al-Ahli and Al-Hilal Goal.com",
    "t": 1794413101.9665616
@@ -1148,12 +1136,36 @@
   {
    "h": "الدوري السعودي للسيدات: القادسية والنصر... سباق ناري للفوز بالصدارة — الدوري السعودي للسيدات: القادسية والنصر... سباق ناري للفوز بالصدارة الشرق الأوسط",
    "t": 1794498907.3739116
+  },
+  {
+   "h": "هل يسجل إيبانيز انتصاره الأول أمام النصر في مباراته الـ100؟ — هل يسجل إيبانيز انتصاره الأول أمام النصر في مباراته الـ100؟ www.spl.com.sa",
+   "t": 1794502572.8847477
+  },
+  {
+   "h": "بعد نهاية الموسم راح يتفعل عقده مع الرابطة لذلك كل الاحاديث عن انتقاله بالشتويه غير صحيحه. https://t.co/noTkQVcc2y — بعد نهاية الموسم راح يتفعل عقده مع الرابطة لذلك كل الاحاديث عن انتقاله بالشتويه غير صحيحه. https://t.co/noTkQVcc2y",
+   "t": 1794502573.952168
+  },
+  {
+   "h": "A surprise Turkish offer: will Ronaldo score his 1,000th goal away from Al-Nassr? — A surprise Turkish offer: will Ronaldo score his 1,000th goal away from Al-Nassr? Goal.com",
+   "t": 1794502575.2339318
+  },
+  {
+   "h": "Oferta turca sorpresa: ¿marcará Cristiano Ronaldo su gol número 1000 lejos del Al-Nassr? — Oferta turca sorpresa: ¿marcará Cristiano Ronaldo su gol número 1000 lejos del Al-Nassr? Goal.com",
+   "t": 1794502579.1849697
+  },
+  {
+   "h": "5 محطات بارزة في مسيرة كريستيانو رونالدو مع البرتغال — 5 محطات بارزة في مسيرة كريستيانو رونالدو مع البرتغال الشرق الأوسط",
+   "t": 1794502582.085059
+  },
+  {
+   "h": "\"Nacho at the forefront\": good news keeps coming for Al-Qadsiah before the Al-Nassr clash — \"Nacho at the forefront\": good news keeps coming for Al-Qadsiah before the Al-Nassr clash Goal.com",
+   "t": 1794502583.789115
   }
  ],
  "x_user_ids": {
   "saadlegal2030": "2002440037972230144"
  },
  "x_since_ids": {
-  "saadlegal2030": "2120229556162605450"
+  "saadlegal2030": "2120919022015590609"
  }
 }
