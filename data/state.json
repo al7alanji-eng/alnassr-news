@@ -1,5 +1,5 @@
 {
- "last_run": 1794533363.6234043,
+ "last_run": 1794536675.9486964,
  "seen": {
   "7a66b2c82d25bcb6": 1793934276.9722025,
   "98275be3923ef650": 1793941871.4904442,
@@ -438,7 +438,9 @@
   "fb01814642b8a9da": 1794528815.987776,
   "4451771486a73692": 1794528817.9952037,
   "f65d269433d63664": 1794528821.940564,
-  "22b9ea9722272df5": 1794528823.7433083
+  "22b9ea9722272df5": 1794528823.7433083,
+  "aed668889ce0c8e5": 1794536669.7728624,
+  "543a682f512027fc": 1794536673.1699781
  },
  "titles": {
   "e55616342677fc2b": 1793934276.9722025,
@@ -878,17 +880,11 @@
   "61de18561f701a2d": 1794528815.987776,
   "9f4e34b0c40f65a7": 1794528817.9952037,
   "bd1e979fed88e15c": 1794528821.940564,
-  "57b7dd29d8004838": 1794528823.7433083
+  "57b7dd29d8004838": 1794528823.7433083,
+  "071dbb1b59072be4": 1794536669.7728624,
+  "9c1ca561b92a2b7b": 1794536673.1699781
  },
  "recent": [
-  {
-   "h": "\"Nacho al frente\": las buenas noticias se suceden para el Al-Qadisiyah antes del duelo ante el Al-Nassr — El Al-Qadsiah recibió buenas noticias antes de disputar partidos importantes tras el final del actual parón internacional, el más destacado ante el Al-Nassr en la Roshn Saudi League.",
-   "t": 1794479670.1075597
-  },
-  {
-   "h": "دوري الأمم الأوروبية: فولكروغ العائد بقوة يسترجع مكانه في منتخب ألمانيا — دوري الأمم الأوروبية: فولكروغ العائد بقوة يسترجع مكانه في منتخب ألمانيا الشرق الأوسط",
-   "t": 1794483533.5423946
-  },
   {
    "h": "\"Nacho di garis depan\": Kabar gembira terus mengalir untuk Al-Qadsiah jelang duel melawan Al-Nassr — Al-Qadsiah menerima kabar gembira jelang menjalani sejumlah laga penting usai berakhirnya jeda internasional yang tengah berlangsung, dan yang paling menonjol adalah laga melawan Al-Nassr di Liga Rosh ...",
    "t": 1794483535.8333414
@@ -1120,6 +1116,14 @@
   {
    "h": "بعكس منافسيه... مصير النصر بيده للفوز بكأس دوري روشن — بعكس منافسيه... مصير النصر بيده للفوز بكأس دوري روشن الشرق الأوسط",
    "t": 1794528826.4615626
+  },
+  {
+   "h": "البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له — البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له الشرق الأوسط",
+   "t": 1794536671.9086003
+  },
+  {
+   "h": "النصر لإكمال الهيمنة السعودية على بطولات آسيا من بوابة أوساكا — النصر لإكمال الهيمنة السعودية على بطولات آسيا من بوابة أوساكا الشرق الأوسط",
+   "t": 1794536674.937416
   }
  ],
  "x_user_ids": {
