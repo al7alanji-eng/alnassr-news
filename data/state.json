@@ -1,10 +1,6 @@
 {
- "last_run": 1794567267.130107,
+ "last_run": 1794570618.287333,
  "seen": {
-  "073c33175cb71288": 1793965602.9732704,
-  "d10645fb0a843648": 1793965609.1861703,
-  "8f1cd7b328247843": 1793965613.1618333,
-  "d62c2297787ac833": 1793965617.9696136,
   "1264189d80a326db": 1793969654.4173334,
   "807b5629509a2810": 1793969666.7132335,
   "81e32195513cbdd6": 1793969674.7811558,
@@ -420,13 +416,10 @@
   "543a682f512027fc": 1794536673.1699781,
   "9e7d6be3db3207f2": 1794544085.5814507,
   "ce66393dd28c25a0": 1794563723.9997234,
-  "ca77a9455d4d420c": 1794567265.2341256
+  "ca77a9455d4d420c": 1794567265.2341256,
+  "3c9aad8868f090dc": 1794570615.0348282
  },
  "titles": {
-  "8005a9a8aca35267": 1793965602.9732704,
-  "a9d782357ead8dd5": 1793965609.1861703,
-  "fb320564ec8cf94a": 1793965613.1618333,
-  "a911c16453d434dd": 1793965617.9696136,
   "9191e169ffab430f": 1793969654.4173334,
   "1a3951d01c5c61b0": 1793969666.7132335,
   "e2c54d29bc7b3e11": 1793969674.7811558,
@@ -842,13 +835,10 @@
   "9c1ca561b92a2b7b": 1794536673.1699781,
   "01c83cb7fcdc0324": 1794544085.5814507,
   "d3fb441bdd3adeb7": 1794563723.9997234,
-  "296443ae1e209d7b": 1794567265.2341256
+  "296443ae1e209d7b": 1794567265.2341256,
+  "db273bd006ddd547": 1794570615.0348282
  },
  "recent": [
-  {
-   "h": "Cristiano Ronaldo launches TV career as Al-Nassr superstar confirms production on debut drama series Day 1s — Cristiano Ronaldo has confirmed that production is officially underway for Day 1s, a new football television drama featuring the Portuguese star and Thierry Henry.",
-   "t": 1794491903.7882645
-  },
   {
    "h": "Tras un año en Al Nassr, un club saudí rescata a Haidar Abdelkarim del infierno de Postecoglou — El iraquí Haidar Abdulkarim, jugador del Al-Nassr saudí, está cerca de abandonar las filas del club tras un único año desde su llegada, en vista de que ha quedado fuera de los planes del australiano A ...",
    "t": 1794491906.5674374
@@ -1084,6 +1074,10 @@
   {
    "h": "Ex compañero de Cristiano Ronaldo desvela cómo era su comportamiento en el vestuario de Portugal — Ex compañero de Cristiano Ronaldo desvela cómo era su comportamiento en el vestuario de Portugal marca usa",
    "t": 1794567266.3486514
+  },
+  {
+   "h": "مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد — مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد الشرق الأوسط",
+   "t": 1794570617.1984422
   }
  ],
  "x_user_ids": {
