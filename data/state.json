@@ -1,5 +1,5 @@
 {
- "last_run": 1794671844.0586684,
+ "last_run": 1794674311.6553814,
  "seen": {
   "770b5953d2f5e49e": 1794071883.2541206,
   "53b3601ae2e0a2c9": 1794071890.5354738,
@@ -390,7 +390,12 @@
   "6dd7f15ce66b1c00": 1794671838.1793766,
   "0a3fe04a2e0a6c13": 1794671839.4303105,
   "a61d9cb63d45e35d": 1794671841.1292348,
-  "b33fb39dfa5614f6": 1794671842.7856631
+  "b33fb39dfa5614f6": 1794671842.7856631,
+  "07ef054291758613": 1794674304.7706947,
+  "d61c1c43ae8e6c2f": 1794674306.3059504,
+  "8632a3c916e26ec6": 1794674307.370804,
+  "60e63a5af8443723": 1794674308.200951,
+  "a76ecaa3b7b90955": 1794674310.4452038
  },
  "titles": {
   "e96d901d841b561a": 1794071883.2541206,
@@ -782,29 +787,14 @@
   "8fb06cab397739e9": 1794671838.1793766,
   "37cc41e6e24c81f1": 1794671839.4303105,
   "87fdeff7a19da3af": 1794671841.1292348,
-  "29c8e04ab4db4c47": 1794671842.7856631
+  "29c8e04ab4db4c47": 1794671842.7856631,
+  "8415aba3429d383c": 1794674304.7706947,
+  "88ea8e42e0d1316c": 1794674306.3059504,
+  "9ac7871aeb188809": 1794674307.370804,
+  "96be61c0ca12bff5": 1794674308.200951,
+  "37b8d090ab14e75b": 1794674310.4452038
  },
  "recent": [
-  {
-   "h": "¿Cuál es la verdad sobre la ausencia de Cristiano Ronaldo en la Supercopa de Arabia Saudí? — ¿Cuál es la verdad sobre la ausencia de Cristiano Ronaldo en la Supercopa de Arabia Saudí? Goal.com",
-   "t": 1794579095.5328515
-  },
-  {
-   "h": "ما حقيقة غياب كريستيانو رونالدو عن كأس السوبر السعودي؟ — ما حقيقة غياب كريستيانو رونالدو عن كأس السوبر السعودي؟ Kooora",
-   "t": 1794579097.4051578
-  },
-  {
-   "h": "El sueño de USMNT es Pep Guardiola pero un entrenador relacionado con Cristiano Ronaldo puede ser elegido — El sueño de USMNT es Pep Guardiola pero un entrenador relacionado con Cristiano Ronaldo puede ser elegido MARCA",
-   "t": 1794579100.1069
-  },
-  {
-   "h": "Portugal rendirá honores a Cristiano Ronaldo frente a Dinamarca — Portugal rendirá honores a Cristiano Ronaldo frente a Dinamarca marca usa",
-   "t": 1794582239.4369931
-  },
-  {
-   "h": "El Real Madrid ausente y Messi presente: ¿cómo imagina Cristiano Ronaldo su homenaje de retirada? — El Real Madrid ausente y Messi presente: ¿cómo imagina Cristiano Ronaldo su homenaje de retirada? Goal.com",
-   "t": 1794582241.6681545
-  },
   {
    "h": "Real Madrid absent and Messi present: how is Cristiano Ronaldo thinking about his retirement ceremony? — Real Madrid absent and Messi present: how is Cristiano Ronaldo thinking about his retirement ceremony? Goal.com",
    "t": 1794582243.7821302
@@ -1024,6 +1014,26 @@
   {
    "h": "رودي غارسيا يفتح خزائن أسراره: قرار بالوغون ظننته مزحة... وكواليس تدريب رونالدو — رودي غارسيا يفتح خزائن أسراره: قرار بالوغون ظننته مزحة... وكواليس تدريب رونالدو الشرق الأوسط",
    "t": 1794671843.5123627
+  },
+  {
+   "h": "ماني يتلقى صدمة قوية بشأن مصيره مع النصر السعودي — ماني يتلقى صدمة قوية بشأن مصيره مع النصر السعودي يلاكورة",
+   "t": 1794674305.5738087
+  },
+  {
+   "h": "بلال إردوغان يختتم زيارته إلى لبنان بتفقد «القرى التركمانية» — بلال إردوغان يختتم زيارته إلى لبنان بتفقد «القرى التركمانية» الشرق الأوسط",
+   "t": 1794674306.8537505
+  },
+  {
+   "h": "متسابق عمره 91 عاماً يخطف الأضواء في «دولة التلاوة» بمصر — خطف الشيخ عوض الفردي الأضواء في برنامج «دولة التلاوة»، وأبكى المتسابق، الذي بلغ من العمر 91 عاماً، لجنة التحكيم التي تضم الشيخ حسن عبد النبي، والدكتور طه عبد الوهاب، والشيخ طه النعماني، والداعية مصطفى ...",
+   "t": 1794674307.688224
+  },
+  {
+   "h": "Cristiano Ronaldo queda inmortalizado en el jersey de Portugal, el 7 no volverá a ser el mismo — © De conformidad con lo previsto en el artículo 67.3 del Real Decreto - ley 24/2021, de 2 de noviembre, la reproducción y utilización de las obras y otras prestaciones disponibles en este portal web m ...",
+   "t": 1794674308.7146058
+  },
+  {
+   "h": "Este es el jugador que utilizará la mítica camiseta '7' tras la retirada de Cristiano Ronaldo — La selección portuguesa afronta un duelo decisivo ante Dinamarca en la Liga de Naciones marcado por el emotivo adiós a su máxima leyenda histórica ...",
+   "t": 1794674310.8773353
   }
  ],
  "x_user_ids": {
