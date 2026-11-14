@@ -1,9 +1,6 @@
 {
- "last_run": 1794669255.441748,
+ "last_run": 1794671844.0586684,
  "seen": {
-  "a42839d3d96ed7c7": 1794066747.2105737,
-  "3b8fdc25048b38c9": 1794066759.9629018,
-  "74f0faff6bf8e036": 1794066766.7012436,
   "770b5953d2f5e49e": 1794071883.2541206,
   "53b3601ae2e0a2c9": 1794071890.5354738,
   "7269d60e53e8763e": 1794071896.3138416,
@@ -387,12 +384,15 @@
   "ecd9a2d2f25b58e8": 1794669249.8406842,
   "6887e9c5983bf02c": 1794669251.5811555,
   "9612f50b74d1159f": 1794669252.9610136,
-  "82c14d9baf1672c4": 1794669254.5113788
+  "82c14d9baf1672c4": 1794669254.5113788,
+  "6855d27b568b59ff": 1794671832.6560202,
+  "063e40eb7663eefc": 1794671836.3648562,
+  "6dd7f15ce66b1c00": 1794671838.1793766,
+  "0a3fe04a2e0a6c13": 1794671839.4303105,
+  "a61d9cb63d45e35d": 1794671841.1292348,
+  "b33fb39dfa5614f6": 1794671842.7856631
  },
  "titles": {
-  "4d5a6cd8f1893f85": 1794066747.2105737,
-  "8b829c03024c011f": 1794066759.9629018,
-  "6d0810d5569c1c55": 1794066766.7012436,
   "e96d901d841b561a": 1794071883.2541206,
   "7219d2c6b4b06631": 1794071890.5354738,
   "538ff167f1c8e731": 1794071896.3138416,
@@ -776,33 +776,15 @@
   "85cbc7a901521dc9": 1794669249.8406842,
   "382e70ebd74cdedb": 1794669251.5811555,
   "201312a232ca0760": 1794669252.9610136,
-  "306884afd5f02c36": 1794669254.5113788
+  "306884afd5f02c36": 1794669254.5113788,
+  "70ce041393912991": 1794671832.6560202,
+  "d68e13018d5e02b5": 1794671836.3648562,
+  "8fb06cab397739e9": 1794671838.1793766,
+  "37cc41e6e24c81f1": 1794671839.4303105,
+  "87fdeff7a19da3af": 1794671841.1292348,
+  "29c8e04ab4db4c47": 1794671842.7856631
  },
  "recent": [
-  {
-   "h": "مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد — مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد الشرق الأوسط",
-   "t": 1794570617.1984422
-  },
-  {
-   "h": "بحضور ميسي وغياب جيسوس .. كواليس مباراة اعتزال رونالدو بين البرتغال والنصر! — بحضور ميسي وغياب جيسوس .. كواليس مباراة اعتزال رونالدو بين البرتغال والنصر! Goal.com",
-   "t": 1794574601.7071102
-  },
-  {
-   "h": "من ملاعب الكرة إلى الشاشة.. رونالدو يبدأ إنتاج أول مسلسل تلفزيوني له — من ملاعب الكرة إلى الشاشة.. رونالدو يبدأ إنتاج أول مسلسل تلفزيوني له عكاظ",
-   "t": 1794574603.862273
-  },
-  {
-   "h": "https://t.co/nTtGvgH0Fa — https://t.co/nTtGvgH0Fa",
-   "t": 1794579089.9201622
-  },
-  {
-   "h": "النصر.. الشراري ينهي التأهيل قبل الأهلي — النصر.. الشراري ينهي التأهيل قبل الأهلي صحيفة الرياضية",
-   "t": 1794579091.188273
-  },
-  {
-   "h": "Portugal homenajeará a Cristiano Ronaldo en el partido ante Dinamarca — Portugal homenajeará a Cristiano Ronaldo en el partido ante Dinamarca MARCA",
-   "t": 1794579092.7678487
-  },
   {
    "h": "¿Cuál es la verdad sobre la ausencia de Cristiano Ronaldo en la Supercopa de Arabia Saudí? — ¿Cuál es la verdad sobre la ausencia de Cristiano Ronaldo en la Supercopa de Arabia Saudí? Goal.com",
    "t": 1794579095.5328515
@@ -1018,6 +1000,30 @@
   {
    "h": "Bernardo Silva se sincera tras la retirada de Cristiano Ronaldo de la selección de Portugal: \"Un momento triste\" — El centrocampista portugués ha asumido con total responsabilidad el brazalete de capitán tras la histórica despedida de CR7 ...",
    "t": 1794669254.8969886
+  },
+  {
+   "h": "El Al-Nassr saudí expulsa a Sadio Mané tras rechazar sus grandes concesiones — El Al-Nassr saudí expulsa a Sadio Mané tras rechazar sus grandes concesiones Goal.com",
+   "t": 1794671835.3883994
+  },
+  {
+   "h": "Rejecting his major concessions: Saudi club Al-Nassr dismisses Sadio Mane — Rejecting his major concessions: Saudi club Al-Nassr dismisses Sadio Mane Goal.com",
+   "t": 1794671836.9341428
+  },
+  {
+   "h": "Saudi club Al-Nassr offload Sadio Mane after rejecting his major concessions — Saudi club Al-Nassr offload Sadio Mane after rejecting his major concessions Goal.com",
+   "t": 1794671838.7545624
+  },
+  {
+   "h": "رفض تنازلاته الكبيرة.. النصر السعودي يطرد ساديو ماني — رفض تنازلاته الكبيرة.. النصر السعودي يطرد ساديو ماني Kooora",
+   "t": 1794671840.0880957
+  },
+  {
+   "h": "أخبار الهلال اليوم | حسرة على غياب البديل بعد إصابة نجم الأخضر .. وتقييم سالم الدوسري وسط توقعات رحيله إلى النصر! — أخبار الهلال اليوم | حسرة على غياب البديل بعد إصابة نجم الأخضر .. وتقييم سالم الدوسري وسط توقعات رحيله إلى النصر! Goal.com",
+   "t": 1794671842.06892
+  },
+  {
+   "h": "رودي غارسيا يفتح خزائن أسراره: قرار بالوغون ظننته مزحة... وكواليس تدريب رونالدو — رودي غارسيا يفتح خزائن أسراره: قرار بالوغون ظننته مزحة... وكواليس تدريب رونالدو الشرق الأوسط",
+   "t": 1794671843.5123627
   }
  ],
  "x_user_ids": {
