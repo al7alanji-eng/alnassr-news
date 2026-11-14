@@ -1,10 +1,6 @@
 {
- "last_run": 1794695539.857036,
+ "last_run": 1794698236.8241012,
  "seen": {
-  "c66f25e546aeb41c": 1794093372.9512513,
-  "c89a758c4d278f3e": 1794093375.1317637,
-  "f6906139b724900a": 1794093376.5953052,
-  "db3354966bdef63e": 1794093378.152843,
   "cda17c90ada2cb9d": 1794096141.3540978,
   "2c66a41357e52d5d": 1794100822.4346514,
   "fc5db12bc1f89533": 1794108054.2595153,
@@ -397,13 +393,15 @@
   "4742ef2a4d67802c": 1794695534.0586345,
   "a525d5752e1fc440": 1794695535.344323,
   "e00364258c5c2ab6": 1794695536.6927762,
-  "8c06257432bffcd1": 1794695538.0773191
+  "8c06257432bffcd1": 1794695538.0773191,
+  "98502a5a005f3c48": 1794698227.3562036,
+  "6b27766bd4e1cae0": 1794698228.3435647,
+  "a2da62d49ec17ab7": 1794698230.7024791,
+  "608e807e708ec83c": 1794698232.960872,
+  "26826c90a5ab6603": 1794698233.943754,
+  "549d7250e97321b6": 1794698235.951717
  },
  "titles": {
-  "e940aa8a4c256102": 1794093372.9512513,
-  "204d38919548f64d": 1794093375.1317637,
-  "03284deb5ad42c98": 1794093376.5953052,
-  "9c9cfd786b81db49": 1794093378.152843,
   "ec7f5a8096bdad8a": 1794096141.3540978,
   "3d58a16739e62697": 1794100822.4346514,
   "8c4883e4c74d7152": 1794108054.2595153,
@@ -796,33 +794,15 @@
   "c8d661f5f97ed4de": 1794695534.0586345,
   "8c9c18e280d072f2": 1794695535.344323,
   "7ffb3735cc282738": 1794695536.6927762,
-  "26b166747ab3a6b5": 1794695538.0773191
+  "26b166747ab3a6b5": 1794695538.0773191,
+  "fe6ed2518fcdd137": 1794698227.3562036,
+  "d60d6074c84f71e0": 1794698228.3435647,
+  "d8c8b9a5cfe6f6fb": 1794698230.7024791,
+  "b9c7c00e55834b1f": 1794698232.960872,
+  "934bbbd15f3f1dac": 1794698233.943754,
+  "ea59e57f499188fd": 1794698235.951717
  },
  "recent": [
-  {
-   "h": "السبت..آنج يستدعي 6 إلى تدريبات النصر — السبت..آنج يستدعي 6 إلى تدريبات النصر صحيفة الرياضية",
-   "t": 1794660054.059711
-  },
-  {
-   "h": "بهواية جديدة.. هل تعمد رونالدو إيصال رسالة غير مباشرة لجيسوس؟ — بهواية جديدة.. هل تعمد رونالدو إيصال رسالة غير مباشرة لجيسوس؟ Kooora",
-   "t": 1794660055.5357604
-  },
-  {
-   "h": "Despite Korea injury: Saudi Arabia star ready for Al-Ahli and Al-Nassr clasico — The Saudi Arabia international escaped missing the eagerly awaited clasico between Al-Ahli and Al-Nassr in the Roshn League, despite suffering an injury in the friendly against South Korea.",
-   "t": 1794660056.909506
-  },
-  {
-   "h": "Malgré la blessure contre la Corée, la star de la sélection saoudienne est prête pour le classico entre Al-Ahli et Al-Nassr — Le joueur de la sélection saoudienne échappe à une absence lors du Clasico tant attendu entre Al-Ahli et Al-Nassr en Roshn Saudi League, malgré sa blessure contractée lors du match amical face à la ...",
-   "t": 1794660058.2084625
-  },
-  {
-   "h": "ليس رونالدو ولا ساديو ماني .. النصر يستقر على تجديد عقود ثنائي أجنبي — ليس رونالدو ولا ساديو ماني .. النصر يستقر على تجديد عقود ثنائي أجنبي Goal.com",
-   "t": 1794663419.7498662
-  },
-  {
-   "h": "\"البعض يحضر للملعب من أجله فقط\" .. برناردو سيلفا يعلق على اعتزال رونالدو .. والكشف عن رقم 7 البرتغال الجديد — \"البعض يحضر للملعب من أجله فقط\" .. برناردو سيلفا يعلق على اعتزال رونالدو .. والكشف عن رقم 7 البرتغال الجديد Goal.com",
-   "t": 1794663421.820687
-  },
   {
    "h": "Despite Korea injury: Saudi national team star ready for Al-Ahli and Al-Nassr clasico — Despite Korea injury: Saudi national team star ready for Al-Ahli and Al-Nassr clasico Goal.com",
    "t": 1794663422.983939
@@ -1038,6 +1018,30 @@
   {
    "h": "زميل رونالدو السابق يدلي بشهادته في حوار لجول.. جدل الاعتزال ودموع نهائي اليورو وما لا يعرفه الجمهور عن الأسطورة — زميل رونالدو السابق يدلي بشهادته في حوار لجول.. جدل الاعتزال ودموع نهائي اليورو وما لا يعرفه الجمهور عن الأسطورة Goal.com",
    "t": 1794695539.199253
+  },
+  {
+   "h": "الدنمرك تسحق البرتغال 4-1 في ليلة تكريم رونالدو — الدنمرك تسحق البرتغال 4-1 في ليلة تكريم رونالدو Reuters",
+   "t": 1794698227.9296825
+  },
+  {
+   "h": "De pie ante la leyenda: Portugal rinde tributo a Cristiano Ronaldo en el inicio de una nueva era — De pie ante la leyenda: Portugal rinde tributo a Cristiano Ronaldo en el inicio de una nueva era marca usa",
+   "t": 1794698229.0999782
+  },
+  {
+   "h": "No Ronaldo, No Party: Post-Cristiano Era Begins in Disaster as Denmark Routs Portugal 4-1 — It was a very well-constructed move by the Danes, who took advantage of the Portuguese passivity, with Damsgaard in the box crossing toward the far post, where Hojlund, with no one marking him, hit it ...",
+   "t": 1794698231.098069
+  },
+  {
+   "h": "Jorge Jesus: \"¿Echar de menos a Cristiano? Ya no está aquí\" — Preguntado por el homenaje realizado a Cristiano Ronaldo a la salida del túnel de vestuarios, con los titulares vistiendo su mítico '7', y con el aplauso de la grada llegado el minuto siete, Jorge ...",
+   "t": 1794698233.3077505
+  },
+  {
+   "h": "Sin Cristiano Ronaldo no hay fiesta: Dinamarca humilla 4-1 a Portugal en el inicio de una nueva etapa — P ortugal sufrió este sábado una dura derrota ante Dinamarca (1-4) en la UEFA Nations League en el que fue el primer partido de los lusos desde que Cristiano Ronaldo hiciera pública su retirada de la ...",
+   "t": 1794698234.3335702
+  },
+  {
+   "h": "El homenaje a Cristiano acaba en la peor derrota en ocho años — Portugal, que disputó su primer partido tras la retirada de la selección de CR7, no perdía por tres goles de diferencia desde que el 26 de marzo de 2018 sucumbiera ante Países Bajos (3-0) ...",
+   "t": 1794698236.3093576
   }
  ],
  "x_user_ids": {
