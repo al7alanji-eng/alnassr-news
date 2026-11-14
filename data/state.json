@@ -1,7 +1,6 @@
 {
- "last_run": 1794666406.9901628,
+ "last_run": 1794669255.441748,
  "seen": {
-  "2141d4a33f80cf3c": 1794064326.7602913,
   "a42839d3d96ed7c7": 1794066747.2105737,
   "3b8fdc25048b38c9": 1794066759.9629018,
   "74f0faff6bf8e036": 1794066766.7012436,
@@ -383,10 +382,14 @@
   "42710be3cf336654": 1794663422.3601978,
   "59db8db9593d29fa": 1794663423.8178673,
   "5ab5e4165b51ab51": 1794663425.2075686,
-  "d8facec409fa0f00": 1794663427.5756907
+  "d8facec409fa0f00": 1794663427.5756907,
+  "ee396463721fb6f6": 1794669246.6473765,
+  "ecd9a2d2f25b58e8": 1794669249.8406842,
+  "6887e9c5983bf02c": 1794669251.5811555,
+  "9612f50b74d1159f": 1794669252.9610136,
+  "82c14d9baf1672c4": 1794669254.5113788
  },
  "titles": {
-  "bd5cab8b3710b6be": 1794064326.7602913,
   "4d5a6cd8f1893f85": 1794066747.2105737,
   "8b829c03024c011f": 1794066759.9629018,
   "6d0810d5569c1c55": 1794066766.7012436,
@@ -768,29 +771,14 @@
   "5d1e3d7f926cff44": 1794663422.3601978,
   "bc4dd4dca32a55bc": 1794663423.8178673,
   "26556cbf041cdfe8": 1794663425.2075686,
-  "d7089df51bb2e481": 1794663427.5756907
+  "d7089df51bb2e481": 1794663427.5756907,
+  "bf5b127e837b5a1b": 1794669246.6473765,
+  "85cbc7a901521dc9": 1794669249.8406842,
+  "382e70ebd74cdedb": 1794669251.5811555,
+  "201312a232ca0760": 1794669252.9610136,
+  "306884afd5f02c36": 1794669254.5113788
  },
  "recent": [
-  {
-   "h": "البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له — البرتغال تجهّز تكريماً لرونالدو... وخيسوس ترك قرار العودة له الشرق الأوسط",
-   "t": 1794536671.9086003
-  },
-  {
-   "h": "النصر لإكمال الهيمنة السعودية على بطولات آسيا من بوابة أوساكا — النصر لإكمال الهيمنة السعودية على بطولات آسيا من بوابة أوساكا الشرق الأوسط",
-   "t": 1794536674.937416
-  },
-  {
-   "h": "النصر يصنع التاريخ... أول لقب غرب آسيوي للأندية السعودية للسيدات — النصر يصنع التاريخ... أول لقب غرب آسيوي للأندية السعودية للسيدات الشرق الأوسط",
-   "t": 1794544088.3681476
-  },
-  {
-   "h": "تقرير: إيران هاجمت أنظمة ملاحة بحرية في جزيرة عُمانية — تقرير: إيران هاجمت أنظمة ملاحة بحرية في جزيرة عُمانية الشرق الأوسط",
-   "t": 1794563727.4469848
-  },
-  {
-   "h": "Ex compañero de Cristiano Ronaldo desvela cómo era su comportamiento en el vestuario de Portugal — Ex compañero de Cristiano Ronaldo desvela cómo era su comportamiento en el vestuario de Portugal marca usa",
-   "t": 1794567266.3486514
-  },
   {
    "h": "مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد — مارتينيز يتمسك برونالدو: النهاية لم تُكتب بعد الشرق الأوسط",
    "t": 1794570617.1984422
@@ -1010,6 +998,26 @@
   {
    "h": "\"Cristiano Ronaldo fue y es el más grande y el mejor de Portugal, de Europa y del mundo\" — El duelo ante Dinamarca marca el punto de inicio de una nueva era después de 23 años de servicio al combinado nacional ...",
    "t": 1794663428.2452495
+  },
+  {
+   "h": "Tras las acusaciones de favoritismo hacia Cristiano Ronaldo, el Al-Ahli se arma con árbitros extranjeros para el clásico — Tras las acusaciones de favoritismo hacia Cristiano Ronaldo, el Al-Ahli se arma con árbitros extranjeros para el clásico Goal.com",
+   "t": 1794669249.0385509
+  },
+  {
+   "h": "بعد اتهامات محاباة رونالدو.. الأهلي يتسلح بالحكام الأجانب في الكلاسيكو — بعد اتهامات محاباة رونالدو.. الأهلي يتسلح بالحكام الأجانب في الكلاسيكو Kooora",
+   "t": 1794669250.7402267
+  },
+  {
+   "h": "خسارة عمانية — خسارة عمانية صحيفة الرياضية",
+   "t": 1794669252.195985
+  },
+  {
+   "h": "After accusations of favouring Ronaldo: Al-Ahli arms itself with foreign referees in the Clasico — Saudi club Al-Ahli have decided to arm themselves with foreign referees for the eagerly awaited Clasico against their traditional rivals Al-Nassr in the Roshn League, following the recent crisis that ...",
+   "t": 1794669253.861862
+  },
+  {
+   "h": "Bernardo Silva se sincera tras la retirada de Cristiano Ronaldo de la selección de Portugal: \"Un momento triste\" — El centrocampista portugués ha asumido con total responsabilidad el brazalete de capitán tras la histórica despedida de CR7 ...",
+   "t": 1794669254.8969886
   }
  ],
  "x_user_ids": {
