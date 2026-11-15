@@ -1,8 +1,6 @@
 {
- "last_run": 1794766691.2185645,
+ "last_run": 1794770281.3210974,
  "seen": {
-  "edd1ec98852391b3": 1794164283.9116452,
-  "e9da85571c95c127": 1794164285.4123437,
   "6b37e5c68d2c7a37": 1794166954.2998188,
   "a658c8b1fccb4850": 1794169147.3582788,
   "2036322b977e4ddb": 1794169149.6879199,
@@ -403,11 +401,13 @@
   "9f8006b938946cf4": 1794766686.2188437,
   "3a8294acdd7854b2": 1794766687.3378947,
   "d9b6ac69ec71d03b": 1794766688.9110785,
-  "27e4f84385c7c9bf": 1794766690.1701086
+  "27e4f84385c7c9bf": 1794766690.1701086,
+  "df0dce33ad3c5e29": 1794770265.5459473,
+  "37980691a982d35a": 1794770269.235744,
+  "a595f95afcd06186": 1794770273.0013664,
+  "0d1f7daa610736d2": 1794770274.847908
  },
  "titles": {
-  "5ea2b9053e5c9893": 1794164283.9116452,
-  "197ed195840dd185": 1794164285.4123437,
   "de2904202ed700fa": 1794166954.2998188,
   "3c1fdf2f6cd5a166": 1794169147.3582788,
   "4a3e5b377613bfeb": 1794169149.6879199,
@@ -808,25 +808,13 @@
   "47d68cf4fbeafb41": 1794766686.2188437,
   "16bb57c77ad79644": 1794766687.3378947,
   "bbd2a750fed021a4": 1794766688.9110785,
-  "f20acddaf5562d98": 1794766690.1701086
+  "f20acddaf5562d98": 1794766690.1701086,
+  "86a23b39d5778b23": 1794770265.5459473,
+  "d258cc68e9178ac9": 1794770269.235744,
+  "0cc1ff19a0842c1d": 1794770273.0013664,
+  "307d17ed2b2ef1a3": 1794770274.847908
  },
  "recent": [
-  {
-   "h": "في الدقيقة السابعة.. تحية خاصة لرونالدو بـ \"حفل تصفيق\" من مدرجات البرتغال — في الدقيقة السابعة.. تحية خاصة لرونالدو بـ \"حفل تصفيق\" من مدرجات البرتغال يلاكورة",
-   "t": 1794690625.9185908
-  },
-  {
-   "h": "على طريقة الهلال.. دوري جوي للنخبة يجهز النصر لكلاسيكو الأهلي — على طريقة الهلال.. دوري جوي للنخبة يجهز النصر لكلاسيكو الأهلي Kooora",
-   "t": 1794690630.5030415
-  },
-  {
-   "h": "Emotiva despedida de Portugal a Cristiano Ronaldo que eriza la piel — El Municipal de Braga ha sido testigo del 'Día 1' de Portugal sin Cristiano Ronaldo. Era importante rendir un homenaje a la altura, a pesar de que el adiós no fue el que a todo el mundo le hubiese ...",
-   "t": 1794690631.9573236
-  },
-  {
-   "h": "Cristiano Ronaldo recibe un gran homenaje por parte de la Selección de Portugal — © De conformidad con lo previsto en el artículo 67.3 del Real Decreto - ley 24/2021, de 2 de noviembre, la reproducción y utilización de las obras y otras prestaciones disponibles en este portal web m ...",
-   "t": 1794690633.0481188
-  },
   {
    "h": "Ala Al Hilal: Liga Elite Jo persiapkan Al Nassr jelang el clasico melawan Al Ahli — Klub Al Nassr mulai mempersiapkan diri untuk laga el clasico menghadapi rival tradisional Al Ahli di Liga Roshn, dengan cara yang ditempuh tetangga sekaligus rival tradisional mereka, Al Hilal, yakni ...",
    "t": 1794690634.4374604
@@ -1050,6 +1038,22 @@
   {
    "h": "Malgré un titre de champion et des statistiques de premier plan, Al-Nassr mettrait à la porte une ancienne star du Bayern Munich — Al-Nassr se séparera de Sadio Mané sans indemnité de transfert à la fin de la saison, selon Falah Al-Qahtani, journaliste saoudien du quotidien Okaz. Le club risque également de voir partir Cristiano ...",
    "t": 1794766690.5484328
+  },
+  {
+   "h": "كأس الملك: النصر يكسب الدرعية برباعية… ويحجز مقعده في الـ16 — كأس الملك: النصر يكسب الدرعية برباعية… ويحجز مقعده في الـ16 الشرق الأوسط",
+   "t": 1794770268.0482156
+  },
+  {
+   "h": "النصر يتعادل مع بام خاتون الإيراني آسيوياً — النصر يتعادل مع بام خاتون الإيراني آسيوياً الشرق الأوسط",
+   "t": 1794770271.7660842
+  },
+  {
+   "h": "Despite championship title and top stats: Al-Nassr reportedly show former Bayern Munich star the door — Al-Nassr will part ways with Sadio Mane on a free transfer at the end of the season, according to Saudi journalist Falah Al-Qahtani of the newspaper Okaz. The club also face the prospect of Cristiano ...",
+   "t": 1794770273.9995894
+  },
+  {
+   "h": "Meski meraih gelar juara dan mencatat statistik gemilang, Al-Nassr kabarnya mendepak mantan bintang Bayern Munich — Menurut jurnalis Arab Saudi Falah Al-Qahtani dari surat kabar Okaz, Al-Nassr akan berpisah dengan Sadio Mane tanpa biaya transfer pada akhir musim. Pada saat yang sama, klub tersebut juga terancam keh ...",
+   "t": 1794770280.6410177
   }
  ],
  "x_user_ids": {
