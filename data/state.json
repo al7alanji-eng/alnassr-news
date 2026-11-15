@@ -1,8 +1,6 @@
 {
- "last_run": 1794778328.5537882,
+ "last_run": 1794781276.52027,
  "seen": {
-  "8cb57f8152d51542": 1794174592.2237706,
-  "3d34f60367758ab3": 1794174593.034067,
   "88c03e1f49ecacd9": 1794177125.1616666,
   "48f11858fe72a3ed": 1794177126.5799358,
   "30b51feae3951a57": 1794177128.317321,
@@ -408,11 +406,15 @@
   "0f78506d0222faaa": 1794778321.7233984,
   "99753793acb173bb": 1794778323.1579814,
   "b050d01d8bb90bc1": 1794778324.0880744,
-  "fc294345c0296f61": 1794778326.506215
+  "fc294345c0296f61": 1794778326.506215,
+  "94e94c53cada8d0d": 1794781261.920088,
+  "a351604428723306": 1794781264.8385394,
+  "681a1f5c464a3f7e": 1794781266.6379116,
+  "1a2373ff58d638b5": 1794781268.7099178,
+  "6e3181a825989d88": 1794781272.7083566,
+  "939dc2a65af4f177": 1794781275.4069867
  },
  "titles": {
-  "cbc0fd6eb6e1cedd": 1794174592.2237706,
-  "22af2c61301bbc71": 1794174593.034067,
   "6dd15ee75be97c30": 1794177125.1616666,
   "3ca1cf49bb60ba4f": 1794177126.5799358,
   "c0dd635dde1d17b1": 1794177128.317321,
@@ -818,33 +820,15 @@
   "8522d797ab3631e9": 1794778321.7233984,
   "2c0e74df0b621b8c": 1794778323.1579814,
   "b9c97b3076148362": 1794778324.0880744,
-  "2d7c68bec9add352": 1794778326.506215
+  "2d7c68bec9add352": 1794778326.506215,
+  "04b1ee64a6ee7f47": 1794781261.920088,
+  "91a8f494afa23592": 1794781264.8385394,
+  "86a0ad5033a39020": 1794781266.6379116,
+  "d7f0b04588e37b71": 1794781268.7099178,
+  "dc588d5975093d5a": 1794781272.7083566,
+  "b59758bbeb81ed22": 1794781275.4069867
  },
  "recent": [
-  {
-   "h": "El homenaje a Cristiano acaba en la peor derrota en ocho años — Portugal, que disputó su primer partido tras la retirada de la selección de CR7, no perdía por tres goles de diferencia desde que el 26 de marzo de 2018 sucumbiera ante Países Bajos (3-0) ...",
-   "t": 1794698236.3093576
-  },
-  {
-   "h": "Portugal suffer their heaviest defeat in Ronaldo's absence in 23 years — Portugal suffer their heaviest defeat in Ronaldo's absence in 23 years Goal.com",
-   "t": 1794700948.4012792
-  },
-  {
-   "h": "البرتغال تتكبد أثقل هزيمة في غياب رونالدو منذ 23 عامًا — البرتغال تتكبد أثقل هزيمة في غياب رونالدو منذ 23 عامًا Kooora",
-   "t": 1794700949.6098824
-  },
-  {
-   "h": "كريستيانو رونالدو يتزوج شريكته جورجينا رودريغيز — كريستيانو رونالدو يتزوج شريكته جورجينا رودريغيز الشرق الأوسط",
-   "t": 1794700951.8867323
-  },
-  {
-   "h": "Portugal inicia la era post Cristiano Ronaldo humillada en casa y con muchas dudas — Højlund fue el verdugo. El delantero danés, que ya había marcado en el enfrentamiento de ida en octubre (cuando Portugal ganó 4-2 en Copenhague), volvió a aparecer en el momento clave. El 2-0 y el 3-0 ...",
-   "t": 1794700952.837163
-  },
-  {
-   "h": "البرتغال تخلّد رقم رونالدو التاريخي بعلامة مميزة — دخل منتخب البرتغال رسمياً حقبة جديدة عقب اعتزال كريستيانو رونالدو اللعب دولياً، لكن إرث المهاجم الأسطوري سيظل محفوراً إلى الأبد في تاريخ المنتخب الوطني.",
-   "t": 1794700953.7260413
-  },
   {
    "h": "النصر يعلن ضم البرتغالي الدولي سامو كوستا — النصر يعلن ضم البرتغالي الدولي سامو كوستا الشرق الأوسط",
    "t": 1794705788.711864
@@ -1060,6 +1044,30 @@
   {
    "h": "رسمياً… أحمد السلطان رئيساً لنادي النصر — رسمياً… أحمد السلطان رئيساً لنادي النصر الشرق الأوسط",
    "t": 1794778328.1222486
+  },
+  {
+   "h": "Doble movimiento: Al-Nassr sacrifica a una de sus estrellas para asegurar la continuidad de Joao Félix — Doble movimiento: Al-Nassr sacrifica a una de sus estrellas para asegurar la continuidad de Joao Félix Goal.com",
+   "t": 1794781264.145046
+  },
+  {
+   "h": "Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay — Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay Goal.com",
+   "t": 1794781266.0780437
+  },
+  {
+   "h": "تحرك مزدوج.. النصر يضحي بأحد نجومه لتأمين بقاء جواو فيليكس — تحرك مزدوج.. النصر يضحي بأحد نجومه لتأمين بقاء جواو فيليكس Kooora",
+   "t": 1794781268.0093749
+  },
+  {
+   "h": "لحظات صنعت الفارق في موسم التتويج الأول لرونالدو مع النصر — لحظات صنعت الفارق في موسم التتويج الأول لرونالدو مع النصر الشرق الأوسط",
+   "t": 1794781271.3469098
+  },
+  {
+   "h": "Langkah ganda: Al Nassr korbankan salah satu bintangnya demi mengamankan masa depan Joao Felix — Proses perencanaan olahraga di dalam klub Al Nassr Saudi tidak pernah berhenti, sebab manajemen \"Al Alami\" sudah bekerja dengan menjadikan musim depan sebagai fokus perhatian mereka.",
+   "t": 1794781274.8547094
+  },
+  {
+   "h": "Double move: Al-Nassr sacrifices one of its stars to secure Joao Felix's stay — Alongside the push for Joao Felix, Al-Nassr have taken a decisive call to renew Inigo Martinez for a further season. The 35-year-old Basque defender has established himself as the undisputed leader of ...",
+   "t": 1794781276.0256937
   }
  ],
  "x_user_ids": {
