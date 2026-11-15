@@ -1,7 +1,6 @@
 {
- "last_run": 1794770281.3210974,
+ "last_run": 1794773251.0184667,
  "seen": {
-  "6b37e5c68d2c7a37": 1794166954.2998188,
   "a658c8b1fccb4850": 1794169147.3582788,
   "2036322b977e4ddb": 1794169149.6879199,
   "9d2f7671be304330": 1794169153.583533,
@@ -405,10 +404,14 @@
   "df0dce33ad3c5e29": 1794770265.5459473,
   "37980691a982d35a": 1794770269.235744,
   "a595f95afcd06186": 1794770273.0013664,
-  "0d1f7daa610736d2": 1794770274.847908
+  "0d1f7daa610736d2": 1794770274.847908,
+  "5715b1af41e78741": 1794773233.2934303,
+  "24fb00f4dc0f369f": 1794773237.2022696,
+  "00947aa8264a7e4e": 1794773240.811632,
+  "cd27721f550b91c4": 1794773243.9055154,
+  "e44a8068182b5023": 1794773247.5346556
  },
  "titles": {
-  "de2904202ed700fa": 1794166954.2998188,
   "3c1fdf2f6cd5a166": 1794169147.3582788,
   "4a3e5b377613bfeb": 1794169149.6879199,
   "bb5a210bbb0e73cc": 1794169153.583533,
@@ -812,29 +815,14 @@
   "86a23b39d5778b23": 1794770265.5459473,
   "d258cc68e9178ac9": 1794770269.235744,
   "0cc1ff19a0842c1d": 1794770273.0013664,
-  "307d17ed2b2ef1a3": 1794770274.847908
+  "307d17ed2b2ef1a3": 1794770274.847908,
+  "56c01cc0488187de": 1794773233.2934303,
+  "af7c312595c1eec3": 1794773237.2022696,
+  "9c2660a92b768a1b": 1794773240.811632,
+  "c427e9a51aa2aaa5": 1794773243.9055154,
+  "ba164cccbcaec029": 1794773247.5346556
  },
  "recent": [
-  {
-   "h": "Ala Al Hilal: Liga Elite Jo persiapkan Al Nassr jelang el clasico melawan Al Ahli — Klub Al Nassr mulai mempersiapkan diri untuk laga el clasico menghadapi rival tradisional Al Ahli di Liga Roshn, dengan cara yang ditempuh tetangga sekaligus rival tradisional mereka, Al Hilal, yakni ...",
-   "t": 1794690634.4374604
-  },
-  {
-   "h": "El gran homenaje de Portugal a Cristiano Ronaldo — El Municipal de Braga ha sido testigo del 'Día 1' de Portugal sin Cristiano Ronaldo. Era importante rendir un homenaje a la altura, a pesar de que el adiós no fue el que a todo el mundo le hubiese ...",
-   "t": 1794693039.8112092
-  },
-  {
-   "h": "خيسوس مدرب البرتغال الجديد: سأستدعي رونالدو إذا كان متاحاً — خيسوس مدرب البرتغال الجديد: سأستدعي رونالدو إذا كان متاحاً الشرق الأوسط",
-   "t": 1794693042.4657161
-  },
-  {
-   "h": "Só sorrisos: Ronaldo treinou com o Al Nassr em dia de jogo da Seleção — Pouco antes do primeiro jogo de Portugal após a saída do avançado de 41 anos da equipa das quinas, CR7 trabalhou ao serviço do clube ...",
-   "t": 1794693043.6444118
-  },
-  {
-   "h": "في ليلة تكريم رونالدو.. الدنمارك تسحق البرتغال وجيسوس — في ليلة تكريم رونالدو.. الدنمارك تسحق البرتغال وجيسوس صحيفة الرياضية",
-   "t": 1794695531.8000038
-  },
   {
    "h": "«شكرا أيها القائد».. رسالة موحدة إلى رونالدو في ملعب براجا — «شكرا أيها القائد».. رسالة موحدة إلى رونالدو في ملعب براجا صحيفة الرياضية",
    "t": 1794695533.4660623
@@ -1054,6 +1042,26 @@
   {
    "h": "Meski meraih gelar juara dan mencatat statistik gemilang, Al-Nassr kabarnya mendepak mantan bintang Bayern Munich — Menurut jurnalis Arab Saudi Falah Al-Qahtani dari surat kabar Okaz, Al-Nassr akan berpisah dengan Sadio Mane tanpa biaya transfer pada akhir musim. Pada saat yang sama, klub tersebut juga terancam keh ...",
    "t": 1794770280.6410177
+  },
+  {
+   "h": "Despite league title and top stats: Al-Nassr apparently show former Bayern Munich star the door — Despite league title and top stats: Al-Nassr apparently show former Bayern Munich star the door Goal.com",
+   "t": 1794773236.2282805
+  },
+  {
+   "h": "كوستا يشارك للمرة الأولى في تدريبات النصر… وأنج: سامو إضافة نوعية — كوستا يشارك للمرة الأولى في تدريبات النصر… وأنج: سامو إضافة نوعية الشرق الأوسط",
+   "t": 1794773239.7942395
+  },
+  {
+   "h": "ماني يقود النصر لريمونتادا مُثيرة أمام الاتفاق — ماني يقود النصر لريمونتادا مُثيرة أمام الاتفاق الشرق الأوسط",
+   "t": 1794773243.2254548
+  },
+  {
+   "h": "بوستيكوغلو: النصر يثلج الصدر — بوستيكوغلو: النصر يثلج الصدر الشرق الأوسط",
+   "t": 1794773246.373747
+  },
+  {
+   "h": "النصر والماجد يتبادلان «المديح»... وكرسي الرئاسة «شاغر» — النصر والماجد يتبادلان «المديح»... وكرسي الرئاسة «شاغر» الشرق الأوسط",
+   "t": 1794773249.9150739
   }
  ],
  "x_user_ids": {
