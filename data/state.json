@@ -1,12 +1,6 @@
 {
- "last_run": 1794784046.6415503,
+ "last_run": 1794786944.5920825,
  "seen": {
-  "7ca059678c068d54": 1794179839.613781,
-  "c02fb9a2b612bef0": 1794179841.6347585,
-  "fbadfefdb8681788": 1794179842.821106,
-  "6c03e206e57f1b0c": 1794179843.7151647,
-  "f6543abcc09600fe": 1794179845.0587113,
-  "4336675c125a15a5": 1794179846.2251635,
   "e8dc8ab231852ffa": 1794191327.2971008,
   "7bb36a69447c1957": 1794212610.01927,
   "5762253c49ed10d9": 1794212612.210261,
@@ -413,15 +407,11 @@
   "4ea2b10429a13a2f": 1794784041.677053,
   "46e549d2d5657b9d": 1794784042.691856,
   "c7a3f90f2278790c": 1794784045.4034488,
-  "4fbbb80516be0286": 1794784046.0718532
+  "4fbbb80516be0286": 1794784046.0718532,
+  "9ef00d7aac293577": 1794786940.475046,
+  "706350afa5bba55e": 1794786943.5974338
  },
  "titles": {
-  "b9e202ceec721158": 1794179839.613781,
-  "c76e402f445e52bc": 1794179841.6347585,
-  "2477fc360e5b78b2": 1794179842.821106,
-  "fb2d12a2cbfe730a": 1794179843.7151647,
-  "2b7a61960dc97ff3": 1794179845.0587113,
-  "bd9b08def489ea6f": 1794179846.2251635,
   "9af3ed6f71ce6aa3": 1794191327.2971008,
   "552ad45f8fd3099a": 1794212610.01927,
   "9c1678c54165db48": 1794212612.210261,
@@ -828,17 +818,11 @@
   "9f354586ddc3cc94": 1794784041.677053,
   "a8d0d5671915e5d1": 1794784042.691856,
   "c7d3e39b72e912aa": 1794784045.4034488,
-  "6b21199d43420839": 1794784046.0718532
+  "6b21199d43420839": 1794784046.0718532,
+  "8f88b0b3b3479658": 1794786940.475046,
+  "3ac1fec58d39451f": 1794786943.5974338
  },
  "recent": [
-  {
-   "h": "Jorge Jesús: \"¿Qué vamos a echar de menos? Si Cristiano ya no está disponible para la selección\" — El seleccionador portugués, Jorge Jesús, valoró el rendimiento del equipo y la retirada de Cristiano Ronaldo tras la derrota (1-4) en el partido en el que se homenajeó a CR7.",
-   "t": 1794734915.3339038
-  },
-  {
-   "h": "«الكونكاكاف»: أميركا تضع قدماً في المربع الذهبي بسداسية في شباك هايتي — حقق المنتخب الأميركي فوزاً كبيراً على نظيره منتخب هايتي 6 / صفر، في المباراة التي جمعتهما بميامي اليوم الأحد بتوقيت غرينتش، في ذهاب دور الثمانية من «الكونكاكاف» ...",
-   "t": 1794734917.1843112
-  },
   {
    "h": "Cristiano Ronaldo - Últimas noticias de Cristiano Ronaldo — Cristiano Ronaldo - Últimas noticias de Cristiano Ronaldo MARCA",
    "t": 1794734918.7678041
@@ -1070,6 +1054,14 @@
   {
    "h": "Movimento duplo: Al-Nassr sacrifica um de seus astros para garantir a permanência de João Félix — A operação de planejamento esportivo dentro do clube saudita Al-Nassr não para, já que a diretoria do \"Al-Alami\" já está trabalhando, com os olhos voltados para a próxima temporada.",
    "t": 1794784046.2378867
+  },
+  {
+   "h": "Double manœuvre : Al-Nassr sacrifie l'une de ses stars pour assurer le maintien de João Félix — La planification sportive ne s'arrête pas au sein du club saoudien d'Al-Nassr, où la direction de « Al-Alami » travaille déjà, en ayant pour objectif la saison prochaine.",
+   "t": 1794786942.9844239
+  },
+  {
+   "h": "Çifte hamle: Al Nassr, Joao Felix'in kalıcılığını güvence altına almak için yıldızlarından birini feda ediyor — NASR'ın idari kadrosu, bir sonraki sezonu hedefe koyarak şimdiden çalışmaya başladı; zira Suudi Nasr Kulübü bünyesinde sportif planlama süreci hiç durmuyor.",
+   "t": 1794786944.104308
   }
  ],
  "x_user_ids": {
