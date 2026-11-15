@@ -1,7 +1,6 @@
 {
- "last_run": 1794698236.8241012,
+ "last_run": 1794700954.1148734,
  "seen": {
-  "cda17c90ada2cb9d": 1794096141.3540978,
   "2c66a41357e52d5d": 1794100822.4346514,
   "fc5db12bc1f89533": 1794108054.2595153,
   "46e549d2d5657b9d": 1794111973.786345,
@@ -399,10 +398,14 @@
   "a2da62d49ec17ab7": 1794698230.7024791,
   "608e807e708ec83c": 1794698232.960872,
   "26826c90a5ab6603": 1794698233.943754,
-  "549d7250e97321b6": 1794698235.951717
+  "549d7250e97321b6": 1794698235.951717,
+  "77a53c187fd5e6ec": 1794700947.6872153,
+  "1c6aa95115de9084": 1794700949.0692847,
+  "fa9dd1a98c6c8ca7": 1794700950.1905289,
+  "0b1b1d2caed05141": 1794700952.454991,
+  "111a45ab15d5cafd": 1794700953.471785
  },
  "titles": {
-  "ec7f5a8096bdad8a": 1794096141.3540978,
   "3d58a16739e62697": 1794100822.4346514,
   "8c4883e4c74d7152": 1794108054.2595153,
   "a8d0d5671915e5d1": 1794111973.786345,
@@ -800,29 +803,14 @@
   "d8c8b9a5cfe6f6fb": 1794698230.7024791,
   "b9c7c00e55834b1f": 1794698232.960872,
   "934bbbd15f3f1dac": 1794698233.943754,
-  "ea59e57f499188fd": 1794698235.951717
+  "ea59e57f499188fd": 1794698235.951717,
+  "75a2af3012e1b21f": 1794700947.6872153,
+  "de56da998d4d21e1": 1794700949.0692847,
+  "f3236d243ba7855b": 1794700950.1905289,
+  "81f2be8bbc84eb8b": 1794700952.454991,
+  "c7152e674d047c2e": 1794700953.471785
  },
  "recent": [
-  {
-   "h": "Despite Korea injury: Saudi national team star ready for Al-Ahli and Al-Nassr clasico — Despite Korea injury: Saudi national team star ready for Al-Ahli and Al-Nassr clasico Goal.com",
-   "t": 1794663422.983939
-  },
-  {
-   "h": "سيحمل رقم 7.. من يخلف كريستيانو رونالدو في البرتغال؟ — سيحمل رقم 7.. من يخلف كريستيانو رونالدو في البرتغال؟ يلاكورة",
-   "t": 1794663424.5884497
-  },
-  {
-   "h": "النصر يغلق قائمته بـ«غريب» ... والرقابة المالية ترفض «النجار» — النصر يغلق قائمته بـ«غريب» ... والرقابة المالية ترفض «النجار» الشرق الأوسط",
-   "t": 1794663427.036663
-  },
-  {
-   "h": "\"Cristiano Ronaldo fue y es el más grande y el mejor de Portugal, de Europa y del mundo\" — El duelo ante Dinamarca marca el punto de inicio de una nueva era después de 23 años de servicio al combinado nacional ...",
-   "t": 1794663428.2452495
-  },
-  {
-   "h": "Tras las acusaciones de favoritismo hacia Cristiano Ronaldo, el Al-Ahli se arma con árbitros extranjeros para el clásico — Tras las acusaciones de favoritismo hacia Cristiano Ronaldo, el Al-Ahli se arma con árbitros extranjeros para el clásico Goal.com",
-   "t": 1794669249.0385509
-  },
   {
    "h": "بعد اتهامات محاباة رونالدو.. الأهلي يتسلح بالحكام الأجانب في الكلاسيكو — بعد اتهامات محاباة رونالدو.. الأهلي يتسلح بالحكام الأجانب في الكلاسيكو Kooora",
    "t": 1794669250.7402267
@@ -1042,6 +1030,26 @@
   {
    "h": "El homenaje a Cristiano acaba en la peor derrota en ocho años — Portugal, que disputó su primer partido tras la retirada de la selección de CR7, no perdía por tres goles de diferencia desde que el 26 de marzo de 2018 sucumbiera ante Países Bajos (3-0) ...",
    "t": 1794698236.3093576
+  },
+  {
+   "h": "Portugal suffer their heaviest defeat in Ronaldo's absence in 23 years — Portugal suffer their heaviest defeat in Ronaldo's absence in 23 years Goal.com",
+   "t": 1794700948.4012792
+  },
+  {
+   "h": "البرتغال تتكبد أثقل هزيمة في غياب رونالدو منذ 23 عامًا — البرتغال تتكبد أثقل هزيمة في غياب رونالدو منذ 23 عامًا Kooora",
+   "t": 1794700949.6098824
+  },
+  {
+   "h": "كريستيانو رونالدو يتزوج شريكته جورجينا رودريغيز — كريستيانو رونالدو يتزوج شريكته جورجينا رودريغيز الشرق الأوسط",
+   "t": 1794700951.8867323
+  },
+  {
+   "h": "Portugal inicia la era post Cristiano Ronaldo humillada en casa y con muchas dudas — Højlund fue el verdugo. El delantero danés, que ya había marcado en el enfrentamiento de ida en octubre (cuando Portugal ganó 4-2 en Copenhague), volvió a aparecer en el momento clave. El 2-0 y el 3-0 ...",
+   "t": 1794700952.837163
+  },
+  {
+   "h": "البرتغال تخلّد رقم رونالدو التاريخي بعلامة مميزة — دخل منتخب البرتغال رسمياً حقبة جديدة عقب اعتزال كريستيانو رونالدو اللعب دولياً، لكن إرث المهاجم الأسطوري سيظل محفوراً إلى الأبد في تاريخ المنتخب الوطني.",
+   "t": 1794700953.7260413
   }
  ],
  "x_user_ids": {
