@@ -1,11 +1,6 @@
 {
- "last_run": 1794775945.254022,
+ "last_run": 1794778328.5537882,
  "seen": {
-  "36c6aaade659b647": 1794172070.6035285,
-  "325971835e49871f": 1794172072.4018974,
-  "522c95b51c31583e": 1794172073.6762192,
-  "914608e0f19c92ce": 1794172075.7148995,
-  "db0ea710d4879685": 1794172077.0772073,
   "8cb57f8152d51542": 1794174592.2237706,
   "3d34f60367758ab3": 1794174593.034067,
   "88c03e1f49ecacd9": 1794177125.1616666,
@@ -409,14 +404,13 @@
   "266e38d385464ff7": 1794775934.3809597,
   "34115728ae4f7d95": 1794775937.8119056,
   "0316ddafd3cfa958": 1794775941.1047535,
-  "c90f2a73fcf935d2": 1794775944.322566
+  "c90f2a73fcf935d2": 1794775944.322566,
+  "0f78506d0222faaa": 1794778321.7233984,
+  "99753793acb173bb": 1794778323.1579814,
+  "b050d01d8bb90bc1": 1794778324.0880744,
+  "fc294345c0296f61": 1794778326.506215
  },
  "titles": {
-  "60aa50b0ce4dd940": 1794172070.6035285,
-  "87cdb5135843d9ff": 1794172072.4018974,
-  "e5c5482917891ae7": 1794172073.6762192,
-  "e9bffb8933f99b43": 1794172075.7148995,
-  "1fc539c85a2f813e": 1794172077.0772073,
   "cbc0fd6eb6e1cedd": 1794174592.2237706,
   "22af2c61301bbc71": 1794174593.034067,
   "6dd15ee75be97c30": 1794177125.1616666,
@@ -820,25 +814,13 @@
   "d0abef6463be4656": 1794775934.3809597,
   "ae0d9e6c1b537244": 1794775937.8119056,
   "57d90f20d513dd8c": 1794775941.1047535,
-  "acb6254a828e496a": 1794775944.322566
+  "acb6254a828e496a": 1794775944.322566,
+  "8522d797ab3631e9": 1794778321.7233984,
+  "2c0e74df0b621b8c": 1794778323.1579814,
+  "b9c97b3076148362": 1794778324.0880744,
+  "2d7c68bec9add352": 1794778326.506215
  },
  "recent": [
-  {
-   "h": "De pie ante la leyenda: Portugal rinde tributo a Cristiano Ronaldo en el inicio de una nueva era — De pie ante la leyenda: Portugal rinde tributo a Cristiano Ronaldo en el inicio de una nueva era marca usa",
-   "t": 1794698229.0999782
-  },
-  {
-   "h": "No Ronaldo, No Party: Post-Cristiano Era Begins in Disaster as Denmark Routs Portugal 4-1 — It was a very well-constructed move by the Danes, who took advantage of the Portuguese passivity, with Damsgaard in the box crossing toward the far post, where Hojlund, with no one marking him, hit it ...",
-   "t": 1794698231.098069
-  },
-  {
-   "h": "Jorge Jesus: \"¿Echar de menos a Cristiano? Ya no está aquí\" — Preguntado por el homenaje realizado a Cristiano Ronaldo a la salida del túnel de vestuarios, con los titulares vistiendo su mítico '7', y con el aplauso de la grada llegado el minuto siete, Jorge ...",
-   "t": 1794698233.3077505
-  },
-  {
-   "h": "Sin Cristiano Ronaldo no hay fiesta: Dinamarca humilla 4-1 a Portugal en el inicio de una nueva etapa — P ortugal sufrió este sábado una dura derrota ante Dinamarca (1-4) en la UEFA Nations League en el que fue el primer partido de los lusos desde que Cristiano Ronaldo hiciera pública su retirada de la ...",
-   "t": 1794698234.3335702
-  },
   {
    "h": "El homenaje a Cristiano acaba en la peor derrota en ocho años — Portugal, que disputó su primer partido tras la retirada de la selección de CR7, no perdía por tres goles de diferencia desde que el 26 de marzo de 2018 sucumbiera ante Países Bajos (3-0) ...",
    "t": 1794698236.3093576
@@ -1062,6 +1044,22 @@
   {
    "h": "الهزاع والحماد لـ«الشرق الأوسط»: لا لرحيل دونيس — رشح خالد الهزاع، لاعب النصر السابق، نجم الأخضر والنادي الأهلي فراس البريكان للفوز بجائزة أفضل لاعب آسيوي، في ظل النتائج الأخيرة التي حققها، مشيراً في الوقت ذاته إلى أن سالم الدوسري أيضاً يستحق الجائزة ...",
    "t": 1794775944.7127566
+  },
+  {
+   "h": "بسبب رونالدو.. بيرس مورغان يصف جيسوس بـ«المهرج» — بسبب رونالدو.. بيرس مورغان يصف جيسوس بـ«المهرج» عكاظ",
+   "t": 1794778322.6212282
+  },
+  {
+   "h": "خبير: 37 بالمئة سيفقدون شغفهم بعد رونالدو.. وخسائر البرتغال تظهر في 2030 — خبير: 37 بالمئة سيفقدون شغفهم بعد رونالدو.. وخسائر البرتغال تظهر في 2030 العربية",
+   "t": 1794778323.661797
+  },
+  {
+   "h": "النصر يهدّد شباك الرياض بـ«الهجوم الضارب»... والاتحاد في اختبار القادسية — النصر يهدّد شباك الرياض بـ«الهجوم الضارب»... والاتحاد في اختبار القادسية الشرق الأوسط",
+   "t": 1794778325.998083
+  },
+  {
+   "h": "رسمياً… أحمد السلطان رئيساً لنادي النصر — رسمياً… أحمد السلطان رئيساً لنادي النصر الشرق الأوسط",
+   "t": 1794778328.1222486
   }
  ],
  "x_user_ids": {
