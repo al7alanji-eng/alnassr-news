@@ -1,11 +1,6 @@
 {
- "last_run": 1794763882.2427943,
+ "last_run": 1794766691.2185645,
  "seen": {
-  "68d0a4357278be9d": 1794160938.452782,
-  "19a976f9bbabed01": 1794160939.3814247,
-  "70a9a1dcff4bf0c5": 1794160942.8935096,
-  "3bd106dd20873ca9": 1794160944.7957075,
-  "9b976b27f96f1ba7": 1794160947.4300973,
   "edd1ec98852391b3": 1794164283.9116452,
   "e9da85571c95c127": 1794164285.4123437,
   "6b37e5c68d2c7a37": 1794166954.2998188,
@@ -402,14 +397,15 @@
   "98aa2c994d50a114": 1794759036.9789748,
   "b8fe8d97ab34322c": 1794759038.8467934,
   "3b11ad92ed657fa3": 1794761709.955243,
-  "913920b7cfb5badf": 1794763880.8351314
+  "913920b7cfb5badf": 1794763880.8351314,
+  "c8de61f387aefdf8": 1794766682.531335,
+  "bef0f904a075af5c": 1794766685.0866573,
+  "9f8006b938946cf4": 1794766686.2188437,
+  "3a8294acdd7854b2": 1794766687.3378947,
+  "d9b6ac69ec71d03b": 1794766688.9110785,
+  "27e4f84385c7c9bf": 1794766690.1701086
  },
  "titles": {
-  "16a6d26fbda18145": 1794160938.452782,
-  "b9bee498c8b67753": 1794160939.3814247,
-  "b090e6c8b6601809": 1794160942.8935096,
-  "fe070ba3e9539a38": 1794160944.7957075,
-  "9b585c4ef509a1c0": 1794160947.4300973,
   "5ea2b9053e5c9893": 1794164283.9116452,
   "197ed195840dd185": 1794164285.4123437,
   "de2904202ed700fa": 1794166954.2998188,
@@ -806,33 +802,15 @@
   "7eaa5ca0dd252d9c": 1794759036.9789748,
   "6e4d9bb247bb880b": 1794759038.8467934,
   "4ceb014ea693cc49": 1794761709.955243,
-  "568e21e89e8f1759": 1794763880.8351314
+  "568e21e89e8f1759": 1794763880.8351314,
+  "234b8ef6e67121d4": 1794766682.531335,
+  "f2aa270dd536841d": 1794766685.0866573,
+  "47d68cf4fbeafb41": 1794766686.2188437,
+  "16bb57c77ad79644": 1794766687.3378947,
+  "bbd2a750fed021a4": 1794766688.9110785,
+  "f20acddaf5562d98": 1794766690.1701086
  },
  "recent": [
-  {
-   "h": "Al-Hilal style: an aerial Joey drill prepares Al-Nassr for the Al-Ahli clasico — Al-Hilal style: an aerial Joey drill prepares Al-Nassr for the Al-Ahli clasico Goal.com",
-   "t": 1794685287.831548
-  },
-  {
-   "h": "قبل «كلاسيكو» النصر.. ترتيبات تعيد البريكان — قبل «كلاسيكو» النصر.. ترتيبات تعيد البريكان صحيفة الرياضية",
-   "t": 1794687570.833924
-  },
-  {
-   "h": "بوستيكوغلو: رونالدو جاهز لمواجهة نيفتشي الأوزبكي... والإصابات تضيق خيارات النصر السعودي — بوستيكوغلو: رونالدو جاهز لمواجهة نيفتشي الأوزبكي... والإصابات تضيق خيارات النصر السعودي الشرق الأوسط",
-   "t": 1794687572.5038722
-  },
-  {
-   "h": "Portugal se rinde a Cristiano — El Municipal de Braga ha sido testigo del 'Día 1' de Portugal sin Cristiano Ronaldo. Era importante rendir un homenaje a la altura, a pesar de que el adiós no fue el que a todo el mundo le hubiese ...",
-   "t": 1794687573.1686342
-  },
-  {
-   "h": "Nations League: la selección de Portugal está lista para comenzar la era post Cristiano Ronaldo — © De conformidad con lo previsto en el artículo 67.3 del Real Decreto - ley 24/2021, de 2 de noviembre, la reproducción y utilización de las obras y otras prestaciones disponibles en este portal web m ...",
-   "t": 1794687574.091283
-  },
-  {
-   "h": "بالفيديو: جماهير البرتغال تودع رونالدو بثلاث كلمات.. والمباراة تتوقف من أجله — بالفيديو: جماهير البرتغال تودع رونالدو بثلاث كلمات.. والمباراة تتوقف من أجله Kooora",
-   "t": 1794690623.554681
-  },
   {
    "h": "في الدقيقة السابعة.. تحية خاصة لرونالدو بـ \"حفل تصفيق\" من مدرجات البرتغال — في الدقيقة السابعة.. تحية خاصة لرونالدو بـ \"حفل تصفيق\" من مدرجات البرتغال يلاكورة",
    "t": 1794690625.9185908
@@ -1048,6 +1026,30 @@
   {
    "h": "Al Nassr já tomou decisão: Sadio Mané pode sair a custo zero — Sauditas não querem renovar contrato com o avançado senegalês, pese as cedências do jogador a nível financeiro ...",
    "t": 1794763881.5007854
+  },
+  {
+   "h": "بداية ونهاية: رونالدو سلم الراية لنجله ولكن .. عذرًا كريستيانو جونيور فالسير على درب أبناء زيدان \"صعب\"! — بداية ونهاية: رونالدو سلم الراية لنجله ولكن .. عذرًا كريستيانو جونيور فالسير على درب أبناء زيدان \"صعب\"! Goal.com",
+   "t": 1794766684.2496846
+  },
+  {
+   "h": "Pese al título de liga y a sus excelentes cifras: Al-Nassr prescinde, al parecer, de una exestrella del Bayern de Múnich — Pese al título de liga y a sus excelentes cifras: Al-Nassr prescinde, al parecer, de una exestrella del Bayern de Múnich Goal.com",
+   "t": 1794766685.4925127
+  },
+  {
+   "h": "Will Cristiano Ronaldo and Joao Felix follow too? Sadio Mane will probably have to leave Al-Nassr — Will Cristiano Ronaldo and Joao Felix follow too? Sadio Mane will probably have to leave Al-Nassr Goal.com",
+   "t": 1794766686.6325674
+  },
+  {
+   "h": "Pese al título de liga y sus excelentes registros, Al-Nassr prescindiría de una antigua estrella del Bayern de Múnich — Pese al título de liga y sus excelentes registros, Al-Nassr prescindiría de una antigua estrella del Bayern de Múnich Goal.com",
+   "t": 1794766688.1980934
+  },
+  {
+   "h": "Radikaler Umbruch im Sommer? Al-Nassr und Sadio Mane werden sich vermutlich trennen - folgen auch Cristiano Ronaldo und Joao Felix? — Wie der saudische Journalist Falah Al-Qahtani von der Zeitung Okaz berichtet, wird Sadio Mane Al-Nassr im Sommer verlassen - folgen ihm auch Cristiano Ronaldo und Joao Felix?",
+   "t": 1794766689.1465058
+  },
+  {
+   "h": "Malgré un titre de champion et des statistiques de premier plan, Al-Nassr mettrait à la porte une ancienne star du Bayern Munich — Al-Nassr se séparera de Sadio Mané sans indemnité de transfert à la fin de la saison, selon Falah Al-Qahtani, journaliste saoudien du quotidien Okaz. Le club risque également de voir partir Cristiano ...",
+   "t": 1794766690.5484328
   }
  ],
  "x_user_ids": {
