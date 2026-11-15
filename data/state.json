@@ -1,9 +1,6 @@
 {
- "last_run": 1794781276.52027,
+ "last_run": 1794784046.6415503,
  "seen": {
-  "88c03e1f49ecacd9": 1794177125.1616666,
-  "48f11858fe72a3ed": 1794177126.5799358,
-  "30b51feae3951a57": 1794177128.317321,
   "7ca059678c068d54": 1794179839.613781,
   "c02fb9a2b612bef0": 1794179841.6347585,
   "fbadfefdb8681788": 1794179842.821106,
@@ -412,12 +409,13 @@
   "681a1f5c464a3f7e": 1794781266.6379116,
   "1a2373ff58d638b5": 1794781268.7099178,
   "6e3181a825989d88": 1794781272.7083566,
-  "939dc2a65af4f177": 1794781275.4069867
+  "939dc2a65af4f177": 1794781275.4069867,
+  "4ea2b10429a13a2f": 1794784041.677053,
+  "46e549d2d5657b9d": 1794784042.691856,
+  "c7a3f90f2278790c": 1794784045.4034488,
+  "4fbbb80516be0286": 1794784046.0718532
  },
  "titles": {
-  "6dd15ee75be97c30": 1794177125.1616666,
-  "3ca1cf49bb60ba4f": 1794177126.5799358,
-  "c0dd635dde1d17b1": 1794177128.317321,
   "b9e202ceec721158": 1794179839.613781,
   "c76e402f445e52bc": 1794179841.6347585,
   "2477fc360e5b78b2": 1794179842.821106,
@@ -826,25 +824,13 @@
   "86a0ad5033a39020": 1794781266.6379116,
   "d7f0b04588e37b71": 1794781268.7099178,
   "dc588d5975093d5a": 1794781272.7083566,
-  "b59758bbeb81ed22": 1794781275.4069867
+  "b59758bbeb81ed22": 1794781275.4069867,
+  "9f354586ddc3cc94": 1794784041.677053,
+  "a8d0d5671915e5d1": 1794784042.691856,
+  "c7d3e39b72e912aa": 1794784045.4034488,
+  "6b21199d43420839": 1794784046.0718532
  },
  "recent": [
-  {
-   "h": "النصر يعلن ضم البرتغالي الدولي سامو كوستا — النصر يعلن ضم البرتغالي الدولي سامو كوستا الشرق الأوسط",
-   "t": 1794705788.711864
-  },
-  {
-   "h": "تيفو وقمصان موحدة.. البرتغال تكرم رونالدو في أول مباراة بعد اعتزاله الدولي (صور) — تيفو وقمصان موحدة.. البرتغال تكرم رونالدو في أول مباراة بعد اعتزاله الدولي (صور) يلاكورة",
-   "t": 1794705790.3991518
-  },
-  {
-   "h": "رونالدو ينهي مسيرته الأسطورية مع البرتغال... ويعلّق قميصها إلى الأبد — رونالدو ينهي مسيرته الأسطورية مع البرتغال... ويعلّق قميصها إلى الأبد الشرق الأوسط",
-   "t": 1794709477.9985673
-  },
-  {
-   "h": "Argentina and Portugal refuse life without Messi and Ronaldo — Argentina and Portugal refuse life without Messi and Ronaldo Goal.com",
-   "t": 1794731524.7257986
-  },
   {
    "h": "Jorge Jesús: \"¿Qué vamos a echar de menos? Si Cristiano ya no está disponible para la selección\" — El seleccionador portugués, Jorge Jesús, valoró el rendimiento del equipo y la retirada de Cristiano Ronaldo tras la derrota (1-4) en el partido en el que se homenajeó a CR7.",
    "t": 1794734915.3339038
@@ -1068,6 +1054,22 @@
   {
    "h": "Double move: Al-Nassr sacrifices one of its stars to secure Joao Felix's stay — Alongside the push for Joao Felix, Al-Nassr have taken a decisive call to renew Inigo Martinez for a further season. The 35-year-old Basque defender has established himself as the undisputed leader of ...",
    "t": 1794781276.0256937
+  },
+  {
+   "h": "رونالدو «جونيور» يسجل ظهوره الأول مع البرتغال 17 — رونالدو «جونيور» يسجل ظهوره الأول مع البرتغال 17 صحيفة الرياضية",
+   "t": 1794784042.2672124
+  },
+  {
+   "h": "كاردينالي: تواصلوا معي للاستثمار في النصر... وأرغب بلقاء رونالدو — كاردينالي: تواصلوا معي للاستثمار في النصر... وأرغب بلقاء رونالدو الشرق الأوسط",
+   "t": 1794784044.5323312
+  },
+  {
+   "h": "جواو نصراويّا.. ومايو حاسم — تحسم رغبة نادي النصر مسألة استمرار الدولي البرتغالي جواو فيليش، لاعب الفريق الأول لكرة القدم، من عدمها، وفق بند يحل موعد تنفيذه نهاية مايو المقبل، وينص على أحقية النادي العاصمي في قرار عدم المضي في ال ...",
+   "t": 1794784045.7005737
+  },
+  {
+   "h": "Movimento duplo: Al-Nassr sacrifica um de seus astros para garantir a permanência de João Félix — A operação de planejamento esportivo dentro do clube saudita Al-Nassr não para, já que a diretoria do \"Al-Alami\" já está trabalhando, com os olhos voltados para a próxima temporada.",
+   "t": 1794784046.2378867
   }
  ],
  "x_user_ids": {
