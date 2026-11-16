@@ -1,5 +1,5 @@
 {
- "last_run": 1794842469.0172024,
+ "last_run": 1794847976.5507274,
  "seen": {
   "c63e2b0b5f97bf3d": 1794243564.1178005,
   "a7f8605f5dfdc2b1": 1794243565.7487185,
@@ -417,7 +417,13 @@
   "8446c750b26fc2cf": 1794842461.7813008,
   "db9a670da3854199": 1794842463.3155138,
   "2f7dcb8d1ea61da9": 1794842464.4753976,
-  "b757ec0eeba60348": 1794842466.9053252
+  "b757ec0eeba60348": 1794842466.9053252,
+  "7efe488e8dbe0c76": 1794847963.9421365,
+  "8521eeb0c276730a": 1794847965.5698764,
+  "504491860977e005": 1794847966.951085,
+  "f4f5222e0d47ff1a": 1794847972.7817974,
+  "e2af9c4e9a6fc847": 1794847974.289658,
+  "74a983c3702df4bf": 1794847975.5893185
  },
  "titles": {
   "cf37d847514c0fba": 1794243564.1178005,
@@ -836,33 +842,15 @@
   "515196077f02f2b1": 1794842461.7813008,
   "e562a965e923edd2": 1794842463.3155138,
   "56a69cf4095b4093": 1794842464.4753976,
-  "b689fa0fd05dc574": 1794842466.9053252
+  "b689fa0fd05dc574": 1794842466.9053252,
+  "07862ca600d92798": 1794847963.9421365,
+  "0e3674c8c5881d97": 1794847965.5698764,
+  "a75932bda249bdb8": 1794847966.951085,
+  "039b44fd87d55bd8": 1794847972.7817974,
+  "5940f2318c72a278": 1794847974.289658,
+  "cc7e7d2188820303": 1794847975.5893185
  },
  "recent": [
-  {
-   "h": "How Portugal’s send-off for Cristiano Ronaldo turned into a horror show — Life after Ronaldo began in the worst possible fashion for Jorge Jesus and his side with a 4-1 hammering at home to Denmark ...",
-   "t": 1794759039.2487557
-  },
-  {
-   "h": "مسيرات تستهدف 3 سفن قرب قناة رومانية بالبحر الأسود — مسيرات تستهدف 3 سفن قرب قناة رومانية بالبحر الأسود الشرق الأوسط",
-   "t": 1794761712.149781
-  },
-  {
-   "h": "Al Nassr já tomou decisão: Sadio Mané pode sair a custo zero — Sauditas não querem renovar contrato com o avançado senegalês, pese as cedências do jogador a nível financeiro ...",
-   "t": 1794763881.5007854
-  },
-  {
-   "h": "بداية ونهاية: رونالدو سلم الراية لنجله ولكن .. عذرًا كريستيانو جونيور فالسير على درب أبناء زيدان \"صعب\"! — بداية ونهاية: رونالدو سلم الراية لنجله ولكن .. عذرًا كريستيانو جونيور فالسير على درب أبناء زيدان \"صعب\"! Goal.com",
-   "t": 1794766684.2496846
-  },
-  {
-   "h": "Pese al título de liga y a sus excelentes cifras: Al-Nassr prescinde, al parecer, de una exestrella del Bayern de Múnich — Pese al título de liga y a sus excelentes cifras: Al-Nassr prescinde, al parecer, de una exestrella del Bayern de Múnich Goal.com",
-   "t": 1794766685.4925127
-  },
-  {
-   "h": "Will Cristiano Ronaldo and Joao Felix follow too? Sadio Mane will probably have to leave Al-Nassr — Will Cristiano Ronaldo and Joao Felix follow too? Sadio Mane will probably have to leave Al-Nassr Goal.com",
-   "t": 1794766686.6325674
-  },
   {
    "h": "Pese al título de liga y sus excelentes registros, Al-Nassr prescindiría de una antigua estrella del Bayern de Múnich — Pese al título de liga y sus excelentes registros, Al-Nassr prescindiría de una antigua estrella del Bayern de Múnich Goal.com",
    "t": 1794766688.1980934
@@ -1078,6 +1066,30 @@
   {
    "h": "Return draws near: Al-Qadsiah await their top scorer before Al-Nassr clash — Return draws near: Al-Qadsiah await their top scorer before Al-Nassr clash Goal.com",
    "t": 1794842468.335476
+  },
+  {
+   "h": "\"سعدت بالهزيمة أمام الدنمارك\" .. والدة كريستيانو رونالدو تهاجم نجوم البرتغال: لم يحترموا نجلي! — \"سعدت بالهزيمة أمام الدنمارك\" .. والدة كريستيانو رونالدو تهاجم نجوم البرتغال: لم يحترموا نجلي! Goal.com",
+   "t": 1794847964.8863294
+  },
+  {
+   "h": "La Libreta de Van Gaal: \"Traición a Cristiano Ronaldo\" — La Libreta de Van Gaal: \"Traición a Cristiano Ronaldo\" MARCA",
+   "t": 1794847966.1006582
+  },
+  {
+   "h": "العودة اقتربت.. القادسية يترقب هدافه قبل مواجهة النصر — العودة اقتربت.. القادسية يترقب هدافه قبل مواجهة النصر Kooora",
+   "t": 1794847971.8676
+  },
+  {
+   "h": "El regreso se acerca: el Al Qadsiah espera a su goleador antes de medirse al Al Nassr — El regreso se acerca: el Al Qadsiah espera a su goleador antes de medirse al Al Nassr Goal.com",
+   "t": 1794847973.5494237
+  },
+  {
+   "h": "فينيسيوس يكشف الأسرار .. ويقتدي برونالدو وميسي — فينيسيوس يكشف الأسرار .. ويقتدي برونالدو وميسي صحيفة الرياضية",
+   "t": 1794847974.9498427
+  },
+  {
+   "h": "جواو فيليكس يترقب حسم مصيره مع النصر.. بند مُفاجئ وإغراءات ضخمة — جواو فيليكس يترقب حسم مصيره مع النصر.. بند مُفاجئ وإغراءات ضخمة بطولات",
+   "t": 1794847976.1035216
   }
  ],
  "x_user_ids": {
