@@ -1,9 +1,6 @@
 {
- "last_run": 1794861953.1790435,
+ "last_run": 1794865421.1910975,
  "seen": {
-  "58fda41c0225a4d0": 1794257255.1904812,
-  "734068c8b6581439": 1794257257.9117365,
-  "a97fbf37837bc07a": 1794257259.9338033,
   "c4cc7f7e4feb35b1": 1794260672.869507,
   "c2fb919751a01c9c": 1794260675.0107877,
   "a440fe5048e84495": 1794260677.269304,
@@ -434,12 +431,12 @@
   "eaec5f677c783ee7": 1794861947.2817228,
   "0f9050f010105edc": 1794861948.8686879,
   "ae1be2bdb63bd263": 1794861950.598942,
-  "cd4bfc02ed2bcfb3": 1794861952.2349138
+  "cd4bfc02ed2bcfb3": 1794861952.2349138,
+  "a020afdf36866c9f": 1794865415.6289515,
+  "2a071b0dac1f6907": 1794865416.7066898,
+  "33ec9fca7027d6f1": 1794865417.8114333
  },
  "titles": {
-  "8b917fbbd632fc15": 1794257255.1904812,
-  "b6696f192af3cafc": 1794257257.9117365,
-  "94a0ab3c52d0fdcc": 1794257259.9338033,
   "2c5d8e21cb8147a9": 1794260672.869507,
   "67922711854942d5": 1794260675.0107877,
   "ccadef343209152c": 1794260677.269304,
@@ -870,21 +867,12 @@
   "266d7ca05710791d": 1794861947.2817228,
   "8afc4168e7e76bae": 1794861948.8686879,
   "cd70e45f65a50800": 1794861950.598942,
-  "a81912bbeeb7bbaf": 1794861952.2349138
+  "a81912bbeeb7bbaf": 1794861952.2349138,
+  "75484a5a0930114f": 1794865415.6289515,
+  "e54a852dc8c25322": 1794865416.7066898,
+  "c25b619649b74337": 1794865417.8114333
  },
  "recent": [
-  {
-   "h": "Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay — Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay Goal.com",
-   "t": 1794781266.0780437
-  },
-  {
-   "h": "تحرك مزدوج.. النصر يضحي بأحد نجومه لتأمين بقاء جواو فيليكس — تحرك مزدوج.. النصر يضحي بأحد نجومه لتأمين بقاء جواو فيليكس Kooora",
-   "t": 1794781268.0093749
-  },
-  {
-   "h": "لحظات صنعت الفارق في موسم التتويج الأول لرونالدو مع النصر — لحظات صنعت الفارق في موسم التتويج الأول لرونالدو مع النصر الشرق الأوسط",
-   "t": 1794781271.3469098
-  },
   {
    "h": "Langkah ganda: Al Nassr korbankan salah satu bintangnya demi mengamankan masa depan Joao Felix — Proses perencanaan olahraga di dalam klub Al Nassr Saudi tidak pernah berhenti, sebab manajemen \"Al Alami\" sudah bekerja dengan menjadikan musim depan sebagai fokus perhatian mereka.",
    "t": 1794781274.8547094
@@ -1112,6 +1100,18 @@
   {
    "h": "Jorge Jesus, sobre la madre de Cristiano: \"Una madre es una madre\" — El entrenador portugués compareció en rueda de prensa y evidentemente se tuvo que enfrentar a las preguntas que tenía relación las últimas declaraciones de Dolores Aveiro, madre de Cristiano Ronaldo.",
    "t": 1794861952.6499517
+  },
+  {
+   "h": "حركة غامضة من كريستيانو رونالدو تثير حيرة الجماهير — حركة غامضة من كريستيانو رونالدو تثير حيرة الجماهير يلاكورة",
+   "t": 1794865416.3047628
+  },
+  {
+   "h": "رئيس الاتحاد الألماني: ترشح ديالو لمنافسة إنفانتينو «يحمل رسالة واضحة» — رئيس الاتحاد الألماني: ترشح ديالو لمنافسة إنفانتينو «يحمل رسالة واضحة» الشرق الأوسط",
+   "t": 1794865417.3844066
+  },
+  {
+   "h": "«جونيور» نجل رونالدو على مشارف الانضمام إلى ناشئي الريال — «جونيور» نجل رونالدو على مشارف الانضمام إلى ناشئي الريال الشرق الأوسط",
+   "t": 1794865419.8262143
   }
  ],
  "x_user_ids": {
