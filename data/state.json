@@ -1,5 +1,5 @@
 {
- "last_run": 1794858728.1761484,
+ "last_run": 1794861953.1790435,
  "seen": {
   "58fda41c0225a4d0": 1794257255.1904812,
   "734068c8b6581439": 1794257257.9117365,
@@ -429,7 +429,12 @@
   "f4b7a2ec7a0955cd": 1794858722.720881,
   "166c620aef541ffc": 1794858724.600957,
   "b7b0da3b51edef2c": 1794858725.961556,
-  "4f3318c8e8f9edb4": 1794858727.3125148
+  "4f3318c8e8f9edb4": 1794858727.3125148,
+  "3b8431e977ce788b": 1794861946.049483,
+  "eaec5f677c783ee7": 1794861947.2817228,
+  "0f9050f010105edc": 1794861948.8686879,
+  "ae1be2bdb63bd263": 1794861950.598942,
+  "cd4bfc02ed2bcfb3": 1794861952.2349138
  },
  "titles": {
   "8b917fbbd632fc15": 1794257255.1904812,
@@ -860,29 +865,14 @@
   "54587dd3b912c6e8": 1794858722.720881,
   "805ee9f2e1148b95": 1794858724.600957,
   "88c37d268c5cbd10": 1794858725.961556,
-  "81f5abd7c2814ff6": 1794858727.3125148
+  "81f5abd7c2814ff6": 1794858727.3125148,
+  "626231f236ba94a3": 1794861946.049483,
+  "266d7ca05710791d": 1794861947.2817228,
+  "8afc4168e7e76bae": 1794861948.8686879,
+  "cd70e45f65a50800": 1794861950.598942,
+  "a81912bbeeb7bbaf": 1794861952.2349138
  },
  "recent": [
-  {
-   "h": "بسبب رونالدو.. بيرس مورغان يصف جيسوس بـ«المهرج» — بسبب رونالدو.. بيرس مورغان يصف جيسوس بـ«المهرج» عكاظ",
-   "t": 1794778322.6212282
-  },
-  {
-   "h": "خبير: 37 بالمئة سيفقدون شغفهم بعد رونالدو.. وخسائر البرتغال تظهر في 2030 — خبير: 37 بالمئة سيفقدون شغفهم بعد رونالدو.. وخسائر البرتغال تظهر في 2030 العربية",
-   "t": 1794778323.661797
-  },
-  {
-   "h": "النصر يهدّد شباك الرياض بـ«الهجوم الضارب»... والاتحاد في اختبار القادسية — النصر يهدّد شباك الرياض بـ«الهجوم الضارب»... والاتحاد في اختبار القادسية الشرق الأوسط",
-   "t": 1794778325.998083
-  },
-  {
-   "h": "رسمياً… أحمد السلطان رئيساً لنادي النصر — رسمياً… أحمد السلطان رئيساً لنادي النصر الشرق الأوسط",
-   "t": 1794778328.1222486
-  },
-  {
-   "h": "Doble movimiento: Al-Nassr sacrifica a una de sus estrellas para asegurar la continuidad de Joao Félix — Doble movimiento: Al-Nassr sacrifica a una de sus estrellas para asegurar la continuidad de Joao Félix Goal.com",
-   "t": 1794781264.145046
-  },
   {
    "h": "Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay — Double move: Al-Nassr to sacrifice one of its stars to secure João Félix's stay Goal.com",
    "t": 1794781266.0780437
@@ -1102,6 +1092,26 @@
   {
    "h": "¿Por qué Cristiano no ha agradecido aún el homenaje que le hizo Portugal? — La Selección Portuguesa de Fútbol realizó un homenaje a Cristiano Ronaldo tras el anuncio de su retirada. Un momento especial al que CR7 aún no se ha referido en sus redes sociales ni ha agradecido ...",
    "t": 1794858727.668817
+  },
+  {
+   "h": "خيسوس يتجنب «الحرب الكلامية» مع والدة رونالدو — خيسوس يتجنب «الحرب الكلامية» مع والدة رونالدو الشرق الأوسط",
+   "t": 1794861946.7711425
+  },
+  {
+   "h": "النصر يبكّر التدريبات.. بينتو يصل الأربعاء.. وفيليش إلى جدة — النصر يبكّر التدريبات.. بينتو يصل الأربعاء.. وفيليش إلى جدة صحيفة الرياضية",
+   "t": 1794861948.1289656
+  },
+  {
+   "h": "تحضيرات النصر — تحضيرات النصر صحيفة الرياضية",
+   "t": 1794861949.684281
+  },
+  {
+   "h": "جيسوس: أوفيت بوعدي مع رونالدو.. والهروب من أسئلته غير ممكن — جيسوس: أوفيت بوعدي مع رونالدو.. والهروب من أسئلته غير ممكن Kooora",
+   "t": 1794861951.2946196
+  },
+  {
+   "h": "Jorge Jesus, sobre la madre de Cristiano: \"Una madre es una madre\" — El entrenador portugués compareció en rueda de prensa y evidentemente se tuvo que enfrentar a las preguntas que tenía relación las últimas declaraciones de Dolores Aveiro, madre de Cristiano Ronaldo.",
+   "t": 1794861952.6499517
   }
  ],
  "x_user_ids": {
