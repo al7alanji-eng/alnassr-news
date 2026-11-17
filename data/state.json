@@ -1,8 +1,6 @@
 {
- "last_run": 1794934618.4140477,
+ "last_run": 1794938267.2276092,
  "seen": {
-  "d4249c6a1ed9c65a": 1794331916.7916548,
-  "052023f6ee8fa414": 1794331918.6814666,
   "2de3f79ee204c2a8": 1794335153.0294387,
   "7f00728d5a8ea4ee": 1794335154.2854402,
   "e9808fecb8ad8766": 1794335156.1576033,
@@ -426,11 +424,13 @@
   "050bd72708713748": 1794930687.7758818,
   "5cc49e69eb45c072": 1794930689.531194,
   "8fc9c28d86c1f53a": 1794934614.0949101,
-  "b0de4ea48d6995f3": 1794934616.2767498
+  "b0de4ea48d6995f3": 1794934616.2767498,
+  "7a6ecdf2b044c222": 1794938259.442605,
+  "deb2784bbdf8637c": 1794938262.4285078,
+  "5e84f12058cc7b45": 1794938264.0716107,
+  "c309c88788be60bc": 1794938266.062898
  },
  "titles": {
-  "e8354eb4e2302252": 1794331916.7916548,
-  "097c243226c41e22": 1794331918.6814666,
   "1f8ba2ef717db6a0": 1794335153.0294387,
   "3ffc3bc72feadeca": 1794335154.2854402,
   "8d53a3095777e81c": 1794335156.1576033,
@@ -854,25 +854,13 @@
   "7c6cf98ddf723d28": 1794930687.7758818,
   "67f43ca128738014": 1794930689.531194,
   "61a9dfc6cd36740f": 1794934614.0949101,
-  "6e09708dc0bd119e": 1794934616.2767498
+  "6e09708dc0bd119e": 1794934616.2767498,
+  "5893c607964f29dd": 1794938259.442605,
+  "356f3a19d5bc743a": 1794938262.4285078,
+  "dede33c59a38f61a": 1794938264.0716107,
+  "cf5e99b6ab76f5fd": 1794938266.062898
  },
  "recent": [
-  {
-   "h": "Muere Miguel Ángel Félix Gallardo, el 'Jefe de Jefes' del narcotráfico mexicano que inspiró la serie 'Narcos' — Muere Miguel Ángel Félix Gallardo, el 'Jefe de Jefes' del narcotráfico mexicano que inspiró la serie 'Narcos' marca usa",
-   "t": 1794851811.8551905
-  },
-  {
-   "h": "نيفيش: جيسوس يعرفني.. ونريد طي صفحة رونالدو — نيفيش: جيسوس يعرفني.. ونريد طي صفحة رونالدو صحيفة الرياضية",
-   "t": 1794855153.2258313
-  },
-  {
-   "h": "حركة الـ \"M\" تعود للواجهة.. ما سر إشارة كريستيانو رونالدو؟ (فيديو) — حركة الـ \"M\" تعود للواجهة.. ما سر إشارة كريستيانو رونالدو؟ (فيديو) يلاكورة",
-   "t": 1794855155.1542518
-  },
-  {
-   "h": "En defensa de Ronaldo: Piers Morgan insulta a Jorge Jesus y vaticina su futuro — En defensa de Ronaldo: Piers Morgan insulta a Jorge Jesus y vaticina su futuro Goal.com",
-   "t": 1794855156.8649516
-  },
   {
    "h": "In defence of Ronaldo: Piers Morgan insults Jesus and predicts his future — In defence of Ronaldo: Piers Morgan insults Jesus and predicts his future Goal.com",
    "t": 1794855159.2089744
@@ -1096,6 +1084,22 @@
   {
    "h": "تهم التضليل في الانتخابات تلاحق نتنياهو و«الشاباك» والشرطة — بدأت المستشارة القضائية الإسرائيلية والمدعي العام التحقيق في اتهامات لنتنياهو وجهاز الشرطة ورئيس «الشاباك» بالتضليل حول وجود تزوير في الانتخابات البرلمانية.",
    "t": 1794934617.7879806
+  },
+  {
+   "h": "Ronaldo's Race to 1,000: How close will the GOAT get before 2026 wraps up? — Ronaldo's Race to 1,000: How close will the GOAT get before 2026 wraps up? www.spl.com.sa",
+   "t": 1794938261.5398288
+  },
+  {
+   "h": "Con recuerdos de Al Nassr y Al Hilal: cinco minutos meten a Ali Lajami en una lista negra de la selección saudí — Con recuerdos de Al Nassr y Al Hilal: cinco minutos meten a Ali Lajami en una lista negra de la selección saudí Goal.com",
+   "t": 1794938263.502421
+  },
+  {
+   "h": "مصادر «الشرق الأوسط»: بوستيكوغلو يستدعي الحارس الشاب الماص لتدريبات النصر — مصادر «الشرق الأوسط»: بوستيكوغلو يستدعي الحارس الشاب الماص لتدريبات النصر الشرق الأوسط",
+   "t": 1794938265.50008
+  },
+  {
+   "h": "Diwarnai Kenangan Al-Nassr dan Al-Hilal, 5 Menit Membawa Ali Lajami Masuk Daftar Hitam Timnas Arab Saudi — Ali Lajami, bek Al-Hilal, masuk daftar hitam di timnas Arab Saudi setelah tampil buruk dalam laga uji coba melawan Uzbekistan.",
+   "t": 1794938266.6562436
   }
  ],
  "x_user_ids": {
