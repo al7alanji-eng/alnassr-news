@@ -1,5 +1,5 @@
 {
- "last_run": 1794912189.3108926,
+ "last_run": 1794915246.7985616,
  "seen": {
   "f03680558448b821": 1794310490.1298816,
   "330fbe72e85664b7": 1794310495.5138094,
@@ -423,7 +423,11 @@
   "edd5572ddc9ab0d3": 1794912182.7920113,
   "eb79bcc9ff10388b": 1794912184.0482945,
   "5b8a80c35dd5df4e": 1794912186.0401175,
-  "9b405fd43212d698": 1794912187.7645595
+  "9b405fd43212d698": 1794912187.7645595,
+  "62ff327cd7bb8360": 1794915242.0037699,
+  "98af6280bb868685": 1794915243.185343,
+  "48da56b2f12857fc": 1794915244.5821524,
+  "c2ac9f939d4a64a7": 1794915245.7042668
  },
  "titles": {
   "470c23fe2cc85cc2": 1794310490.1298816,
@@ -848,25 +852,13 @@
   "54be59b5bb94e967": 1794912182.7920113,
   "a40269c1af44247f": 1794912184.0482945,
   "d7e1c43e798e25ea": 1794912186.0401175,
-  "317d0a6eb9bf53b8": 1794912187.7645595
+  "317d0a6eb9bf53b8": 1794912187.7645595,
+  "ae48de9fdfe5a733": 1794915242.0037699,
+  "4c43bef72b439c58": 1794915243.185343,
+  "416e45ea24b21ed3": 1794915244.5821524,
+  "df9cfde04ecd78a7": 1794915245.7042668
  },
  "recent": [
-  {
-   "h": "الغنام يدشن رحلة التأهيل في «دار النصر» — الغنام يدشن رحلة التأهيل في «دار النصر» صحيفة الرياضية",
-   "t": 1794842462.6861897
-  },
-  {
-   "h": "الزيدي وجه القوات المسلحة بالدخول إلى «جرف النصر» — الزيدي وجه القوات المسلحة بالدخول إلى «جرف النصر» الشرق الأوسط",
-   "t": 1794842463.9139607
-  },
-  {
-   "h": "La vuelta está cerca: Al Qadsiah espera a su goleador antes del duelo ante Al Nassr — La vuelta está cerca: Al Qadsiah espera a su goleador antes del duelo ante Al Nassr Goal.com",
-   "t": 1794842465.9159236
-  },
-  {
-   "h": "Return draws near: Al-Qadsiah await their top scorer before Al-Nassr clash — Return draws near: Al-Qadsiah await their top scorer before Al-Nassr clash Goal.com",
-   "t": 1794842468.335476
-  },
   {
    "h": "\"سعدت بالهزيمة أمام الدنمارك\" .. والدة كريستيانو رونالدو تهاجم نجوم البرتغال: لم يحترموا نجلي! — \"سعدت بالهزيمة أمام الدنمارك\" .. والدة كريستيانو رونالدو تهاجم نجوم البرتغال: لم يحترموا نجلي! Goal.com",
    "t": 1794847964.8863294
@@ -1090,6 +1082,22 @@
   {
    "h": "Al Nassr FC - Al-Sadd biletleri nasıl alınır? AFC Şampiyonlar Ligi Elit fiyatları, maç bilgileri, son dakika satışları ve daha fazlası — GOAL, Al Nassr - Al-Sadd maçı için bilet fiyatları, maç bilgileri ve biletlerin nereden alınacağı dâhil bilmeniz gereken her şeyi anlatıyor.",
    "t": 1794912188.7328858
+  },
+  {
+   "h": "تشافي يشعر بالصدمة عقب خماسية ألمانيا — تشافي يشعر بالصدمة عقب خماسية ألمانيا الشرق الأوسط",
+   "t": 1794915242.6222181
+  },
+  {
+   "h": "Portugal head coach Jorge Jesus responds to ‘deception’ claims from Cristiano Ronaldo’s mother — Portugal head coach Jorge Jesus responds to ‘deception’ claims from Cristiano Ronaldo’s mother The New York Times",
+   "t": 1794915243.9762802
+  },
+  {
+   "h": "مدرب ويلز يهاجم البرتغاليين: انتقدتم رونالدو ثم افتقدتموه بعد الاعتزال — مدرب ويلز يهاجم البرتغاليين: انتقدتم رونالدو ثم افتقدتموه بعد الاعتزال العربية",
+   "t": 1794915245.214417
+  },
+  {
+   "h": "النصر يطارد الوقت قبل موقعة الأهلي بالكلاسيكو — يواصل فريق النصر استعداداته لمواجهة غريمه الأهلي، في لقاء يقام على ملعب الإنماء، ضمن جولة مؤجلة من الأسبوع التاسع بمسابقة الدوري السعودي.",
+   "t": 1794915246.0348358
   }
  ],
  "x_user_ids": {
