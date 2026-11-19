@@ -1,10 +1,6 @@
 {
- "last_run": 1795096775.2071974,
+ "last_run": 1795100117.652529,
  "seen": {
-  "73aa41af8ccbc976": 1794495227.401501,
-  "8dfab148d9030764": 1794495229.449653,
-  "3fc093229223cb68": 1794495230.9414616,
-  "169564bbca9c4d62": 1794495233.8851905,
   "d398b8a37a1de6ab": 1794498904.9080477,
   "5171b8bbd42204e2": 1794502570.773298,
   "250c0a4ce9cc8598": 1794502573.7636316,
@@ -415,13 +411,13 @@
   "d04c69dd3983377e": 1795096765.8282464,
   "4a36e94516e464b5": 1795096768.323254,
   "c55935c50be9a7f5": 1795096771.2807822,
-  "95c4e2b5cddb7d63": 1795096773.7663553
+  "95c4e2b5cddb7d63": 1795096773.7663553,
+  "648e6c9b67bd323c": 1795100112.2967062,
+  "75c77f8c348dd342": 1795100113.7499938,
+  "46897ede94a436fd": 1795100115.214934,
+  "466fa535655e0142": 1795100116.6913524
  },
  "titles": {
-  "193005b39a3b0a14": 1794495227.401501,
-  "0d9be14297f12b6d": 1794495229.449653,
-  "c2c559b46bbe9752": 1794495230.9414616,
-  "13ac7987b8cd19f9": 1794495233.8851905,
   "fa560b81187af615": 1794498904.9080477,
   "c3f5f6caf394bd71": 1794502570.773298,
   "d06479ca54c6d3de": 1794502573.7636316,
@@ -832,25 +828,13 @@
   "9977b343edd289bb": 1795096765.8282464,
   "44f7aebe3a50a1d7": 1795096768.323254,
   "78a84b0836eef36f": 1795096771.2807822,
-  "a7f7143a2436d2f9": 1795096773.7663553
+  "a7f7143a2436d2f9": 1795096773.7663553,
+  "cf597ffe8e223540": 1795100112.2967062,
+  "233b3e51c19bf169": 1795100113.7499938,
+  "bf9bbac91670ffc6": 1795100115.214934,
+  "ffce4c29edc2fe4e": 1795100116.6913524
  },
  "recent": [
-  {
-   "h": "La vida sin Messi y Cristiano Ronaldo: del tormento a la euforia — Argentina y Portugal comprueban lo que es la vida sin sus máximas figuras; Brasil tardó 24 años en ganar un Mundial sin Pelé; la albiceleste, 36 sin ...",
-   "t": 1795005786.360453
-  },
-  {
-   "h": "ضربات متتالية تربك حسابات الأهلي قبل كلاسيكو النصر — ضربات متتالية تربك حسابات الأهلي قبل كلاسيكو النصر الشرق الأوسط",
-   "t": 1795010343.8831604
-  },
-  {
-   "h": "من مالديني إلى رونالدو... أبناء النجوم يواصلون كتابة التاريخ — من مالديني إلى رونالدو... أبناء النجوم يواصلون كتابة التاريخ الشرق الأوسط",
-   "t": 1795010347.1492696
-  },
-  {
-   "h": "La broma de Bruno Fernandes y Cancelo con el brazalete de Portugal: ¿Se ríen de Cristiano Ronaldo? — La etapa posterior a la turbulenta salida de Cristiano Ronaldo de la selección de Portugal sigue dando que hablar. Uno de los asuntos más controvertidos ha sido la elección del heredero del brazalete ...",
-   "t": 1795010348.7555034
-  },
   {
    "h": "Una lesión deja al Al-Nassr sin su «ídolo de la afición» para el clásico ante el Al-Ahli — Una lesión deja al Al-Nassr sin su «ídolo de la afición» para el clásico ante el Al-Ahli Goal.com",
    "t": 1795013674.632921
@@ -1074,6 +1058,22 @@
   {
    "h": "Dark glasses and trembling hands: 5 things turning up the heat on the Al-Ahli v Al-Nassr Clasico — Dark glasses and trembling hands: 5 things turning up the heat on the Al-Ahli v Al-Nassr Clasico Goal.com",
    "t": 1795096774.5262306
+  },
+  {
+   "h": "الأهلي يستضيف النصر في ديربي جدة بدوري روشن الجمعة — الأهلي يستضيف النصر في ديربي جدة بدوري روشن الجمعة صحيفة سبق الإلكترونية",
+   "t": 1795100113.072083
+  },
+  {
+   "h": "النصر.. 9 أجانب يتقدمون رحلة الأهلي — النصر.. 9 أجانب يتقدمون رحلة الأهلي صحيفة الرياضية",
+   "t": 1795100114.4391828
+  },
+  {
+   "h": "«البرتغالي» يتمسك بوداعية رونالدو — «البرتغالي» يتمسك بوداعية رونالدو صحيفة الرياضية",
+   "t": 1795100115.9278152
+  },
+  {
+   "h": "أردوغان يزور النصر ويلتقي رونالدو قبل قمة الأهلي — زار نجم الدين بلال أردوغان رئيس الاتحاد العالمي للإثنوسبورت ونجل رجب طيب أردوغان رئيس تركيا، تدريبات نادي النصر يوم الخميس والتقى بالقائد كريستيانو رونالدو ...",
+   "t": 1795100116.9712608
   }
  ],
  "x_user_ids": {
