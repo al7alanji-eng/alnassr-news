@@ -1,8 +1,6 @@
 {
- "last_run": 1795197265.3517053,
+ "last_run": 1795200892.621776,
  "seen": {
-  "f515db868c75ecf9": 1794595989.0763996,
-  "934a047a6dabdcb5": 1794595993.4250567,
   "44396a9c88f3f78a": 1794599416.3350039,
   "9e6727fdc0c49066": 1794599419.4950638,
   "727bfb6f8a556163": 1794599420.982105,
@@ -423,11 +421,15 @@
   "53480f0ad466b768": 1795197259.1220264,
   "907244f4a6dd3fb7": 1795197261.2290614,
   "87e32d606ca49a5a": 1795197262.7700324,
-  "253c69e09a7930c6": 1795197263.92649
+  "253c69e09a7930c6": 1795197263.92649,
+  "b3db05e0efe5f138": 1795200882.3822815,
+  "421e4a09fa3377c0": 1795200884.2873037,
+  "8e8a0b3842583a25": 1795200885.92303,
+  "be9845514a118dc5": 1795200887.349834,
+  "2c2dde6444321309": 1795200889.6052248,
+  "b762dac8912c8eed": 1795200890.8130136
  },
  "titles": {
-  "80ffa31cd37447cf": 1794595989.0763996,
-  "541478b3e75b12d6": 1794595993.4250567,
   "2133bec7096874ff": 1794599416.3350039,
   "e1ea03c318e76887": 1794599419.4950638,
   "1b025a8cffccaa83": 1794599420.982105,
@@ -848,33 +850,15 @@
   "646e152c7b3babc0": 1795197259.1220264,
   "83723d2eb0f46b59": 1795197261.2290614,
   "d3f9eb4081aa82b8": 1795197262.7700324,
-  "bca9ae85c660d592": 1795197263.92649
+  "bca9ae85c660d592": 1795197263.92649,
+  "f38a39cb30079306": 1795200882.3822815,
+  "727394fa6d42273f": 1795200884.2873037,
+  "5167aa9499c2568e": 1795200885.92303,
+  "b978028d4229bbe7": 1795200887.349834,
+  "c479fc6c4dfc6f13": 1795200889.6052248,
+  "4968ea781b5c082a": 1795200890.8130136
  },
  "recent": [
-  {
-   "h": "بوسيتش: تحدي النصر قويا.. والكذب لا يهمني — بوسيتش: تحدي النصر قويا.. والكذب لا يهمني صحيفة الرياضية",
-   "t": 1795114514.1528246
-  },
-  {
-   "h": "Jelang Klasiko Kontra Al Ahli, Putra Erdogan Kunjungi Al Nassr demi Ronaldo — Necmeddin Bilal Erdoğan, putra Presiden Turki Recep Tayyip Erdoğan sekaligus Presiden Federasi Etnosport Dunia, menyempatkan diri mengunjungi klub Arab Saudi Al Nassr jelang laga klasiko melawan rival ...",
-   "t": 1795114515.9174242
-  },
-  {
-   "h": "Liga Jawwy Élite: Al Riyadh amenaza el trono de los dos grandes de Yeda y Al Hazem se acerca a Al Nassr — Liga Jawwy Élite: Al Riyadh amenaza el trono de los dos grandes de Yeda y Al Hazem se acerca a Al Nassr Goal.com",
-   "t": 1795118328.4962494
-  },
-  {
-   "h": "بين الأهلي والنصر.. أول «كلاسيكو» بأفكار هولندية وأسترالية — بين الأهلي والنصر.. أول «كلاسيكو» بأفكار هولندية وأسترالية صحيفة الرياضية",
-   "t": 1795118329.8085108
-  },
-  {
-   "h": "Watch Al Ahli vs Al Nassr FC live today: Who is broadcasting the match on TV and via live stream? — Watch Al Ahli vs Al Nassr FC live today: Who is broadcasting the match on TV and via live stream? Goal.com",
-   "t": 1795118331.3400335
-  },
-  {
-   "h": "بعثة النصر تعود إلى الرياض الأربعاء… ومصير كوستا معلق — بعثة النصر تعود إلى الرياض الأربعاء… ومصير كوستا معلق الشرق الأوسط",
-   "t": 1795118334.5144837
-  },
   {
    "h": "Liga Elite Jawwy: Al-Riyadh Ancam Takhta Dua Raksasa Jeddah, Al-Hazem Dekati Al-Nassr — Al-Riyadh menjadi tim yang paling diuntungkan dari laga-laga tunda yang dimainkan di Liga Elite Jawwy (liga Arab Saudi U-21) selama jeda internasional saat ini, setelah kini semakin dekat dengan takht ...",
    "t": 1795118336.6672964
@@ -1090,6 +1074,30 @@
   {
    "h": "رونالدو يواجه توني.. تشكيل كلاسيكو الأهلي والنصر في الدوري السعودي — رونالدو يواجه توني.. تشكيل كلاسيكو الأهلي والنصر في الدوري السعودي يلاكورة",
    "t": 1795197264.659009
+  },
+  {
+   "h": "Vídeo: un penalti mete a Ronaldo en la historia de la Liga Roshn por la puerta de atrás — Vídeo: un penalti mete a Ronaldo en la historia de la Liga Roshn por la puerta de atrás Goal.com",
+   "t": 1795200883.5607572
+  },
+  {
+   "h": "Video: penalty miss puts Ronaldo into Roshn League history through the back door — Video: penalty miss puts Ronaldo into Roshn League history through the back door Goal.com",
+   "t": 1795200885.1249614
+  },
+  {
+   "h": "بالفيديو.. ركلة جزاء تُدخل رونالدو تاريخ دوري روشن من الباب الخلفي — بالفيديو.. ركلة جزاء تُدخل رونالدو تاريخ دوري روشن من الباب الخلفي Kooora",
+   "t": 1795200886.4237306
+  },
+  {
+   "h": "رقم سلبي يطارد رونالدو في كلاسيكو الأهلي والنصر — رقم سلبي يطارد رونالدو في كلاسيكو الأهلي والنصر يلاكورة",
+   "t": 1795200888.3442466
+  },
+  {
+   "h": "غالينو ينهي صيام \"عام كامل\" بقذيفة النصر — غالينو ينهي صيام \"عام كامل\" بقذيفة النصر العربية",
+   "t": 1795200890.0883737
+  },
+  {
+   "h": "Video: Ronaldo becomes Al-Nassr's all-time top scorer in the Clasico with first goal since retirement — Video: Ronaldo becomes Al-Nassr's all-time top scorer in the Clasico with first goal since retirement Goal.com",
+   "t": 1795200891.877758
   }
  ],
  "x_user_ids": {
