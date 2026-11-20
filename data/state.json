@@ -1,10 +1,6 @@
 {
- "last_run": 1795213821.0933025,
+ "last_run": 1795217046.4710066,
  "seen": {
-  "a3b7598b7a740362": 1794611738.9216535,
-  "3acb18a568cd4c34": 1794611740.1331177,
-  "80d0e577e2492061": 1794611741.2389627,
-  "7af01af02a7edc58": 1794611742.6073177,
   "2d8aa90da711eceb": 1794614766.5444376,
   "85e47a4a47127123": 1794641814.841171,
   "b883aaef49cf04ba": 1794648171.0331163,
@@ -439,13 +435,15 @@
   "f1a315bfe32c73b4": 1795213817.0691326,
   "8650a5e751d5863d": 1795213817.9842696,
   "a3dfa2d15fe5876f": 1795213819.1648853,
-  "c82f99e19836501d": 1795213820.2079382
+  "c82f99e19836501d": 1795213820.2079382,
+  "3a4c1cba9f3083ea": 1795217034.9401896,
+  "0ace217bd67068c8": 1795217037.741355,
+  "a6cfeece5e72dff8": 1795217039.8683927,
+  "55d9ef9fb3b21c6c": 1795217041.8745005,
+  "8d9306be5be9211f": 1795217043.4502869,
+  "d7e73d6a7f4f254c": 1795217044.882905
  },
  "titles": {
-  "5d3f44b9cabd2b15": 1794611738.9216535,
-  "e895d0e8c2214feb": 1794611740.1331177,
-  "a0afc4122c9aa9ec": 1794611741.2389627,
-  "16094b01a34c7137": 1794611742.6073177,
   "bc59b74c1a3c2013": 1794614766.5444376,
   "029366f8f3585300": 1794641814.841171,
   "54f191f50f2ec6ae": 1794648171.0331163,
@@ -880,33 +878,15 @@
   "96ef6a20c344c267": 1795213817.0691326,
   "cf0c510976e789d0": 1795213817.9842696,
   "52d15d56e9433120": 1795213819.1648853,
-  "bdce367e70b313cc": 1795213820.2079382
+  "bdce367e70b313cc": 1795213820.2079382,
+  "e72ef8e3b0377e94": 1795217034.9401896,
+  "27427e7790a3e666": 1795217037.741355,
+  "42932df2dd5db14e": 1795217039.8683927,
+  "64f7d9fc404ce721": 1795217041.8745005,
+  "a5a38737138add71": 1795217043.4502869,
+  "18c9cd615d0a10f9": 1795217044.882905
  },
  "recent": [
-  {
-   "h": "الدوري السعودي: النصر لاستعادة توازنه من شباك أبها — الدوري السعودي: النصر لاستعادة توازنه من شباك أبها الشرق الأوسط",
-   "t": 1795153589.2516487
-  },
-  {
-   "h": "رونالدو خارج قائمة النصر أمام الدرعية... وأنج يفضل تجهيزه للدوري — رونالدو خارج قائمة النصر أمام الدرعية... وأنج يفضل تجهيزه للدوري الشرق الأوسط",
-   "t": 1795153592.380635
-  },
-  {
-   "h": "بعد كلاسيكو الاتحاد والنصر... هل اجتازت الصفارة السعودية اختبار الثقة؟ — بعد كلاسيكو الاتحاد والنصر... هل اجتازت الصفارة السعودية اختبار الثقة؟ الشرق الأوسط",
-   "t": 1795153595.65296
-  },
-  {
-   "h": "النصر يستدعي حيدر عبد الكريم... والعمري بديلاً لسيماكان أمام نيوم — النصر يستدعي حيدر عبد الكريم... والعمري بديلاً لسيماكان أمام نيوم الشرق الأوسط",
-   "t": 1795167203.557985
-  },
-  {
-   "h": "Al Ahli vs Al Nassr: Saudi Pro League stats & head-to-head — Al Ahli vs Al Nassr: Saudi Pro League stats & head-to-head BBC",
-   "t": 1795171366.6850173
-  },
-  {
-   "h": "3 مواجهات في نوفمبر وظهور أول لرونالدو بعد الاعتزال.. ماذا ينتظر الأهلي والنصر في كلاسيكو جدة؟ — 3 مواجهات في نوفمبر وظهور أول لرونالدو بعد الاعتزال.. ماذا ينتظر الأهلي والنصر في كلاسيكو جدة؟ يلاكورة",
-   "t": 1795171367.9653318
-  },
   {
    "h": "They ask Leo Messi and Cristiano Ronaldo to join forces to bring down Gianni Infantino — Former French player Jérôme Rothen has issued a historic call for the biggest figures in world football to halt their activities ...",
    "t": 1795174883.1759355
@@ -1122,6 +1102,30 @@
   {
    "h": "Al-Nassr rue Ronaldo penalty miss as Toney fires Al-Ahli to comeback win — Al-Nassr rue Ronaldo penalty miss as Toney fires Al-Ahli to comeback win Arab News",
    "t": 1795213820.6227508
+  },
+  {
+   "h": "Al Ahli 3-1 Al Nassr - Saudi Pro League highlights — Al Ahli 3-1 Al Nassr - Saudi Pro League highlights Sky Sports",
+   "t": 1795217036.759186
+  },
+  {
+   "h": "Bosic lo explica: por esto perdimos por seis goles ante Al Shabab y ganamos a Al Nassr — Bosic lo explica: por esto perdimos por seis goles ante Al Shabab y ganamos a Al Nassr Goal.com",
+   "t": 1795217038.9982324
+  },
+  {
+   "h": "Pušić explains: this is why we lost to Al-Shabab by six goals and beat Al-Nassr — Pušić explains: this is why we lost to Al-Shabab by six goals and beat Al-Nassr Goal.com",
+   "t": 1795217041.077676
+  },
+  {
+   "h": "النصر بدون ماني.. 6 خسائر نصفها أمام الأهلي — النصر بدون ماني.. 6 خسائر نصفها أمام الأهلي صحيفة الرياضية",
+   "t": 1795217042.6724815
+  },
+  {
+   "h": "أرقام 12 جولة تكشف تراجع النصر دفاعيّا — أرقام 12 جولة تكشف تراجع النصر دفاعيّا صحيفة الرياضية",
+   "t": 1795217044.2098775
+  },
+  {
+   "h": "Cristiano y su cara y cruz doble: anota su gol 986, falla un penalti y Al Nassr cae en el 'Clásico' — Cristiano y su cara y cruz doble: anota su gol 986, falla un penalti y Al Nassr cae en el 'Clásico' marca usa",
+   "t": 1795217045.7260346
   }
  ],
  "x_user_ids": {
