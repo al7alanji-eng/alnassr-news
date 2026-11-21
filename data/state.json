@@ -1,8 +1,6 @@
 {
- "last_run": 1795281328.3368359,
+ "last_run": 1795283991.3720367,
  "seen": {
-  "51fc01f3aac04ffc": 1794676815.2482011,
-  "1155bb6cdef7ce6b": 1794676817.2342062,
   "9cfe4e0c3e6044f8": 1794679475.2789812,
   "8f60fa74079fa442": 1794679476.8094378,
   "7281b796b676578e": 1794679480.2950084,
@@ -490,11 +488,12 @@
   "cae911cdf6c16c68": 1795281321.475036,
   "8988fe18fe75364c": 1795281323.650344,
   "6c5d1f28824bfbf0": 1795281325.7062902,
-  "b0b5e46d1d683890": 1795281327.318315
+  "b0b5e46d1d683890": 1795281327.318315,
+  "e692441f8b3a32cc": 1795283987.356519,
+  "8aaf2a45f5da4a7c": 1795283988.8702426,
+  "a9d157ff305c0317": 1795283990.4444444
  },
  "titles": {
-  "ab50a91ac5dde203": 1794676815.2482011,
-  "9643b30a26da0197": 1794676817.2342062,
   "808fe1118ee8696b": 1794679475.2789812,
   "87a3080217908a23": 1794679476.8094378,
   "be5d529fdcfcd5f2": 1794679480.2950084,
@@ -982,21 +981,12 @@
   "707a6a130f07e529": 1795281321.475036,
   "0eadd07612920db6": 1795281323.650344,
   "341993551b7d01c3": 1795281325.7062902,
-  "4960a6f72f339a7c": 1795281327.318315
+  "4960a6f72f339a7c": 1795281327.318315,
+  "44e9c971fbc98fe2": 1795283987.356519,
+  "e0e21f04cec27123": 1795283988.8702426,
+  "dd01fb1bb9896aec": 1795283990.4444444
  },
  "recent": [
-  {
-   "h": "Video: historic remontada as Al-Ahli exploit Ronaldo's slip to turn the tables on Al-Nassr — Video: historic remontada as Al-Ahli exploit Ronaldo's slip to turn the tables on Al-Nassr Goal.com",
-   "t": 1795232882.671463
-  },
-  {
-   "h": "فيديو: بريمونتادا تاريخية.. الأهلي يستغل سقطة رونالدو ويقلب الطاولة على النصر — فيديو: بريمونتادا تاريخية.. الأهلي يستغل سقطة رونالدو ويقلب الطاولة على النصر Kooora",
-   "t": 1795232885.8991356
-  },
-  {
-   "h": "ترتيب الدوري السعودي بعد فوز الأهلي على النصر — ترتيب الدوري السعودي بعد فوز الأهلي على النصر بطولات",
-   "t": 1795232887.5903373
-  },
   {
    "h": "Cristiano marca el 986, luego falla un penalti... y Al Nassr pierde el 'Clásico' — Cristiano marca el 986, luego falla un penalti... y Al Nassr pierde el 'Clásico' MARCA",
    "t": 1795232888.823452
@@ -1224,6 +1214,18 @@
   {
    "h": "Jogo do Al Nassr ainda nem tinha acabado e Ronaldo estava 'desertinho' para ir embora — Avançado português não escondeu a desilusão nos derradeiros instantes do jogo com o Al Ahli, em que o Al Nassr foi derrotado ...",
    "t": 1795281327.702209
+  },
+  {
+   "h": "El Mané de la Élite y el león del Al Riyadh: cinco talentos a seguir en la jornada 11 de la Liga Jawwy Élite — El Mané de la Élite y el león del Al Riyadh: cinco talentos a seguir en la jornada 11 de la Liga Jawwy Élite Goal.com",
+   "t": 1795283988.2773063
+  },
+  {
+   "h": "ماني النخبة وأسد الرياض.. 5 مواهب تستحق المشاهدة في الجولة 11 من دوري جوي — ماني النخبة وأسد الرياض.. 5 مواهب تستحق المشاهدة في الجولة 11 من دوري جوي Kooora",
+   "t": 1795283989.6219645
+  },
+  {
+   "h": "موقف ثنائي النصر من لقاء السد — موقف ثنائي النصر من لقاء السد يلاكورة",
+   "t": 1795283990.8918912
   }
  ],
  "x_user_ids": {
