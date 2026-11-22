@@ -1,11 +1,6 @@
 {
- "last_run": 1795377534.2519488,
+ "last_run": 1795380255.504584,
  "seen": {
-  "5715b1af41e78741": 1794773233.2934303,
-  "24fb00f4dc0f369f": 1794773237.2022696,
-  "00947aa8264a7e4e": 1794773240.811632,
-  "cd27721f550b91c4": 1794773243.9055154,
-  "e44a8068182b5023": 1794773247.5346556,
   "927bd351416b1efa": 1794775928.9446776,
   "6539dd6d9ee0a591": 1794775932.01254,
   "266e38d385464ff7": 1794775934.3809597,
@@ -438,14 +433,12 @@
   "336b8767661756ad": 1795377524.8364933,
   "39d1f3e65d7f9d14": 1795377526.114874,
   "175586a27f2c50f1": 1795377528.3912597,
-  "72d125dd8b15dcb3": 1795377533.0923471
+  "72d125dd8b15dcb3": 1795377533.0923471,
+  "920368c396034de0": 1795380251.0346398,
+  "561dd3a8a26f8ecd": 1795380253.1958559,
+  "2476773a611a92f9": 1795380254.1964314
  },
  "titles": {
-  "56c01cc0488187de": 1794773233.2934303,
-  "af7c312595c1eec3": 1794773237.2022696,
-  "9c2660a92b768a1b": 1794773240.811632,
-  "c427e9a51aa2aaa5": 1794773243.9055154,
-  "ba164cccbcaec029": 1794773247.5346556,
   "9dd81121c226b022": 1794775928.9446776,
   "c20976f6662fb735": 1794775932.01254,
   "d0abef6463be4656": 1794775934.3809597,
@@ -878,21 +871,12 @@
   "0990b6741fc66954": 1795377524.8364933,
   "22f3698424c13143": 1795377526.114874,
   "b0c275d7f425afb6": 1795377528.3912597,
-  "61d0a0a92dff73ae": 1795377533.0923471
+  "61d0a0a92dff73ae": 1795377533.0923471,
+  "2a13823c46d3023d": 1795380251.0346398,
+  "f5bd6812eabfc931": 1795380253.1958559,
+  "c59d7abbe10db473": 1795380254.1964314
  },
  "recent": [
-  {
-   "h": "مدرب الخليج: تفوق النصر لا يجعل مباراته محسومة أمامنا — مدرب الخليج: تفوق النصر لا يجعل مباراته محسومة أمامنا الشرق الأوسط",
-   "t": 1795261289.6374476
-  },
-  {
-   "h": "ولادة طفل تُبعد ماني عن «الكلاسيكو»… ماذا يفعل نجوم أوروبا؟ — ولادة طفل تُبعد ماني عن «الكلاسيكو»… ماذا يفعل نجوم أوروبا؟ الشرق الأوسط",
-   "t": 1795264203.1082382
-  },
-  {
-   "h": "Cristiano Ronaldo pensou que o Al Ahli-Al Nassr tinha acabado e saiu do campo — Cristiano Ronaldo protagonizou um momento invulgar nos minutos finais da derrota do Al Nassr frente ao Al Ahli (3-1), na sexta-feira. O internacional português aproximou-se da linha final e ficou à es ...",
-   "t": 1795264204.068473
-  },
   {
    "h": "Demiral colocou bandeira do Al Ahli no relvado e irritou a comitiva do Al Nassr — A festa do Al Ahli após a vitória frente ao Al Nassr ficou marcada por um momento de tensão entre elementos das duas equipas. Merih Demiral colocou uma bandeira do clube de Jeddah no centro do relvado ...",
    "t": 1795264204.8583064
@@ -1120,6 +1104,18 @@
   {
    "h": "الشراري يعود إلى تدريبات النصر — عاد نادر الشراري، مدافع فريق النصر الأول لكرة القدم، إلى التدريبات الجماعية مع استئنافها مساء الأحد. وبدأ «الأصفر» الاستعداد لمواجهة السد القطري، الثلاثاء، في الرياض، ضمن خامس جولات مجموعة الغرب من دو ...",
    "t": 1795377533.5196388
+  },
+  {
+   "h": "Cristiano Ronaldo quedó sorprendido después de que los fanáticos ignoren su ofrecimiento de firmar autógrafos — Cristiano Ronaldo quedó sorprendido después de que los fanáticos ignoren su ofrecimiento de firmar autógrafos marca usa",
+   "t": 1795380251.8448968
+  },
+  {
+   "h": "Cristiano Ronaldo left stunned after fans ignore his offer to sign autographs in viral moment — A surprising moment has gone viral after Cristiano Ronaldo appeared to experience an unexpected lack of attention from fans. As the Portuguese superstar left his club’s facilities and headed toward ...",
+   "t": 1795380253.5464225
+  },
+  {
+   "h": "\"فضيحة اجتماع الرابطة ومهزلة الأول بارك\" .. رسالة تنديد بالتخبط الإداري في النصر وسط \"صمت\" الملّاك! — لا تزال الأوضاع في نادي النصر، فوق صفيح ساخن، في إطار الحديث عن \"التخبط\" الإداري، وأزمة الرقابة المالية المشددة، التي تهدد تعاقدات الفريق، الذي ينافس في أربع بطولات مختلفة خلال موسم 2026-2027.",
+   "t": 1795380254.712976
   }
  ],
  "x_user_ids": {
