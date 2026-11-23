@@ -1,7 +1,6 @@
 {
- "last_run": 1795400674.1769588,
+ "last_run": 1795404583.4572363,
  "seen": {
-  "177b7ba489aee146": 1794796077.8785582,
   "10ea864a1babead1": 1794811167.002712,
   "b14917f4a9251261": 1794821186.9285614,
   "598ab122870b1227": 1794821188.5801663,
@@ -422,10 +421,12 @@
   "83d37182aa7fedc9": 1795389332.973744,
   "04a96ed652cef383": 1795389334.2695475,
   "222b2218c71c08be": 1795391966.829462,
-  "47ec69db92f79320": 1795396083.7873824
+  "47ec69db92f79320": 1795396083.7873824,
+  "30c047b170aa6fc9": 1795404575.4852118,
+  "bc88dbca457b4ca2": 1795404577.1833365,
+  "047ea5892b9c82da": 1795404580.3636937
  },
  "titles": {
-  "d41c1fa0f81d5e93": 1794796077.8785582,
   "54eb1b0e640fc957": 1794811167.002712,
   "297a75d9cfb00fa4": 1794821186.9285614,
   "706582370cbd9ce6": 1794821188.5801663,
@@ -846,21 +847,12 @@
   "2be8de282d1fec9c": 1795389332.973744,
   "ea277b51f2cc8d33": 1795389334.2695475,
   "20367cc2d034df58": 1795391966.829462,
-  "80c820c6c428e23e": 1795396083.7873824
+  "80c820c6c428e23e": 1795396083.7873824,
+  "f46990a7d8c04cfd": 1795404575.4852118,
+  "91ca92f002530dea": 1795404577.1833365,
+  "557a021c088daafe": 1795404580.3636937
  },
  "recent": [
-  {
-   "h": "أبو عراد لـ«عكاظ»: النصر بلا شخصية.. والخلل في المنظومة كاملة - أخبار السعودية | صحيفة عكاظ — أبو عراد لـ«عكاظ»: النصر بلا شخصية.. والخلل في المنظومة كاملة - أخبار السعودية | صحيفة عكاظ عكاظ",
-   "t": 1795271499.235902
-  },
-  {
-   "h": "En vidéo, Hussein Abdulghani : « Ronaldo est le problème d'Al-Nassr », Mohammed Noor : « Je ne le veux pas à Al-Ittihad ! » — Hussein Abdulghani, légende du football saoudien, estime que le Portugais Cristiano Ronaldo, capitaine d'Al-Nassr, est le principal problème de l'équipe, après la défaite dans le Clasico face au rival ...",
-   "t": 1795271501.1762168
-  },
-  {
-   "h": "بالفيديو.. حسين عبدالغني: رونالدو مشكلة النصر.. ومحمد نور: لا أتمناه في الاتحاد! — اعتبر حسين عبدالغني، أسطورة الكرة السعودية، أن البرتغالي كريستيانو رونالدو، قائد النصر، هو المشكلة الكبرى في الفريق، وذلك عقب خسارة مباراة الكلاسيكو ضد الغريم التقليدي الأهلي.",
-   "t": 1795271505.1775086
-  },
   {
    "h": "Permusuhan 7 Bulan: Apa Rahasia Selebrasi Galeno Usai Cetak Gol di Laga Klasik Kontra Al-Nassr? — Sejumlah laporan media mengungkap alasan di balik selebrasi yang dilakukan pemain asal Brasil, Wenderson Galeno, winger Al-Ahli, setelah gol yang dicetaknya dalam laga Klasik melawan rival tradisional ...",
    "t": 1795271507.3668675
@@ -1088,6 +1080,18 @@
   {
    "h": "النصر مهتم بالتعاقد مع أوستن ماكفي «مدرب الكرات الثابتة» في أستون فيلا — النصر مهتم بالتعاقد مع أوستن ماكفي «مدرب الكرات الثابتة» في أستون فيلا الشرق الأوسط",
    "t": 1795396085.9241529
+  },
+  {
+   "h": "West Asia Wrap: Al Nassr suffer setback; exciting race in UAE — Al Rayyan moved up to 24 points, four ahead of Al Sadd SC and Al Duhail SC. Al Sadd edged Lusail 3-2, with Akram Afif contributing a brace for the defending champions while suffered a 2-1 defeat to ...",
+   "t": 1795404576.3342261
+  },
+  {
+   "h": "باباس: أتحمل مسؤولية الهزيمة أمام النصر — باباس: أتحمل مسؤولية الهزيمة أمام النصر الشرق الأوسط",
+   "t": 1795404579.2814045
+  },
+  {
+   "h": "مونديال 2026: جواو فيليكس يعيد إحياء مسيرته من السعودية — مونديال 2026: جواو فيليكس يعيد إحياء مسيرته من السعودية الشرق الأوسط",
+   "t": 1795404582.370675
   }
  ],
  "x_user_ids": {
