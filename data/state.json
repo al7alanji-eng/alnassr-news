@@ -1,12 +1,6 @@
 {
- "last_run": 1795433629.4463375,
+ "last_run": 1795438023.7577925,
  "seen": {
-  "db28f7e90ee77567": 1794830439.0458968,
-  "3a4c6203c4601855": 1794830440.9132953,
-  "8d14a4c560e7fcba": 1794830443.062898,
-  "4e794d1849af653b": 1794830444.551501,
-  "ca6f9ddbceb3e90d": 1794830445.813073,
-  "f011c56546e79e86": 1794830446.9233975,
   "f525690e239830bc": 1794842456.7451422,
   "8e9e19a1ccbbf73c": 1794842460.0749903,
   "8446c750b26fc2cf": 1794842461.7813008,
@@ -430,15 +424,12 @@
   "7f2b2400d95d7db9": 1795433619.9638684,
   "dfc9f597bde25b13": 1795433621.650421,
   "7de6ca4059275c04": 1795433623.4405646,
-  "f536ce7df6f2218e": 1795433628.2269995
+  "f536ce7df6f2218e": 1795433628.2269995,
+  "34dc1cf121fbbef3": 1795438015.239917,
+  "e2f85c9f70ef1cf2": 1795438018.5365438,
+  "ba5722e30f93c4d4": 1795438021.6170514
  },
  "titles": {
-  "bb05d27c3486a980": 1794830439.0458968,
-  "ba69be5675ea7481": 1794830440.9132953,
-  "c65a10adf14856d8": 1794830443.062898,
-  "dad9f43c5b7e92d2": 1794830444.551501,
-  "37c728ab27016b7c": 1794830445.813073,
-  "5ef894d979defdc5": 1794830446.9233975,
   "3fd771c41c51dc9c": 1794842456.7451422,
   "02e36400ed00b1de": 1794842460.0749903,
   "515196077f02f2b1": 1794842461.7813008,
@@ -862,21 +853,12 @@
   "6ae063caa261b31a": 1795433619.9638684,
   "07e2d69c8c123771": 1795433621.650421,
   "6cd322133ce7be1e": 1795433623.4405646,
-  "10c3ec04874d57ce": 1795433628.2269995
+  "10c3ec04874d57ce": 1795433628.2269995,
+  "eaf870e3071733b1": 1795438015.239917,
+  "468d0c093811cfad": 1795438018.5365438,
+  "0c6806d31c1daffa": 1795438021.6170514
  },
  "recent": [
-  {
-   "h": "Jogo do Al Nassr ainda nem tinha acabado e Ronaldo estava 'desertinho' para ir embora — Avançado português não escondeu a desilusão nos derradeiros instantes do jogo com o Al Ahli, em que o Al Nassr foi derrotado ...",
-   "t": 1795281327.702209
-  },
-  {
-   "h": "El Mané de la Élite y el león del Al Riyadh: cinco talentos a seguir en la jornada 11 de la Liga Jawwy Élite — El Mané de la Élite y el león del Al Riyadh: cinco talentos a seguir en la jornada 11 de la Liga Jawwy Élite Goal.com",
-   "t": 1795283988.2773063
-  },
-  {
-   "h": "ماني النخبة وأسد الرياض.. 5 مواهب تستحق المشاهدة في الجولة 11 من دوري جوي — ماني النخبة وأسد الرياض.. 5 مواهب تستحق المشاهدة في الجولة 11 من دوري جوي Kooora",
-   "t": 1795283989.6219645
-  },
   {
    "h": "موقف ثنائي النصر من لقاء السد — موقف ثنائي النصر من لقاء السد يلاكورة",
    "t": 1795283990.8918912
@@ -1104,6 +1086,18 @@
   {
    "h": "« Ne doutez jamais de lui ! » : Ange Postecoglou s’emporte contre un journaliste après une question sur Sadio Mane, absent avec Al-Nassr — Ange Postecoglou a défendu Sadio Mane, joueur d’Al-Nassr, après qu’un journaliste a mis en doute son engagement parce qu’il avait manqué un match pour assister à la naissance de son enfant.",
    "t": 1795433628.713449
+  },
+  {
+   "h": "مئات المدارس في ألمانيا تتلقى إنذارات كاذبة بوجود قنابل — مئات المدارس في ألمانيا تتلقى إنذارات كاذبة بوجود قنابل الشرق الأوسط",
+   "t": 1795438017.3134553
+  },
+  {
+   "h": "«Con el thobe hago lo que él hace en el campo»: Turki Al-Ajmah se burla de una estrella del Al Nassr — «Con el thobe hago lo que él hace en el campo»: Turki Al-Ajmah se burla de una estrella del Al Nassr Goal.com",
+   "t": 1795438020.4909868
+  },
+  {
+   "h": "\"In my thobe I could do what he does on the pitch\": Turki Al-Ajma mocks Al-Nassr star — \"In my thobe I could do what he does on the pitch\": Turki Al-Ajma mocks Al-Nassr star Goal.com",
+   "t": 1795438023.0022397
   }
  ],
  "x_user_ids": {
