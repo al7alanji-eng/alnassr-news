@@ -1,11 +1,6 @@
 {
- "last_run": 1795643647.3258104,
+ "last_run": 1795647117.7219374,
  "seen": {
-  "709c3e1019c88435": 1795042105.5451434,
-  "f3e71deb3ad351e8": 1795042107.7375479,
-  "e315b88e99cd788f": 1795042109.385959,
-  "95f1af83826eef42": 1795042112.923432,
-  "a64fefba604d6c48": 1795042115.0100183,
   "4ee0d4b5dc6c1d48": 1795045548.3644416,
   "0fdea0d90dbd884d": 1795045552.1443217,
   "1e667702853b2ceb": 1795049989.9249167,
@@ -503,14 +498,15 @@
   "1dc7ac0c4ae114aa": 1795643631.8517256,
   "21e6ac6274655ff3": 1795643636.4302142,
   "d2e8e546f18f1401": 1795643640.7987218,
-  "ba416084ab240273": 1795643644.6406357
+  "ba416084ab240273": 1795643644.6406357,
+  "5cc49e69eb45c072": 1795647105.3489747,
+  "c880df1f7686558d": 1795647108.156502,
+  "12c7d5af0a3880de": 1795647111.1730962,
+  "95b11c233b0cd1c7": 1795647112.318159,
+  "053266d50952b034": 1795647113.6330092,
+  "180e006175ab9769": 1795647114.9941149
  },
  "titles": {
-  "066a41f0f5efc44e": 1795042105.5451434,
-  "b922ea6ef820a4c2": 1795042107.7375479,
-  "2cdbbba25df8bf38": 1795042109.385959,
-  "6aa589ec1642de7e": 1795042112.923432,
-  "06c19583833560a8": 1795042115.0100183,
   "f3a7bb0a955e538b": 1795045548.3644416,
   "d0dd34e6188aa1d5": 1795045552.1443217,
   "c4b1e85233f68790": 1795049989.9249167,
@@ -1008,33 +1004,15 @@
   "12a29680114ebb0c": 1795643631.8517256,
   "df01dd4f409ee1b4": 1795643636.4302142,
   "8b950265f6c5672b": 1795643640.7987218,
-  "d6c947528f246ccb": 1795643644.6406357
+  "d6c947528f246ccb": 1795643644.6406357,
+  "67f43ca128738014": 1795647105.3489747,
+  "30f0b36443cad4fe": 1795647108.156502,
+  "e98d1a6cb0ff630e": 1795647111.1730962,
+  "b9510273bac12c61": 1795647112.318159,
+  "499ced9f6271fbc7": 1795647113.6330092,
+  "c2dbf6bbdd1db798": 1795647114.9941149
  },
  "recent": [
-  {
-   "h": "الجزائري بقرار: رونالدو مثلي الأعلى... وهدفي التتويج بكل البطولات مع الأهلي المصري — الجزائري بقرار: رونالدو مثلي الأعلى... وهدفي التتويج بكل البطولات مع الأهلي المصري الشرق الأوسط",
-   "t": 1795599955.5584784
-  },
-  {
-   "h": "«مقصية جواو فيليكس» تُبهر العالم... وترشيحات مبكرة لـ«جائزة بوشكاش» — «مقصية جواو فيليكس» تُبهر العالم... وترشيحات مبكرة لـ«جائزة بوشكاش» الشرق الأوسط",
-   "t": 1795604113.0761607
-  },
-  {
-   "h": "Montella: «¿Cristiano Ronaldo al Milan? Nunca me lo creí, me parecía fútbol fantasy». Guardiola: «CR7 merece otro final con Portugal» — Montella: «¿Cristiano Ronaldo al Milan? Nunca me lo creí, me parecía fútbol fantasy». Guardiola: «CR7 merece otro final con Portugal» Goal.com",
-   "t": 1795604114.955046
-  },
-  {
-   "h": "Montella: \"Cristiano Ronaldo at Milan? I never believed it, it seemed like fantasy football to me\". Guardiola: \"CR7 deserves a different ending with Portugal\" — Montella: \"Cristiano Ronaldo at Milan? I never believed it, it seemed like fantasy football to me\". Guardiola: \"CR7 deserves a different ending with Portugal\" Goal.com",
-   "t": 1795604117.0378997
-  },
-  {
-   "h": "Montella: \"Cristiano Ronaldo to Milan? I never believed it. It seemed like fantasy football.\" Guardiola: \"CR7 deserves a different ending with Portugal\" — Montella: \"Cristiano Ronaldo to Milan? I never believed it. It seemed like fantasy football.\" Guardiola: \"CR7 deserves a different ending with Portugal\" Goal.com",
-   "t": 1795604118.3726647
-  },
-  {
-   "h": "Montella: «¿Cristiano Ronaldo al Milan? Nunca me lo creí, me parecía fútbol fantasy». Guardiola: «CR7 merece un final distinto con Portugal» — Montella: «¿Cristiano Ronaldo al Milan? Nunca me lo creí, me parecía fútbol fantasy». Guardiola: «CR7 merece un final distinto con Portugal» Goal.com",
-   "t": 1795604119.7646463
-  },
   {
    "h": "Roberto Martínez breaks his silence on the Cristiano Ronaldo case — R oberto Martínez has once again shown his admiration for Cristiano Ronaldo. The Catalan coach, who managed Portugal for three and a half years, defended the striker's legacy and did not hesitate to ...",
    "t": 1795604121.0794473
@@ -1250,6 +1228,30 @@
   {
    "h": "Cristiano Ronaldo pierde la paciencia con el juez de línea tras ser sancionado por fuera de juego — Cristiano Ronaldo pierde la paciencia con el juez de línea tras ser sancionado por fuera de juego marca usa",
    "t": 1795643645.5099313
+  },
+  {
+   "h": "رونالدو يقود النصر لفوز مثير على الفيصلي بثلاثية — رونالدو يقود النصر لفوز مثير على الفيصلي بثلاثية الشرق الأوسط",
+   "t": 1795647107.4852602
+  },
+  {
+   "h": "ديوماندي يصبح أغلى صفقة في تاريخ ريال مدريد متفوقاً على رونالدو وبيل — ديوماندي يصبح أغلى صفقة في تاريخ ريال مدريد متفوقاً على رونالدو وبيل الشرق الأوسط",
+   "t": 1795647110.2492204
+  },
+  {
+   "h": "فيليكس.. يواصل التألق بـ23 مساهمة تهديفية — تابع قناة عكاظ على الواتساب رشيد الهاشمي (جدة) rasheedalhashmi@ يواصل النجم النصراوي جواو فيليكس، تقديم مستويات لافتة في الموسم الحالي، بعدما فرض نفسه كأحد أبرز الأسماء على مستوى الفاعلية الهجومية، جا ...",
+   "t": 1795647111.6287704
+  },
+  {
+   "h": "Reunião acaba com o sonho do Barcelona: Al-Nassr informa João Félix sobre renovação, e o jogador responde — O Al-Nassr, da Arábia Saudita, comunicou ao português João Félix sua decisão final sobre o futuro do jogador no time após o fim da atual temporada 2026-2027, em meio ao interesse de alguns clubes em c ...",
+   "t": 1795647112.7217793
+  },
+  {
+   "h": "ترمب يخشى أن يحوّل التمويل «النصر» على إيران إلى «هزيمة» — ترمب يخشى أن يحوّل التمويل «النصر» على إيران إلى «هزيمة» الشرق الأوسط",
+   "t": 1795647114.2212462
+  },
+  {
+   "h": "مدرب الاتفاق: مباراة النصر «درس» — مدرب الاتفاق: مباراة النصر «درس» الشرق الأوسط",
+   "t": 1795647117.063403
   }
  ],
  "x_user_ids": {
