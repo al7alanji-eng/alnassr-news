@@ -1,7 +1,6 @@
 {
- "last_run": 1795628828.4889157,
+ "last_run": 1795632516.6747947,
  "seen": {
-  "56c68098da7a1378": 1795024586.7248085,
   "522d26dbd6dab901": 1795027947.0629485,
   "02c938761bf7fb1b": 1795027948.7512262,
   "4094049999ff1cf5": 1795031680.6428688,
@@ -489,10 +488,15 @@
   "b4617735170b24fc": 1795628817.8071458,
   "9e3e1cfff645da6b": 1795628820.7361057,
   "34f0cb3bfbf3c497": 1795628823.2407978,
-  "d233cbf2b5dbf5ad": 1795628825.8992267
+  "d233cbf2b5dbf5ad": 1795628825.8992267,
+  "f46aa79f506078cf": 1795632500.045769,
+  "a8941dcc6a89c42e": 1795632502.4619286,
+  "10a2fc99f37edd7e": 1795632504.7969763,
+  "cc49c413772bff5b": 1795632508.8790476,
+  "a79ced0c1fe292f2": 1795632511.5026696,
+  "e59dbc4801cdea5a": 1795632513.9666734
  },
  "titles": {
-  "c5e7ba6584298589": 1795024586.7248085,
   "1fa7ee9f714d5666": 1795027947.0629485,
   "8206623cf3750b04": 1795027948.7512262,
   "4ad4920a0f7207bb": 1795031680.6428688,
@@ -980,33 +984,15 @@
   "922641b06305154f": 1795628817.8071458,
   "62c51f5df733cb10": 1795628820.7361057,
   "5b0e94a3c40585c3": 1795628823.2407978,
-  "b78b4d870e5d8173": 1795628825.8992267
+  "b78b4d870e5d8173": 1795628825.8992267,
+  "50a2016aa89eca0a": 1795632500.045769,
+  "663c95ee9890eacc": 1795632502.4619286,
+  "b70f5654e325c0f0": 1795632504.7969763,
+  "459478bd952f3263": 1795632508.8790476,
+  "a20b2e04e65e1ee3": 1795632511.5026696,
+  "6c96e5e4187afaf4": 1795632513.9666734
  },
  "recent": [
-  {
-   "h": "الحرب... النصرُ صبرُ ساعة — الحرب... النصرُ صبرُ ساعة الشرق الأوسط",
-   "t": 1795580924.3956277
-  },
-  {
-   "h": "Cristiano Ronaldo nets 987th goal to lead Al Nassr to AFC Champions League win — Cristiano Ronaldo nets 987th goal to lead Al Nassr to AFC Champions League win ESPN Global",
-   "t": 1795580925.8867075
-  },
-  {
-   "h": "شبح رونالدو يخيّم على خيسوس... ووالدته سعيدة بخسارة البرتغال — شبح رونالدو يخيّم على خيسوس... ووالدته سعيدة بخسارة البرتغال الشرق الأوسط",
-   "t": 1795580928.2408152
-  },
-  {
-   "h": "النصر يعود لسكة الانتصارات في نخبة آسيا عبر بوابة السد القطري — النصر يعود لسكة الانتصارات في نخبة آسيا عبر بوابة السد القطري صحيفة سبق الإلكترونية",
-   "t": 1795580930.7436936
-  },
-  {
-   "h": "Cristiano continúa deshojando la margarita y Joao Félix presenta candidatura al Puskas — Cristiano continúa deshojando la margarita y Joao Félix presenta candidatura al Puskas MARCA",
-   "t": 1795580932.5513842
-  },
-  {
-   "h": "فيديو: سخر من حكم المباراة.. هل يتعرض رونالدو للإيقاف في نخبة آسيا؟ — فيديو: سخر من حكم المباراة.. هل يتعرض رونالدو للإيقاف في نخبة آسيا؟ Kooora",
-   "t": 1795580935.1586347
-  },
   {
    "h": "رياضي / مدرب النصر بوستيكوغلو: حققنا فوزنا الثالث.. وعلينا تعزيز الانضباط حتى النهاية — رياضي / مدرب النصر بوستيكوغلو: حققنا فوزنا الثالث.. وعلينا تعزيز الانضباط حتى النهاية وكالة الأنباء السعودية",
    "t": 1795584854.4223206
@@ -1222,6 +1208,30 @@
   {
    "h": "بينتو النصر الوحيد من الدوري السعودي بين أغلى 100 حارس عالمياً — بينتو النصر الوحيد من الدوري السعودي بين أغلى 100 حارس عالمياً الشرق الأوسط",
    "t": 1795628827.8103168
+  },
+  {
+   "h": "Cristiano Ronaldo tells linesman exactly what he thinks of his officiating after controversial call — Cristiano Ronaldo tells linesman exactly what he thinks of his officiating after controversial call MARCA",
+   "t": 1795632501.6715167
+  },
+  {
+   "h": "'On the level of Messi, Maradona and Cruyff' - Former Portugal boss Roberto Martinez defends Cristiano Ronaldo against critics after controversial international retirement — 'On the level of Messi, Maradona and Cruyff' - Former Portugal boss Roberto Martinez defends Cristiano Ronaldo against critics after controversial international retirement Goal.com",
+   "t": 1795632503.7695465
+  },
+  {
+   "h": "Gomes declares war on Al-Kholood and sends emotional message to Cristiano Ronaldo — Gomes declares war on Al-Kholood and sends emotional message to Cristiano Ronaldo Goal.com",
+   "t": 1795632507.874967
+  },
+  {
+   "h": "ريال مدريد يفتح أبوابه أمام كريستيانو رونالدو جونيور — ريال مدريد يفتح أبوابه أمام كريستيانو رونالدو جونيور الشرق الأوسط",
+   "t": 1795632510.747646
+  },
+  {
+   "h": "كريستيانو رونالدو: هذا الموسم قد يكون «الأخير» — كريستيانو رونالدو: هذا الموسم قد يكون «الأخير» الشرق الأوسط",
+   "t": 1795632513.2401767
+  },
+  {
+   "h": "سامو كوستا في طريقه إلى معسكر النصر لإتمام الصفقة — سامو كوستا في طريقه إلى معسكر النصر لإتمام الصفقة الشرق الأوسط",
+   "t": 1795632515.5967462
   }
  ],
  "x_user_ids": {
