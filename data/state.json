@@ -1,7 +1,6 @@
 {
- "last_run": 1795769117.1072445,
+ "last_run": 1795773024.4592545,
  "seen": {
-  "695bee5758a40782": 1795167201.175992,
   "a01d1c57f14c2abf": 1795171365.6140797,
   "486124c48a3de822": 1795171367.3157287,
   "70db18dcd8ca356a": 1795174882.7444706,
@@ -516,10 +515,11 @@
   "b61570998d5ce8aa": 1795754891.2619843,
   "9518bd0b05a2b394": 1795763901.064723,
   "1958bb15ac5d5fde": 1795769113.2780418,
-  "8eb1e248ae2e8fe2": 1795769115.5176787
+  "8eb1e248ae2e8fe2": 1795769115.5176787,
+  "8c8bb36036619c60": 1795773020.8257403,
+  "4e4ff77f0f260f6a": 1795773022.7759523
  },
  "titles": {
-  "92064693ccbde29d": 1795167201.175992,
   "9b6136d6484f4a8c": 1795171365.6140797,
   "d3acc48604833a82": 1795171367.3157287,
   "63e06b339da69827": 1795174882.7444706,
@@ -1034,17 +1034,11 @@
   "daf43c49732aed97": 1795754891.2619843,
   "be31610db228ea99": 1795763901.064723,
   "80343d2a27e4ddf1": 1795769113.2780418,
-  "61cbbba9710f21cb": 1795769115.5176787
+  "61cbbba9710f21cb": 1795769115.5176787,
+  "a7c2c785e5d3e6a3": 1795773020.8257403,
+  "14ca29cdd9186d3a": 1795773022.7759523
  },
  "recent": [
-  {
-   "h": "النصر السعودي يتفق مع جواو فيليكس على تمديد عقده — النصر السعودي يتفق مع جواو فيليكس على تمديد عقده يلاكورة",
-   "t": 1795694176.6361368
-  },
-  {
-   "h": "Al-Nassr slam the door on Joao Felix's Barcelona return as Portuguese star agrees €12m salary hike and 2029 extension — Al-Nassr slam the door on Joao Felix's Barcelona return as Portuguese star agrees €12m salary hike and 2029 extension Goal.com",
-   "t": 1795698772.5510848
-  },
   {
    "h": "¿Cristiano Ronaldo y André-Pierre Gignac jugando juntos? Esto reveló el francés tras su salida de Tigres — ¿Cristiano Ronaldo y André-Pierre Gignac jugando juntos? Esto reveló el francés tras su salida de Tigres MARCA",
    "t": 1795698774.2612212
@@ -1276,6 +1270,14 @@
   {
    "h": "المتحدث الرسمي لدوري روشن : لن نتدخل في تجديد فيليكس للنصر وهذه حقيقة ضغطنا على الاتحاد لبيع موسى ... — خرج عمر بترجي المتحدث الرسمي لرابطة دوري روشن السعودي، من أجل توضيح العديد من الأمور الخاصة بالمسابقة، وبالتحديد مستقبل النجم البرتغالي جواو فيليكس مع النصر، وملف رحيل موسى ديابي ومغادرته للاتحاد متجه ...",
    "t": 1795769115.8203185
+  },
+  {
+   "h": "Angelo on 'father' Ronaldo, Santos lessons & how Al Nassr transformed career — Angelo on 'father' Ronaldo, Santos lessons & how Al Nassr transformed career spl.com.sa",
+   "t": 1795773021.3531177
+  },
+  {
+   "h": "رابطة المحترفين تحسم موقفها من أزمة جواو فيليكس.. هل يحصل النصر على استثناء؟ — رابطة المحترفين تحسم موقفها من أزمة جواو فيليكس.. هل يحصل النصر على استثناء؟ Kooora",
+   "t": 1795773023.2126646
   }
  ],
  "x_user_ids": {
