@@ -1,8 +1,6 @@
 {
- "last_run": 1795776764.5992205,
+ "last_run": 1795780447.8676174,
  "seen": {
-  "70db18dcd8ca356a": 1795174882.7444706,
-  "d1c379819688ada3": 1795174883.721444,
   "2bd8061c2aca501e": 1795178668.6553578,
   "77ee2dd6273b57fa": 1795178670.5065207,
   "4d44de1ca8accbc2": 1795178671.4284265,
@@ -519,11 +517,14 @@
   "9064707ce56fdd7f": 1795776755.399386,
   "e42f27af28935f06": 1795776757.9397619,
   "bdcb13b432d013be": 1795776759.4086385,
-  "53aea13d95f18fcb": 1795776760.8516335
+  "53aea13d95f18fcb": 1795776760.8516335,
+  "1b3280f148d78a1d": 1795780435.2826433,
+  "c2e1347a8f2762c9": 1795780438.5890875,
+  "3e894600ebcbfab7": 1795780442.9125168,
+  "04d1accccbf0c0d3": 1795780444.0066817,
+  "91455eba37cee1b6": 1795780446.5381644
  },
  "titles": {
-  "63e06b339da69827": 1795174882.7444706,
-  "dab92dd3aaa2841e": 1795174883.721444,
   "221b17d9da93fa0e": 1795178668.6553578,
   "af559717532c65c7": 1795178670.5065207,
   "1f884efb68e194a0": 1795178671.4284265,
@@ -1040,29 +1041,14 @@
   "1384bd393b770df8": 1795776755.399386,
   "34ccb287aefcfc69": 1795776757.9397619,
   "2840c11a3075080f": 1795776759.4086385,
-  "f933708560ab423b": 1795776760.8516335
+  "f933708560ab423b": 1795776760.8516335,
+  "0f27d42b3451d630": 1795780435.2826433,
+  "a67e94ff9ade20f2": 1795780438.5890875,
+  "abfec465ee7389f2": 1795780442.9125168,
+  "945698e56b5ec1b1": 1795780444.0066817,
+  "8bf83da715d02fa8": 1795780446.5381644
  },
  "recent": [
-  {
-   "h": "النصر السعودي يجدد عقد جواو فيليكس حتى 2029 — النصر السعودي يجدد عقد جواو فيليكس حتى 2029 بطولات",
-   "t": 1795698782.5964448
-  },
-  {
-   "h": "أخبار الهلال اليوم | بونو ينافس ميندي وسط مخاوف رحيله .. مقترح لاستبدال تيو وتحذير النصر من خطأ بنزيما! — أخبار الهلال اليوم | بونو ينافس ميندي وسط مخاوف رحيله .. مقترح لاستبدال تيو وتحذير النصر من خطأ بنزيما! Goal.com",
-   "t": 1795703457.1634898
-  },
-  {
-   "h": "النصر.. حصة صباحية — النصر.. حصة صباحية صحيفة الرياضية",
-   "t": 1795703458.739005
-  },
-  {
-   "h": "Al-Nassr cierra la puerta al regreso de Joao Felix al Barcelona: el portugués acepta una subida salarial de 12 millones de euros y renueva hasta 2029 — Al-Nassr ampliará el contrato de Joao Felix hasta 2029, lo que impedirá su regreso al Barcelona, mientras el portugués se asegura un salario de 12 millones de euros en Arabia Saudí.",
-   "t": 1795703460.136528
-  },
-  {
-   "h": "Al-Nassr ferme la porte à un retour de Joao Felix au Barça : 12 millions d’euros de hausse salariale et une prolongation jusqu’en 2029 — Al-Nassr va prolonger Joao Felix jusqu’en 2029, écartant un retour à Barcelone. Le Portugais touchera un salaire de 12 millions d’euros en Arabie saoudite.",
-   "t": 1795703461.4949157
-  },
   {
    "h": "Al-Nassr tutup peluang Joao Felix kembali ke Barcelona setelah sang bintang Portugal menyetujui kenaikan gaji €12 juta dan perpanjangan kontrak hingga 2029 — Al-Nassr akan memperpanjang kontrak Joao Felix hingga 2029, menutup peluangnya kembali ke Barcelona dengan gaji €12 juta di Arab Saudi.",
    "t": 1795703462.9060793
@@ -1282,6 +1268,26 @@
   {
    "h": "Liga Profissional Saudita define posição sobre o caso João Félix: o Al-Nassr terá uma exceção? — Omar Batterjee, porta-voz oficial da Liga Profissional Saudita, revelou a posição da entidade sobre o impasse na renovação de contrato do português João Félix, astro do Al-Nassr. O clube da capital qu ...",
    "t": 1795776763.3845735
+  },
+  {
+   "h": "Coman, la clave: un escenario repetido golpea al Al Nassr saudí — El Al Nassr ha recibido un nuevo golpe antes de continuar su andadura en la Liga Roshn Saudí y en la Liga de Campeones de la AFC Élite, después de confirmarse la baja de su extremo francés Kingsley ...",
+   "t": 1795780437.6055489
+  },
+  {
+   "h": "Coman au cœur du problème : un scénario répété qui frappe Al-Nassr — Al-Nassr encaisse un nouveau coup dur avant la suite de sa saison en Roshn Saudi League et en Ligue des champions de l'AFC Élite. L'absence de son ailier français Kingsley Coman est confirmée : une bl ...",
+   "t": 1795780442.1558251
+  },
+  {
+   "h": "Coman at the centre as a familiar scenario rocks Saudi side Al-Nassr — Al-Nassr have been dealt a fresh blow as they continue their campaigns in the Roshn Saudi League and the AFC Champions League Elite. French winger Kingsley Coman has been confirmed as absent with a ...",
+   "t": 1795780443.1156354
+  },
+  {
+   "h": "كومان كلمة السر.. سيناريو مُكرر يصدم النصر السعودي — تلقى النصر ضربة جديدة قبل استكمال مشواره في دوري روشن السعودي ودوري أبطال آسيا للنخبة، بعدما تأكد غياب جناحه الفرنسي كينجسلي كومان بسبب إصابة عضلية ستبعده عن الملاعب قرابة شهر، لتضع الجهاز الفني بقياد ...",
+   "t": 1795780445.2312489
+  },
+  {
+   "h": "Jão Félix aceita ficar mais dois anos no Al Nassr. Contrato é milionário — O extraordinário desempenho de João Félix desde que chegou ao Al Nassr, no verão de 2025, está prestes a ser recompensado. Segundo o jornal saudita \"Al Riyadiyah\", o gigante de Riade reuniu na ...",
+   "t": 1795780446.864883
   }
  ],
  "x_user_ids": {
