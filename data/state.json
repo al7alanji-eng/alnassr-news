@@ -1,8 +1,6 @@
 {
- "last_run": 1795773024.4592545,
+ "last_run": 1795776764.5992205,
  "seen": {
-  "a01d1c57f14c2abf": 1795171365.6140797,
-  "486124c48a3de822": 1795171367.3157287,
   "70db18dcd8ca356a": 1795174882.7444706,
   "d1c379819688ada3": 1795174883.721444,
   "2bd8061c2aca501e": 1795178668.6553578,
@@ -517,11 +515,13 @@
   "1958bb15ac5d5fde": 1795769113.2780418,
   "8eb1e248ae2e8fe2": 1795769115.5176787,
   "8c8bb36036619c60": 1795773020.8257403,
-  "4e4ff77f0f260f6a": 1795773022.7759523
+  "4e4ff77f0f260f6a": 1795773022.7759523,
+  "9064707ce56fdd7f": 1795776755.399386,
+  "e42f27af28935f06": 1795776757.9397619,
+  "bdcb13b432d013be": 1795776759.4086385,
+  "53aea13d95f18fcb": 1795776760.8516335
  },
  "titles": {
-  "9b6136d6484f4a8c": 1795171365.6140797,
-  "d3acc48604833a82": 1795171367.3157287,
   "63e06b339da69827": 1795174882.7444706,
   "dab92dd3aaa2841e": 1795174883.721444,
   "221b17d9da93fa0e": 1795178668.6553578,
@@ -1036,25 +1036,13 @@
   "80343d2a27e4ddf1": 1795769113.2780418,
   "61cbbba9710f21cb": 1795769115.5176787,
   "a7c2c785e5d3e6a3": 1795773020.8257403,
-  "14ca29cdd9186d3a": 1795773022.7759523
+  "14ca29cdd9186d3a": 1795773022.7759523,
+  "1384bd393b770df8": 1795776755.399386,
+  "34ccb287aefcfc69": 1795776757.9397619,
+  "2840c11a3075080f": 1795776759.4086385,
+  "f933708560ab423b": 1795776760.8516335
  },
  "recent": [
-  {
-   "h": "¿Cristiano Ronaldo y André-Pierre Gignac jugando juntos? Esto reveló el francés tras su salida de Tigres — ¿Cristiano Ronaldo y André-Pierre Gignac jugando juntos? Esto reveló el francés tras su salida de Tigres MARCA",
-   "t": 1795698774.2612212
-  },
-  {
-   "h": "الليلة.. فيسينج يعتمد الأجانب الثمانية — الليلة.. فيسينج يعتمد الأجانب الثمانية صحيفة الرياضية",
-   "t": 1795698778.027772
-  },
-  {
-   "h": "ترتيب هدافي الدوري السعودي قبل الجولة 13.. رونالدو بعيد عن توني المتصدر — ترتيب هدافي الدوري السعودي قبل الجولة 13.. رونالدو بعيد عن توني المتصدر يلاكورة",
-   "t": 1795698779.2778945
-  },
-  {
-   "h": "من إسقاط ميسي لمقصية رونالدو وفيليكس .. النصر يستحق جائزة بوشكاش ولكن لا تنتظروا معجزة إبراهيموفيتش! — من إسقاط ميسي لمقصية رونالدو وفيليكس .. النصر يستحق جائزة بوشكاش ولكن لا تنتظروا معجزة إبراهيموفيتش! Goal.com",
-   "t": 1795698781.3102334
-  },
   {
    "h": "النصر السعودي يجدد عقد جواو فيليكس حتى 2029 — النصر السعودي يجدد عقد جواو فيليكس حتى 2029 بطولات",
    "t": 1795698782.5964448
@@ -1278,6 +1266,22 @@
   {
    "h": "رابطة المحترفين تحسم موقفها من أزمة جواو فيليكس.. هل يحصل النصر على استثناء؟ — رابطة المحترفين تحسم موقفها من أزمة جواو فيليكس.. هل يحصل النصر على استثناء؟ Kooora",
    "t": 1795773023.2126646
+  },
+  {
+   "h": "La Liga Profesional Saudí fija su postura sobre el caso João Félix: ¿tendrá el Al Nassr una excepción? — La Liga Profesional Saudí fija su postura sobre el caso João Félix: ¿tendrá el Al Nassr una excepción? Goal.com",
+   "t": 1795776756.5019975
+  },
+  {
+   "h": "Suudi Pro Lig, Joao Felix krizinde tavrını netleştirdi: Al Nassr'a istisna yapılacak mı? — Suudi Pro Lig sözcüsü Omar Batterjee, Al Nassr'ın yıldızı Portekizli Joao Felix'in sözleşme uzatma krizine ilişkin ligin tutumunu açıkladı. Başkent ekibi oyuncuyu önümüzdeki yıllarda da kadrosunda tut ...",
+   "t": 1795776758.4379296
+  },
+  {
+   "h": "Saudi Pro League make their position clear on João Félix crisis: will Al-Nassr get an exception? — Omar Batarji, the official spokesperson for the Saudi Pro League, has revealed the league's position on the crisis surrounding a contract extension for Al-Nassr star João Félix. The Riyadh club want ...",
+   "t": 1795776759.9591463
+  },
+  {
+   "h": "Liga Profissional Saudita define posição sobre o caso João Félix: o Al-Nassr terá uma exceção? — Omar Batterjee, porta-voz oficial da Liga Profissional Saudita, revelou a posição da entidade sobre o impasse na renovação de contrato do português João Félix, astro do Al-Nassr. O clube da capital qu ...",
+   "t": 1795776763.3845735
   }
  ],
  "x_user_ids": {
