@@ -1,12 +1,6 @@
 {
- "last_run": 1795869567.110612,
+ "last_run": 1795873899.9410295,
  "seen": {
-  "8ba2635b41335add": 1795268216.6086528,
-  "6b320240667db4db": 1795268218.068948,
-  "2a1b3e59a0d134e4": 1795268219.893014,
-  "ac9d58c27ef9e405": 1795268224.66873,
-  "96a2d22154292c8d": 1795268225.76233,
-  "35127c1109bdfbe6": 1795268229.3444724,
   "65f8ada33ccba001": 1795271495.133618,
   "980d758a8c554f88": 1795271498.6723683,
   "869b2428f74928a6": 1795271500.5141144,
@@ -492,15 +486,15 @@
   "c9f3a8778cbac221": 1795869561.6422606,
   "39ec21926a64a60e": 1795869562.7063115,
   "b081ba431dc63b42": 1795869563.629482,
-  "453f6a92f0ea35a1": 1795869565.5343246
+  "453f6a92f0ea35a1": 1795869565.5343246,
+  "7e8894b27241e445": 1795873890.6654124,
+  "90af2fc7f0593ec7": 1795873891.56315,
+  "207a52f05b374e72": 1795873893.1816008,
+  "e92c4cd6a0c6d4af": 1795873894.3775723,
+  "bb9bd40ba668faa4": 1795873895.9995325,
+  "57a040099b8766b7": 1795873897.0742238
  },
  "titles": {
-  "0cf49acc4be792ea": 1795268216.6086528,
-  "855dfac5bf6e8989": 1795268218.068948,
-  "804263f427ca15be": 1795268219.893014,
-  "86e4354f504aabd6": 1795268224.66873,
-  "89a2f794e1a97e59": 1795268225.76233,
-  "85b1c44c71b279e8": 1795268229.3444724,
   "65d3caa2e38506a1": 1795271495.133618,
   "cce6bf36b50f3577": 1795271498.6723683,
   "ef7ed1227a9771f0": 1795271500.5141144,
@@ -986,33 +980,15 @@
   "0fd8948e37cad810": 1795869561.6422606,
   "a3530836db687e4e": 1795869562.7063115,
   "db6a74e20bce3a60": 1795869563.629482,
-  "65b6545320b22c63": 1795869565.5343246
+  "65b6545320b22c63": 1795869565.5343246,
+  "d46bd855966e2d85": 1795873890.6654124,
+  "358c92c0a65e913d": 1795873891.56315,
+  "0b5b0f2a4a304749": 1795873893.1816008,
+  "6cf01be87a6a82fd": 1795873894.3775723,
+  "33b0cc8b04595a43": 1795873895.9995325,
+  "e948c0ae4bd5d425": 1795873897.0742238
  },
  "recent": [
-  {
-   "h": "فايغل: سنواجه النصر بهدف الفوز... وبدلاء القادسية يصنعون الفارق — فايغل: سنواجه النصر بهدف الفوز... وبدلاء القادسية يصنعون الفارق الشرق الأوسط",
-   "t": 1795805551.564721
-  },
-  {
-   "h": "السلطان رئيساً لنادي النصر حتى ديسمبر... ورونالدو يتقدم التدريبات — السلطان رئيساً لنادي النصر حتى ديسمبر... ورونالدو يتقدم التدريبات الشرق الأوسط",
-   "t": 1795805555.1109617
-  },
-  {
-   "h": "رونالدو في وداع البرتغال: الأرقام تُحطّم... والقلوب لا تنسى — رونالدو في وداع البرتغال: الأرقام تُحطّم... والقلوب لا تنسى الشرق الأوسط",
-   "t": 1795805557.7341406
-  },
-  {
-   "h": "Rodgers admite: «Advertí a los jugadores del Al Qadsiah ante el Al Fayha por el Al Nassr» — Rodgers admite: «Advertí a los jugadores del Al Qadsiah ante el Al Fayha por el Al Nassr» Goal.com",
-   "t": 1795809312.4744012
-  },
-  {
-   "h": "Recital de 'Cristianinho': doblete, gol de falta y celebración a lo CR7 pensando en el gol 1.000 — Recital de 'Cristianinho': doblete, gol de falta y celebración a lo CR7 pensando en el gol 1.000 MARCA",
-   "t": 1795809313.8647027
-  },
-  {
-   "h": "Rodgers admits he warned Al-Qadsiah players against Al-Fayha because of Al-Nassr — Rodgers admits he warned Al-Qadsiah players against Al-Fayha because of Al-Nassr Goal.com",
-   "t": 1795809318.9242136
-  },
   {
    "h": "Tras Coman, el Al Nassr pierde a otro extranjero para el duelo ante el Al Hazm — Tras Coman, el Al Nassr pierde a otro extranjero para el duelo ante el Al Hazm Goal.com",
    "t": 1795809320.4184618
@@ -1228,12 +1204,36 @@
   {
    "h": "Postecoglou Buka Kartu: Ronaldo dan Felix Pimpin Al-Nassr Hadapi Al-Hazm — Pelatih asal Australia, Ange Postecoglou, selaku pelatih kepala Al-Nassr, mengumumkan susunan pemain inti yang akan diturunkan timnya saat bertandang ke markas tuan rumah Al-Hazm hari ini, Sabtu, 28 N ...",
    "t": 1795869566.341502
+  },
+  {
+   "h": "حبيبنا علي شكراً على نقل التصريح وهو امتداد لتميزك في نقل الاحداث بصورة مختلفة. — حبيبنا علي شكراً على نقل التصريح وهو امتداد لتميزك في نقل الاحداث بصورة مختلفة.\n\nحديث جواو واضح لم يتم حسم الملف حتى الآن والعقد تفعيله ليس تلقائيا ، وكذلك نفى معلومة الاجتماع وإبلاغه بالاستمرار.\n\nختاماً:\nأنا ما يهمني إث",
+   "t": 1795873890.854204
+  },
+  {
+   "h": "Historic record: Al-Nassr write their name in gold in the Saudi Pro League — Historic record: Al-Nassr write their name in gold in the Saudi Pro League Goal.com",
+   "t": 1795873892.214414
+  },
+  {
+   "h": "Video: historic record as Al-Nassr write their name in gold in the Roshn Saudi League — Video: historic record as Al-Nassr write their name in gold in the Roshn Saudi League Goal.com",
+   "t": 1795873893.606604
+  },
+  {
+   "h": "Récord histórico: el Al-Nassr escribe su nombre con letras de oro en la Liga Roshn — Récord histórico: el Al-Nassr escribe su nombre con letras de oro en la Liga Roshn Goal.com",
+   "t": 1795873895.203067
+  },
+  {
+   "h": "En vídeo: Al Nassr escribe su nombre con letras de oro en la Liga Roshn con un récord histórico — En vídeo: Al Nassr escribe su nombre con letras de oro en la Liga Roshn con un récord histórico Goal.com",
+   "t": 1795873896.2933424
+  },
+  {
+   "h": "Felix lifts the lid on Ronaldo and sets a deadline for his Al-Nassr future — Felix lifts the lid on Ronaldo and sets a deadline for his Al-Nassr future Goal.com",
+   "t": 1795873899.1740923
   }
  ],
  "x_user_ids": {
   "saadlegal2030": "2002440037972230144"
  },
  "x_since_ids": {
-  "saadlegal2030": "2125977499247259675"
+  "saadlegal2030": "2126674104774193312"
  }
 }
