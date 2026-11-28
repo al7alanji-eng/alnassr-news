@@ -1,12 +1,6 @@
 {
- "last_run": 1795836382.100927,
+ "last_run": 1795840370.4849122,
  "seen": {
-  "0527c3ee42b262be": 1795232875.7341554,
-  "3721828ea3fc203b": 1795232877.1137798,
-  "76077d26405ef7dc": 1795232881.3713982,
-  "dda65d9b2879019b": 1795232883.599459,
-  "b2d9bd2dce3ad250": 1795232886.7798336,
-  "965d6f55471d7e16": 1795232887.960692,
   "79a162a4b75a07bf": 1795236712.1072745,
   "7178823ee067fd94": 1795236713.6206694,
   "3d6888c7ec92a912": 1795236715.2531831,
@@ -509,15 +503,11 @@
   "e7ecf742073a922a": 1795832594.2570622,
   "a23b49c409314e3b": 1795832595.676499,
   "f3bbed17db767b73": 1795832598.6693165,
-  "00947aa8264a7e4e": 1795836378.8614576
+  "00947aa8264a7e4e": 1795836378.8614576,
+  "8578da19841dd01c": 1795840364.5827756,
+  "d9828b5efde8bb38": 1795840367.5807133
  },
  "titles": {
-  "2507f09b56f2e998": 1795232875.7341554,
-  "7fb813493d789c17": 1795232877.1137798,
-  "e973c1ff21426ac0": 1795232881.3713982,
-  "6dbee12444ec2b75": 1795232883.599459,
-  "069162eb39ea5cde": 1795232886.7798336,
-  "a0cfce9ed6e3ad42": 1795232887.960692,
   "11b6ed6800855eae": 1795236712.1072745,
   "ba6c2d278521e115": 1795236713.6206694,
   "487983b326a93fa4": 1795236715.2531831,
@@ -1020,17 +1010,11 @@
   "50a2cb9e6525c99b": 1795832594.2570622,
   "5be7e899adb636a2": 1795832595.676499,
   "6000b8fc00695e86": 1795832598.6693165,
-  "9c2660a92b768a1b": 1795836378.8614576
+  "9c2660a92b768a1b": 1795836378.8614576,
+  "d6fdd14fa35a421f": 1795840364.5827756,
+  "ed438b44a59d6c37": 1795840367.5807133
  },
  "recent": [
-  {
-   "h": "João Félix aceita ficar mais dois anos no Al Nassr. Contrato é milionário — O extraordinário desempenho de João Félix desde que chegou ao Al Nassr, no verão de 2025, está prestes a ser recompensado. Segundo o jornal saudita \"Al Riyadiyah\", o gigante de Riade reuniu na ...",
-   "t": 1795784790.5777814
-  },
-  {
-   "h": "Carlos Tevez plots dream Lionel Messi and Cristiano Ronaldo reunion at La Bombonera farewell as Argentine icon reveals wild Fuerte Apache plan — Carlos Tevez plots dream Lionel Messi and Cristiano Ronaldo reunion at La Bombonera farewell as Argentine icon reveals wild Fuerte Apache plan Goal.com",
-   "t": 1795789702.8446252
-  },
   {
    "h": "Watch Al Hazem vs Al Nassr FC live today: Who is broadcasting the match on TV and via live stream? — Watch Al Hazem vs Al Nassr FC live today: Who is broadcasting the match on TV and via live stream? Goal.com",
    "t": 1795789705.1300724
@@ -1262,6 +1246,14 @@
   {
    "h": "ماني يقود النصر لريمونتادا مُثيرة أمام الاتفاق — ماني يقود النصر لريمونتادا مُثيرة أمام الاتفاق الشرق الأوسط",
    "t": 1795836380.7996733
+  },
+  {
+   "h": "رونالدو يخلع قميص الأحلام البرتغالية — رونالدو يخلع قميص الأحلام البرتغالية الشرق الأوسط",
+   "t": 1795840366.6958563
+  },
+  {
+   "h": "الكونغو تفاجئ العالم وتحبط برتغال رونالدو بالتعادل — الكونغو تفاجئ العالم وتحبط برتغال رونالدو بالتعادل الشرق الأوسط",
+   "t": 1795840369.3096697
   }
  ],
  "x_user_ids": {
